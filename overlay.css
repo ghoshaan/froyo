@@ -1,0 +1,343 @@
+/* Scoped only to the overlay container */
+#flightOverlay {
+    position: fixed;
+    top: 140px;
+    left: 140px;
+    width: 360px;
+    background: #111;
+    color: #ddd;
+    border-radius: 12px;
+    border: 1px solid #333;
+    font-family: system-ui, -apple-system, sans-serif;
+    box-shadow: 0 12px 40px rgba(0,0,0,0.7);
+    z-index: 9999999;
+    overflow: hidden;
+min-width: 180px; 
+    container-type: inline-size; /* Add this line to enable container queries */
+    display: flex;
+    flex-direction: column;
+max-height: 95vh;
+    height: auto; /* Allow the window to shrink when body is hidden */
+}
+
+/* Only apply min-height when NOT minimized to prevent the "black box" look */
+#flightOverlay:not(.minimized) {
+    min-height: 150px;
+}
+
+/* Resize Handles */
+.resizer {
+    position: absolute;
+    background: transparent;
+    z-index: 10000000;
+}
+.resizer-r { cursor: e-resize; width: 8px; right: 0; top: 0; bottom: 0; }
+.resizer-b { cursor: s-resize; height: 8px; left: 0; right: 0; bottom: 0; }
+.resizer-rb { cursor: se-resize; width: 12px; height: 12px; right: 0; bottom: 0; }
+
+/* Header styles */
+#flightOverlay #overlayHeader {
+    padding: 6px 10px;
+    background: #1a1a1a;
+    border-bottom: 1px solid #333;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: move;
+    flex-shrink: 0;
+}
+
+#flightOverlay #depTimeHeader {
+    font-size: 11px;
+    font-weight: 600;
+    color: #aaa;
+}
+
+#flightOverlay #depDateHeader {
+    font-family: monospace;
+    font-size: 10px; /* Increased from 8px */
+    color: #492ced;
+}
+
+#flightOverlay .nav-btn {
+    background: none;
+    border: none;
+    color: #492ced;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 0 4px;
+}
+
+#flightOverlay #closeBtn {
+    background: none;
+    border: none;
+    color: #888;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+/* Body Content */
+#flightOverlay #overlayBody { 
+    padding: 12px; 
+    display: flex;
+    flex-direction: column;
+    /* This allows the body to take up all space between header and footer */
+    flex: 1; 
+    overflow-y: auto; /* Enable scrolling on the body */
+}
+#flightOverlay .input-group { 
+    margin-bottom: 8px; 
+    display: flex;
+    gap: 4px;
+    align-items: center;
+}
+
+#flightOverlay input[type="text"] {
+    flex: 1; /* Makes input fill available width */
+    min-width: 0; /* Essential for Flexbox shrinking */
+    padding: 6px 8px;
+    background: #1a1a1a;
+    border: 1px solid #333;
+    border-radius: 6px;
+    color: #fff;
+    font-size: 12px;
+}
+
+#flightOverlay .small-btn {
+    flex-shrink: 0; /* Prevents the 'P' button from squishing */
+    width: 30px;
+    height: 30px;
+    background: #333;
+    color: #eee;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 11px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#flightOverlay #fetchBtn {
+    width: 100%;
+    padding: 8px;
+    background: #492ced;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-weight: 500;
+    cursor: pointer;
+    font-size: 12px;
+    margin-top: 4px;
+}
+
+#flightOverlay #routeOutput {
+    margin-top: 12px;
+    background: #090909;
+    border-radius: 8px;
+    border: 1px solid #222;
+    min-height: 50px; /* Keeps it from disappearing entirely */
+}
+#flightOverlay .routeToken {
+    padding: 10px 12px;
+    border-bottom: 1px solid #1a1a1a;
+    font-family: monospace;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+/* Update this block in overlay.css */
+#flightOverlay .routeToken a {
+    color: #586bff;
+    text-decoration: none;
+}
+
+/* Force all text to white when a token has a frequency-coloured background */
+#flightOverlay .routeToken.freq-token,
+#flightOverlay .routeToken.freq-token a,
+#flightOverlay .routeToken.freq-token span {
+    color: #fff !important;
+}
+#flightOverlay .routeToken.freq-token .track-data,
+#flightOverlay .routeToken.freq-token .selectable-info {
+    color: rgba(255,255,255,0.55) !important;
+}
+/* Footer Section */
+#footerActions {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #222;
+    padding-top: 8px;
+    flex-shrink: 0;
+}
+
+#footerActions a {
+    font-size: 11px; /* Increased from 10px */
+    color: #586bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#footerActions #nowBtn {
+    background: none;
+    border: none;
+    color: #586bff;
+    font-size: 11px;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 0;
+}
+
+#footerActions #clearBtn {
+    background: none;
+    border: none;
+    color: #f85149;
+    font-size: 11px; /* Increased from 10px */
+    cursor: pointer;
+}
+
+/* States */
+#flightOverlay .hidden { 
+    display: none !important; 
+}
+
+#flightOverlay .routeToken.copied::after {
+    content: 'COPIED';
+    position: absolute;
+    right: 15px;
+    font-size: 10px; /* Increased from 9px */
+    color: #006366;
+    font-weight: bold;
+}
+/* Flash animation */
+@keyframes blue-flash {
+    0% { border-color: #333; box-shadow: 0 0 0px #492ced; }
+    50% { border-color: #492ced; box-shadow: 0 0 8px #492ced; }
+    100% { border-color: #333; box-shadow: 0 0 0px #492ced; }
+}
+
+#flightOverlay .input-flash {
+    animation: blue-flash 0.6s ease-out;
+}
+/* Hide detailed info when the overlay is compressed to its shortest width */
+@container (max-width: 220px) {
+    .selectable-info {
+        display: none !important;
+    }
+}
+
+/* Fallback using standard media queries if container queries aren't supported */
+@media screen and (max-width: 220px) {
+    #flightOverlay .selectable-info {
+        display: none !important;
+    }
+}
+#flightOverlay #datePicker,
+#flightOverlay #timePicker,
+#flightOverlay #timezoneSelect {
+    padding: 6px;
+    background: #1a1a1a;
+    border: 1px solid #333;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 12px;
+    color-scheme: dark; /* This is vital for the calendar popup to be dark */
+}
+
+#flightOverlay #datePicker,
+#flightOverlay #timePicker {
+    margin-top: 5px;
+}
+
+#flightOverlay #timezoneSelect {
+    margin-top: 2px;
+}
+/* Add this to overlay.css */
+#flightOverlay .filtered-out {
+    display: none !important;
+}
+
+#flightOverlay #routeSearch {
+    border-color: #444;
+    background: #090909;
+}
+#controlsSection {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Ensure search bar fits nicely below tabs */
+#routeSearch {
+    margin-bottom: 5px;
+}
+
+/* Change this block */
+.tab-pane {
+    flex: 1;            /* This makes it grow to fill the window */
+    display: none;      /* Hidden by default */
+    /* DELETE height: 300px; */
+}
+
+.tab-pane.active {
+    display: flex;      /* Shows the active tab and keeps flex behavior */
+    flex-direction: column;
+}
+/* Increase font sizes by 2px when .large-text is active */
+#flightOverlay.large-text #depDateHeader { font-size: 12px !important; }
+#flightOverlay.large-text #depTimeHeader { font-size: 13px !important; }
+#flightOverlay.large-text input[type="text"],
+#flightOverlay.large-text #datePicker,
+#flightOverlay.large-text #timePicker,
+#flightOverlay.large-text #timezoneSelect,
+#flightOverlay.large-text #fetchBtn,
+#flightOverlay.large-text .routeToken { font-size: 14px !important; }
+#flightOverlay.large-text #footerActions a,
+#flightOverlay.large-text #clearBtn { font-size: 13px !important; }
+#flightOverlay.large-text .registration-panel,
+#flightOverlay.large-text .aircraft-type-panel { font-size: 14px !important; }
+#flightOverlay.large-text .registration-panel div:first-child,
+#flightOverlay.large-text .aircraft-type-panel div:first-child { font-size: 12px !important; }
+#flightOverlay.large-text .track-data { font-size: 14px !important; }
+
+/* The new fixes */
+#flightOverlay.large-text [id^="nav-name-"] { font-size: 14px !important; }
+#flightOverlay.large-text .selectable-info { font-size: 13px !important; }
+
+/* --- Sidepanel Mode Overrides --- */
+#flightOverlay.sidepanel-mode {
+    position: relative !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100vh !important;
+    max-height: 100vh !important;
+    border: none !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+}
+
+/* Visibility toggles for launch/close buttons */
+/* Visibility toggles for launch/close/sidepanel buttons */
+#flightOverlay #launchOverlayBtn {
+    display: none !important;
+}
+#flightOverlay #launchSidepanelBtn {
+    display: block !important;
+}
+#flightOverlay #closeBtn {
+    display: block !important;
+}
+
+#flightOverlay.sidepanel-mode #launchOverlayBtn {
+    display: block !important;
+}
+#flightOverlay.sidepanel-mode #launchSidepanelBtn {
+    display: none !important;
+}
+#flightOverlay.sidepanel-mode #closeBtn {
+    display: none !important;
+}

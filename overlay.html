@@ -1,0 +1,96 @@
+<div id="flightOverlay">
+<div id="overlayHeader">
+    <div style="display:flex; align-items:center; gap:4px;">
+        <button id="prevFlight" class="nav-btn">←</button>
+        <div style="display:flex; flex-direction:column; line-height:1;">
+            <span id="depDateHeader">DATE</span>
+            <span id="depTimeHeader">0000Z</span>
+        </div>
+        <button id="nextFlight" class="nav-btn">→</button>
+    </div>
+    <div style="display:flex; align-items:center; gap:8px;">
+    <button id="launchOverlayBtn" class="nav-btn" style="font-size: 12px;" title="Launch Floating Overlay">⧉</button>
+    <button id="launchSidepanelBtn" class="nav-btn" style="font-size: 12px;" title="Open Sidepanel">◫</button>
+    <button id="toggleControlsBtn" class="nav-btn" style="font-size: 12px;">▲</button>
+    <button id="textSizeBtn" class="nav-btn" style="font-size: 12px; font-weight: bold;">A+</button>
+    <button id="closeBtn">×</button>
+</div>
+</div>
+
+    <div id="overlayBody">
+        <div id="loginPromptBanner" style="background: rgba(73, 44, 237, 0.15); border: 1px solid var(--accent); border-radius: 6px; padding: 8px 10px; margin-bottom: 8px; display: flex; flex-direction: column; gap: 4px; font-size: 11px;">
+            <div style="display: flex; justify-content: space-between; align-items: center; font-weight: bold; color: #fff;">
+                <span>Welcome to Froyo!</span>
+                <button id="closeLoginPrompt" style="background: none; border: none; color: #aaa; cursor: pointer; font-size: 12px; padding: 0; line-height: 1;">×</button>
+            </div>
+            <span style="color: #ccc;">To access full history, make sure you are logged in to FlightAware.</span>
+            <a href="https://login.flightaware.com/signin" target="_blank" style="color: var(--accent); text-decoration: underline; font-weight: bold; margin-top: 2px;">Log in to FlightAware</a>
+        </div>
+        <div class="input-group">
+            <input type="text" id="flightInput" placeholder="Callsign">
+            <button id="suggestionToggle" class="small-btn" style="font-size: 14px; padding: 4px 6px; color: var(--accent); background: none; border: none; cursor: pointer; display: none;">▼</button>
+            <button id="pasteFlightBtn" class="small-btn">P</button>
+        </div>
+        <div class="input-group">
+            <input type="text" id="gkInput" placeholder="Get date from LiveATC archive" style="flex: 1;">
+            <button id="grabGkBtn" class="small-btn" style="background: var(--accent); font-weight: bold;" title="Grab from Page">G</button>
+            <button id="pasteGKBtn" class="small-btn" title="Paste from Clipboard">P</button>
+            <button id="adsbReplayBtn" class="small-btn" style="background: #796eb5; color: #fff; font-weight: bold; width: 45px; font-size: 10px;" title="Open ADSB Replay">ADSB</button>
+        </div>
+<div class="input-group">
+    <input type="date" id="datePicker" style="flex: 1.2;">
+    <input type="time" id="timePicker" style="flex: 0.8;">
+</div>
+<div class="input-group">
+    <select id="timezoneSelect" style="width: 100%;">
+        <option value="-720">UTC -12</option>
+        <option value="-660">UTC -11 (SST)</option>
+        <option value="-600">UTC -10 (HST)</option>
+        <option value="-540">UTC -9 (AKST)</option>
+        <option value="-480">UTC -8 (PST)</option>
+        <option value="-420">UTC -7 (PDT / MST)</option>
+        <option value="-360">UTC -6 (CST / MDT)</option>
+        <option value="-300">UTC -5 (EST / CDT)</option>
+        <option value="-240">UTC -4 (EDT / AST)</option>
+        <option value="-180">UTC -3 (ADT / ART / BRT)</option>
+        <option value="-120">UTC -2</option>
+        <option value="-60">UTC -1</option>
+        <option value="0" selected>UTC +0 (GMT / UTC / WET)</option>
+        <option value="60">UTC +1 (CET / BST / WEST)</option>
+        <option value="120">UTC +2 (CEST / EET)</option>
+        <option value="180">UTC +3 (MSK / EEST / EAT)</option>
+        <option value="210">UTC +3.5 (IRST)</option>
+        <option value="240">UTC +4 (GST / AZT)</option>
+        <option value="270">UTC +4.5 (AFT)</option>
+        <option value="300">UTC +5 (PKT / UZT)</option>
+        <option value="330">UTC +5.5 (IST)</option>
+        <option value="345">UTC +5.75 (NPT)</option>
+        <option value="360">UTC +6 (BST / ALMT)</option>
+        <option value="390">UTC +6.5 (MMT)</option>
+        <option value="420">UTC +7 (WIB / ICT)</option>
+        <option value="480">UTC +8 (SGT / CST / AWST)</option>
+        <option value="540">UTC +9 (JST / KST)</option>
+        <option value="570">UTC +9.5 (ACST)</option>
+        <option value="600">UTC +10 (AEST)</option>
+        <option value="630">UTC +10.5 (ACDT)</option>
+        <option value="660">UTC +11 (AEDT / SRET)</option>
+        <option value="720">UTC +12 (NZST / FJT)</option>
+        <option value="765">UTC +12.75 (CHAST)</option>
+        <option value="780">UTC +13 (NZDT / TKT)</option>
+        <option value="840">UTC +14 (LINT)</option>
+    </select>
+</div>
+        <button id="fetchBtn">Fetch</button>
+        <div id="routeOutput"></div>
+        
+        <div id="footerActions">
+            <a id="faLink" href="#" target="_blank">View on FA</a>
+            <button id="nowBtn">Now</button>
+            <button id="clearBtn">Clear All</button>
+        </div>
+    </div>
+
+    <div class="resizer resizer-r" id="resizer-r"></div>
+    <div class="resizer resizer-b" id="resizer-b"></div>
+    <div class="resizer resizer-rb" id="resizer-rb"></div>
+</div>

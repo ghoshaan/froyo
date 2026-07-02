@@ -1,0 +1,8342 @@
+[
+  {
+    "ident": "ADK",
+    "name": "MOUNT MOFFETT"
+  },
+  {
+    "ident": "AKN",
+    "name": "KING SALMON"
+  },
+  {
+    "ident": "AKW",
+    "name": "KLAWOCK"
+  },
+  {
+    "ident": "ANN",
+    "name": "ANNETTE ISLAND"
+  },
+  {
+    "ident": "BER",
+    "name": "ADAK"
+  },
+  {
+    "ident": "BET",
+    "name": "BETHEL"
+  },
+  {
+    "ident": "BGQ",
+    "name": "BIG LAKE"
+  },
+  {
+    "ident": "BIG",
+    "name": "BIG DELTA"
+  },
+  {
+    "ident": "BKA",
+    "name": "BIORKA ISLAND"
+  },
+  {
+    "ident": "BRW",
+    "name": "BARROW"
+  },
+  {
+    "ident": "BTT",
+    "name": "BETTLES"
+  },
+  {
+    "ident": "CDB",
+    "name": "COLD BAY"
+  },
+  {
+    "ident": "CZF",
+    "name": "CAPE ROMANZOF"
+  },
+  {
+    "ident": "DGG",
+    "name": "RED DOG"
+  },
+  {
+    "ident": "DLG",
+    "name": "DILLINGHAM"
+  },
+  {
+    "ident": "DUT",
+    "name": "DUTCH HARBOR"
+  },
+  {
+    "ident": "EDF",
+    "name": "ELMENDORF"
+  },
+  {
+    "ident": "EHM",
+    "name": "CAPE NEWENHAM"
+  },
+  {
+    "ident": "EIL",
+    "name": "EIELSON"
+  },
+  {
+    "ident": "ENA",
+    "name": "KENAI"
+  },
+  {
+    "ident": "ENM",
+    "name": "EMMONAK"
+  },
+  {
+    "ident": "ENN",
+    "name": "NENANA"
+  },
+  {
+    "ident": "FAI",
+    "name": "FAIRBANKS"
+  },
+  {
+    "ident": "FYU",
+    "name": "FORT YUKON"
+  },
+  {
+    "ident": "GAL",
+    "name": "GALENA"
+  },
+  {
+    "ident": "GAM",
+    "name": "GAMBELL"
+  },
+  {
+    "ident": "GKN",
+    "name": "GULKANA"
+  },
+  {
+    "ident": "HBT",
+    "name": "BORLAND"
+  },
+  {
+    "ident": "HOM",
+    "name": "HOMER"
+  },
+  {
+    "ident": "HPB",
+    "name": "HOOPER BAY"
+  },
+  {
+    "ident": "HSL",
+    "name": "HUSLIA"
+  },
+  {
+    "ident": "ILI",
+    "name": "ILIAMNA"
+  },
+  {
+    "ident": "JOH",
+    "name": "JOHNSTONE POINT"
+  },
+  {
+    "ident": "LUR",
+    "name": "CAPE LISBURNE"
+  },
+  {
+    "ident": "LVD",
+    "name": "LEVEL ISLAND"
+  },
+  {
+    "ident": "MCG",
+    "name": "MC GRATH"
+  },
+  {
+    "ident": "MDO",
+    "name": "MIDDLETON ISLAND"
+  },
+  {
+    "ident": "MOS",
+    "name": "MOSES POINT"
+  },
+  {
+    "ident": "ODK",
+    "name": "KODIAK"
+  },
+  {
+    "ident": "OME",
+    "name": "NOME"
+  },
+  {
+    "ident": "OQK",
+    "name": "NOATAK"
+  },
+  {
+    "ident": "ORT",
+    "name": "NORTHWAY"
+  },
+  {
+    "ident": "OTZ",
+    "name": "KOTZEBUE"
+  },
+  {
+    "ident": "PDN",
+    "name": "PORT HEIDEN"
+  },
+  {
+    "ident": "SCC",
+    "name": "DEADHORSE"
+  },
+  {
+    "ident": "SPY",
+    "name": "ST PAUL ISLAND"
+  },
+  {
+    "ident": "SQA",
+    "name": "SPARREVOHN"
+  },
+  {
+    "ident": "SRI",
+    "name": "PRIBILOF"
+  },
+  {
+    "ident": "SSR",
+    "name": "SISTERS ISLAND"
+  },
+  {
+    "ident": "SYA",
+    "name": "SHEMYA"
+  },
+  {
+    "ident": "TAL",
+    "name": "TANANA"
+  },
+  {
+    "ident": "TED",
+    "name": "ANCHORAGE"
+  },
+  {
+    "ident": "TKA",
+    "name": "TALKEETNA"
+  },
+  {
+    "ident": "TNC",
+    "name": "TIN CITY"
+  },
+  {
+    "ident": "TOG",
+    "name": "TOGIAK"
+  },
+  {
+    "ident": "ULL",
+    "name": "KUKULIAK"
+  },
+  {
+    "ident": "UNK",
+    "name": "UNALAKLEET"
+  },
+  {
+    "ident": "UTO",
+    "name": "UTOPIA CREEK"
+  },
+  {
+    "ident": "WLK",
+    "name": "SELAWIK"
+  },
+  {
+    "ident": "YAK",
+    "name": "YAKUTAT"
+  },
+  {
+    "ident": "YBC",
+    "name": "BAIE-COMEAU"
+  },
+  {
+    "ident": "YBR",
+    "name": "BRANDON"
+  },
+  {
+    "ident": "YDC",
+    "name": "PRINCETON"
+  },
+  {
+    "ident": "YIX",
+    "name": "SIOUX NARROWS"
+  },
+  {
+    "ident": "YJX",
+    "name": "BEAUCE"
+  },
+  {
+    "ident": "YOW",
+    "name": "OTTAWA"
+  },
+  {
+    "ident": "YQL",
+    "name": "LETHBRIDGE"
+  },
+  {
+    "ident": "YQT",
+    "name": "THUNDER BAY"
+  },
+  {
+    "ident": "YTS",
+    "name": "TIMMINS"
+  },
+  {
+    "ident": "YUC",
+    "name": "SAGUENAY"
+  },
+  {
+    "ident": "YUL",
+    "name": "MONTREAL"
+  },
+  {
+    "ident": "YVO",
+    "name": "VAL-D'OR"
+  },
+  {
+    "ident": "YVR",
+    "name": "VANCOUVER"
+  },
+  {
+    "ident": "YVV",
+    "name": "WIARTON"
+  },
+  {
+    "ident": "YWL",
+    "name": "WILLIAMS LAKE"
+  },
+  {
+    "ident": "YXC",
+    "name": "CRANBROOK"
+  },
+  {
+    "ident": "YXU",
+    "name": "LONDON"
+  },
+  {
+    "ident": "YXY",
+    "name": "WHITEHORSE"
+  },
+  {
+    "ident": "YYC",
+    "name": "CALGARY"
+  },
+  {
+    "ident": "YYJ",
+    "name": "VICTORIA"
+  },
+  {
+    "ident": "YYR",
+    "name": "GOOSE"
+  },
+  {
+    "ident": "YYY",
+    "name": "MONT JOLI"
+  },
+  {
+    "ident": "YYZ",
+    "name": "TORONTO"
+  },
+  {
+    "ident": "YZP",
+    "name": "SANDSPIT"
+  },
+  {
+    "ident": "YZT",
+    "name": "PORT HARDY"
+  },
+  {
+    "ident": "IBET",
+    "name": "BETHEL"
+  },
+  {
+    "ident": "IBIG",
+    "name": "ALLEN AAF"
+  },
+  {
+    "ident": "IBRW",
+    "name": "WILEY POST-WILL ROGERS M"
+  },
+  {
+    "ident": "ICDV",
+    "name": "MERLE K (MUDHOLE) SMITH"
+  },
+  {
+    "ident": "IDLG",
+    "name": "DILLINGHAM"
+  },
+  {
+    "ident": "IADQ",
+    "name": "KODIAK"
+  },
+  {
+    "ident": "IENA",
+    "name": "KENAI MUNI"
+  },
+  {
+    "ident": "ICNA",
+    "name": "FAIRBANKS INTL"
+  },
+  {
+    "ident": "IFAI",
+    "name": "FAIRBANKS INTL"
+  },
+  {
+    "ident": "IHOM",
+    "name": "HOMER"
+  },
+  {
+    "ident": "IJDL",
+    "name": "JUNEAU INTL"
+  },
+  {
+    "ident": "IAKN",
+    "name": "KING SALMON"
+  },
+  {
+    "ident": "IECH",
+    "name": "KETCHIKAN INTL"
+  },
+  {
+    "ident": "IRGN",
+    "name": "UGNU-KUPARUK"
+  },
+  {
+    "ident": "IRHF",
+    "name": "UGNU-KUPARUK"
+  },
+  {
+    "ident": "IMCG",
+    "name": "MC GRATH"
+  },
+  {
+    "ident": "IANC",
+    "name": "TED STEVENS ANCHORAGE IN"
+  },
+  {
+    "ident": "IBSC",
+    "name": "TED STEVENS ANCHORAGE IN"
+  },
+  {
+    "ident": "ITGN",
+    "name": "TED STEVENS ANCHORAGE IN"
+  },
+  {
+    "ident": "IANI",
+    "name": "ANIAK"
+  },
+  {
+    "ident": "IOME",
+    "name": "NOME"
+  },
+  {
+    "ident": "IOTZ",
+    "name": "RALPH WIEN MEML"
+  },
+  {
+    "ident": "IPSG",
+    "name": "PETERSBURG JAMES A JOHNS"
+  },
+  {
+    "ident": "ISCC",
+    "name": "DEADHORSE"
+  },
+  {
+    "ident": "ISIT",
+    "name": "SITKA ROCKY GUTIERREZ"
+  },
+  {
+    "ident": "ISMA",
+    "name": "ST MARY'S"
+  },
+  {
+    "ident": "IUNK",
+    "name": "UNALAKLEET"
+  },
+  {
+    "ident": "IVDZ",
+    "name": "VALDEZ PIONEER FLD"
+  },
+  {
+    "ident": "IRGL",
+    "name": "WRANGELL"
+  },
+  {
+    "ident": "ANU",
+    "name": "V. C. BIRD"
+  },
+  {
+    "ident": "BGI",
+    "name": "ADAMS"
+  },
+  {
+    "ident": "BQN",
+    "name": "BORINQUEN"
+  },
+  {
+    "ident": "CDO",
+    "name": "PUNTA CAUCEDO"
+  },
+  {
+    "ident": "COY",
+    "name": "ST CROIX"
+  },
+  {
+    "ident": "DEL",
+    "name": "DELICIAS"
+  },
+  {
+    "ident": "FOF",
+    "name": "MARTINIQUE"
+  },
+  {
+    "ident": "GTK",
+    "name": "GRAND TURK"
+  },
+  {
+    "ident": "JRV",
+    "name": "JOSE APONTE DE LA TORRE"
+  },
+  {
+    "ident": "MAM",
+    "name": "MATAMOROS"
+  },
+  {
+    "ident": "MAZ",
+    "name": "MAYAGUEZ"
+  },
+  {
+    "ident": "NRR",
+    "name": "ROOSEVELT ROADS"
+  },
+  {
+    "ident": "OBN",
+    "name": "OBLEON"
+  },
+  {
+    "ident": "PJM",
+    "name": "SAINT MAARTEN"
+  },
+  {
+    "ident": "PNA",
+    "name": "PUNTA CANA"
+  },
+  {
+    "ident": "PPR",
+    "name": "POINTE A PITRE"
+  },
+  {
+    "ident": "PTA",
+    "name": "PUERTO PLATA"
+  },
+  {
+    "ident": "PVN",
+    "name": "PROVIDENCIALES"
+  },
+  {
+    "ident": "REX",
+    "name": "REYNOSA"
+  },
+  {
+    "ident": "SJU",
+    "name": "SAN JUAN"
+  },
+  {
+    "ident": "STT",
+    "name": "ST THOMAS"
+  },
+  {
+    "ident": "TIJ",
+    "name": "TIJUANA"
+  },
+  {
+    "ident": "ITMN",
+    "name": "CYRIL E KING"
+  },
+  {
+    "ident": "ICEB",
+    "name": "JOSE APONTE DE LA TORRE"
+  },
+  {
+    "ident": "ICLA",
+    "name": "LUIS MUNOZ MARIN INTL"
+  },
+  {
+    "ident": "AWK",
+    "name": "WAKE ISLAND"
+  },
+  {
+    "ident": "CKH",
+    "name": "KOKO HEAD"
+  },
+  {
+    "ident": "HNL",
+    "name": "HONOLULU"
+  },
+  {
+    "ident": "ITO",
+    "name": "HILO"
+  },
+  {
+    "ident": "KOA",
+    "name": "KONA"
+  },
+  {
+    "ident": "LIH",
+    "name": "LIHUE"
+  },
+  {
+    "ident": "LNY",
+    "name": "LANAI"
+  },
+  {
+    "ident": "MAJ",
+    "name": "MAJURO"
+  },
+  {
+    "ident": "MKK",
+    "name": "MOLOKAI"
+  },
+  {
+    "ident": "MUE",
+    "name": "KAMUELA"
+  },
+  {
+    "ident": "NBS",
+    "name": "BARKING SANDS PMRF"
+  },
+  {
+    "ident": "NGF",
+    "name": "KANEOHE BAY"
+  },
+  {
+    "ident": "OGG",
+    "name": "MAUI"
+  },
+  {
+    "ident": "PNI",
+    "name": "POHNPEI"
+  },
+  {
+    "ident": "ROR",
+    "name": "KOROR"
+  },
+  {
+    "ident": "SOK",
+    "name": "SOUTH KAUAI"
+  },
+  {
+    "ident": "TKK",
+    "name": "TRUK"
+  },
+  {
+    "ident": "UAM",
+    "name": "ANDERSEN"
+  },
+  {
+    "ident": "UKS",
+    "name": "KOSRAE"
+  },
+  {
+    "ident": "UNZ",
+    "name": "NIMITZ"
+  },
+  {
+    "ident": "UPP",
+    "name": "UPOLU POINT"
+  },
+  {
+    "ident": "YP",
+    "name": "YAP"
+  },
+  {
+    "ident": "IGSN",
+    "name": "FRANCISCO C ADA/SAIPAN I"
+  },
+  {
+    "ident": "IAWD",
+    "name": "GUAM INTL"
+  },
+  {
+    "ident": "IGUM",
+    "name": "GUAM INTL"
+  },
+  {
+    "ident": "IKOA",
+    "name": "ELLISON ONIZUKA KONA INT"
+  },
+  {
+    "ident": "ILIH",
+    "name": "LIHUE"
+  },
+  {
+    "ident": "IEPC",
+    "name": "DANIEL K INOUYE INTL"
+  },
+  {
+    "ident": "IHNL",
+    "name": "DANIEL K INOUYE INTL"
+  },
+  {
+    "ident": "IIUM",
+    "name": "DANIEL K INOUYE INTL"
+  },
+  {
+    "ident": "ILNY",
+    "name": "LANAI"
+  },
+  {
+    "ident": "IOGG",
+    "name": "KAHULUI"
+  },
+  {
+    "ident": "IITO",
+    "name": "HILO INTL"
+  },
+  {
+    "ident": "TUT",
+    "name": "PAGO PAGO"
+  },
+  {
+    "ident": "ITUT",
+    "name": "PAGO PAGO INTL"
+  },
+  {
+    "ident": "AAT",
+    "name": "ALTURAS"
+  },
+  {
+    "ident": "ABI",
+    "name": "ABILENE"
+  },
+  {
+    "ident": "ABQ",
+    "name": "ALBUQUERQUE"
+  },
+  {
+    "ident": "ABR",
+    "name": "ABERDEEN"
+  },
+  {
+    "ident": "ACH",
+    "name": "ANTON CHICO"
+  },
+  {
+    "ident": "ACK",
+    "name": "NANTUCKET"
+  },
+  {
+    "ident": "ACO",
+    "name": "AKRON"
+  },
+  {
+    "ident": "ACT",
+    "name": "WACO"
+  },
+  {
+    "ident": "ACV",
+    "name": "ARCATA"
+  },
+  {
+    "ident": "ACY",
+    "name": "ATLANTIC CITY"
+  },
+  {
+    "ident": "ADM",
+    "name": "ARDMORE"
+  },
+  {
+    "ident": "ADW",
+    "name": "ANDREWS"
+  },
+  {
+    "ident": "AEL",
+    "name": "ALBERT LEA"
+  },
+  {
+    "ident": "AEX",
+    "name": "ALEXANDRIA"
+  },
+  {
+    "ident": "AGC",
+    "name": "ALLEGHENY"
+  },
+  {
+    "ident": "AGJ",
+    "name": "GOOCH SPRINGS"
+  },
+  {
+    "ident": "AHC",
+    "name": "AMEDEE"
+  },
+  {
+    "ident": "AHN",
+    "name": "ATHENS"
+  },
+  {
+    "ident": "AIA",
+    "name": "ALLIANCE"
+  },
+  {
+    "ident": "AIR",
+    "name": "BELLAIRE"
+  },
+  {
+    "ident": "AKO",
+    "name": "AKRON"
+  },
+  {
+    "ident": "ALB",
+    "name": "ALBANY"
+  },
+  {
+    "ident": "ALD",
+    "name": "ALLENDALE"
+  },
+  {
+    "ident": "ALI",
+    "name": "ALICE"
+  },
+  {
+    "ident": "ALO",
+    "name": "WATERLOO"
+  },
+  {
+    "ident": "ALS",
+    "name": "ALAMOSA"
+  },
+  {
+    "ident": "ALW",
+    "name": "WALLA WALLA"
+  },
+  {
+    "ident": "AMG",
+    "name": "ALMA"
+  },
+  {
+    "ident": "AML",
+    "name": "ARMEL"
+  },
+  {
+    "ident": "ANW",
+    "name": "AINSWORTH"
+  },
+  {
+    "ident": "ANX",
+    "name": "NAPOLEON"
+  },
+  {
+    "ident": "ANY",
+    "name": "ANTHONY"
+  },
+  {
+    "ident": "APE",
+    "name": "APPLETON"
+  },
+  {
+    "ident": "APN",
+    "name": "ALPENA"
+  },
+  {
+    "ident": "ARD",
+    "name": "YARDLEY"
+  },
+  {
+    "ident": "ARG",
+    "name": "WALNUT RIDGE"
+  },
+  {
+    "ident": "ARH",
+    "name": "FORT HUACHUCA"
+  },
+  {
+    "ident": "ART",
+    "name": "WATERTOWN"
+  },
+  {
+    "ident": "ASP",
+    "name": "AU SABLE"
+  },
+  {
+    "ident": "AST",
+    "name": "ASTORIA"
+  },
+  {
+    "ident": "ATR",
+    "name": "WATERLOO"
+  },
+  {
+    "ident": "ATY",
+    "name": "WATERTOWN"
+  },
+  {
+    "ident": "AUG",
+    "name": "AUGUSTA"
+  },
+  {
+    "ident": "AVE",
+    "name": "AVENAL"
+  },
+  {
+    "ident": "AXC",
+    "name": "ADDERS"
+  },
+  {
+    "ident": "AXN",
+    "name": "ALEXANDRIA"
+  },
+  {
+    "ident": "AYS",
+    "name": "WAYCROSS"
+  },
+  {
+    "ident": "AZO",
+    "name": "KALAMAZOO"
+  },
+  {
+    "ident": "AZQ",
+    "name": "HAZARD"
+  },
+  {
+    "ident": "BAB",
+    "name": "BEALE"
+  },
+  {
+    "ident": "BAD",
+    "name": "BARKSDALE"
+  },
+  {
+    "ident": "BAE",
+    "name": "BADGER"
+  },
+  {
+    "ident": "BAF",
+    "name": "BARNES"
+  },
+  {
+    "ident": "BAL",
+    "name": "BALTIMORE"
+  },
+  {
+    "ident": "BAM",
+    "name": "BATTLE MOUNTAIN"
+  },
+  {
+    "ident": "BCE",
+    "name": "BRYCE CANYON"
+  },
+  {
+    "ident": "BDA",
+    "name": "BERMUDA"
+  },
+  {
+    "ident": "BDE",
+    "name": "BAUDETTE"
+  },
+  {
+    "ident": "BDF",
+    "name": "BRADFORD"
+  },
+  {
+    "ident": "BDH",
+    "name": "WILLMAR"
+  },
+  {
+    "ident": "BDR",
+    "name": "BRIDGEPORT"
+  },
+  {
+    "ident": "BFD",
+    "name": "BRADFORD"
+  },
+  {
+    "ident": "BFF",
+    "name": "SCOTTSBLUFF"
+  },
+  {
+    "ident": "BFM",
+    "name": "BROOKLEY"
+  },
+  {
+    "ident": "BFV",
+    "name": "BURNS FLAT"
+  },
+  {
+    "ident": "BGD",
+    "name": "BORGER"
+  },
+  {
+    "ident": "BGR",
+    "name": "BANGOR"
+  },
+  {
+    "ident": "BGS",
+    "name": "BIG SPRING"
+  },
+  {
+    "ident": "BIB",
+    "name": "BIBLE GROVE"
+  },
+  {
+    "ident": "BIE",
+    "name": "BEATRICE"
+  },
+  {
+    "ident": "BIH",
+    "name": "BISHOP"
+  },
+  {
+    "ident": "BIL",
+    "name": "BILLINGS"
+  },
+  {
+    "ident": "BIS",
+    "name": "BISMARCK"
+  },
+  {
+    "ident": "BIX",
+    "name": "KEESLER"
+  },
+  {
+    "ident": "BJA",
+    "name": "BURLINGTON"
+  },
+  {
+    "ident": "BJB",
+    "name": "WEST BEND"
+  },
+  {
+    "ident": "BJC",
+    "name": "JEFFCO"
+  },
+  {
+    "ident": "BKE",
+    "name": "BAKER CITY"
+  },
+  {
+    "ident": "BKF",
+    "name": "BUCKLEY"
+  },
+  {
+    "ident": "BKW",
+    "name": "BECKLEY"
+  },
+  {
+    "ident": "BLD",
+    "name": "BOULDER CITY"
+  },
+  {
+    "ident": "BLF",
+    "name": "BLUEFIELD"
+  },
+  {
+    "ident": "BLH",
+    "name": "BLYTHE"
+  },
+  {
+    "ident": "BMI",
+    "name": "BLOOMINGTON"
+  },
+  {
+    "ident": "BML",
+    "name": "BERLIN"
+  },
+  {
+    "ident": "BNA",
+    "name": "NASHVILLE"
+  },
+  {
+    "ident": "BOI",
+    "name": "BOISE"
+  },
+  {
+    "ident": "BOS",
+    "name": "BOSTON"
+  },
+  {
+    "ident": "BOY",
+    "name": "BOYSEN RESERVOIR"
+  },
+  {
+    "ident": "BPI",
+    "name": "BIG PINEY"
+  },
+  {
+    "ident": "BPT",
+    "name": "BEAUMONT"
+  },
+  {
+    "ident": "BQS",
+    "name": "BRAYMER"
+  },
+  {
+    "ident": "BQU",
+    "name": "BULLION"
+  },
+  {
+    "ident": "BQZ",
+    "name": "ROBERT"
+  },
+  {
+    "ident": "BRG",
+    "name": "BELEN"
+  },
+  {
+    "ident": "BRK",
+    "name": "BLACK FOREST"
+  },
+  {
+    "ident": "BRL",
+    "name": "BURLINGTON"
+  },
+  {
+    "ident": "BRO",
+    "name": "BROWNSVILLE"
+  },
+  {
+    "ident": "BRV",
+    "name": "BROOKE"
+  },
+  {
+    "ident": "BSR",
+    "name": "BIG SUR"
+  },
+  {
+    "ident": "BSV",
+    "name": "BRIGGS"
+  },
+  {
+    "ident": "BTG",
+    "name": "BATTLE GROUND"
+  },
+  {
+    "ident": "BTV",
+    "name": "BURLINGTON"
+  },
+  {
+    "ident": "BTY",
+    "name": "BEATTY"
+  },
+  {
+    "ident": "BUD",
+    "name": "BUCKEYE"
+  },
+  {
+    "ident": "BUF",
+    "name": "BUFFALO"
+  },
+  {
+    "ident": "BUM",
+    "name": "BUTLER"
+  },
+  {
+    "ident": "BUU",
+    "name": "BURBUN"
+  },
+  {
+    "ident": "BVL",
+    "name": "BONNEVILLE"
+  },
+  {
+    "ident": "BVO",
+    "name": "BARTLESVILLE"
+  },
+  {
+    "ident": "BVT",
+    "name": "BOILER"
+  },
+  {
+    "ident": "BWD",
+    "name": "BROWNWOOD"
+  },
+  {
+    "ident": "BWG",
+    "name": "BOWLING GREEN"
+  },
+  {
+    "ident": "BWS",
+    "name": "BOLES"
+  },
+  {
+    "ident": "BWZ",
+    "name": "BROADWAY"
+  },
+  {
+    "ident": "BXK",
+    "name": "BUCKEYE"
+  },
+  {
+    "ident": "BYI",
+    "name": "BURLEY"
+  },
+  {
+    "ident": "BYP",
+    "name": "BONHAM"
+  },
+  {
+    "ident": "BYT",
+    "name": "BRADLEY"
+  },
+  {
+    "ident": "BZA",
+    "name": "BARD"
+  },
+  {
+    "ident": "BZM",
+    "name": "BARRETTS MOUNTAIN"
+  },
+  {
+    "ident": "BZN",
+    "name": "BOZEMAN"
+  },
+  {
+    "ident": "CAE",
+    "name": "COLUMBIA"
+  },
+  {
+    "ident": "CAM",
+    "name": "CAMBRIDGE"
+  },
+  {
+    "ident": "CBM",
+    "name": "CALEDONIA"
+  },
+  {
+    "ident": "CBU",
+    "name": "COLUMBIA"
+  },
+  {
+    "ident": "CCC",
+    "name": "CALVERTON"
+  },
+  {
+    "ident": "CCR",
+    "name": "CONCORD"
+  },
+  {
+    "ident": "CCT",
+    "name": "CENTRAL CITY"
+  },
+  {
+    "ident": "CCV",
+    "name": "CAPE CHARLES"
+  },
+  {
+    "ident": "CDS",
+    "name": "CHILDRESS"
+  },
+  {
+    "ident": "CEC",
+    "name": "CRESCENT CITY"
+  },
+  {
+    "ident": "CEF",
+    "name": "WESTOVER"
+  },
+  {
+    "ident": "CEW",
+    "name": "CRESTVIEW"
+  },
+  {
+    "ident": "CEZ",
+    "name": "CORTEZ"
+  },
+  {
+    "ident": "CFB",
+    "name": "BINGHAMTON"
+  },
+  {
+    "ident": "CGG",
+    "name": "GRAYLING"
+  },
+  {
+    "ident": "CGI",
+    "name": "CAPE GIRARDEAU"
+  },
+  {
+    "ident": "CGT",
+    "name": "CHICAGO HEIGHTS"
+  },
+  {
+    "ident": "CHE",
+    "name": "HAYDEN"
+  },
+  {
+    "ident": "CHS",
+    "name": "CHARLESTON"
+  },
+  {
+    "ident": "CID",
+    "name": "CEDAR RAPIDS"
+  },
+  {
+    "ident": "CIM",
+    "name": "CIMARRON"
+  },
+  {
+    "ident": "CIP",
+    "name": "CLARION"
+  },
+  {
+    "ident": "CKB",
+    "name": "CLARKSBURG"
+  },
+  {
+    "ident": "CKV",
+    "name": "CLARKSVILLE"
+  },
+  {
+    "ident": "CKW",
+    "name": "CHEROKEE"
+  },
+  {
+    "ident": "CLL",
+    "name": "COLLEGE STATION"
+  },
+  {
+    "ident": "CLT",
+    "name": "CHARLOTTE"
+  },
+  {
+    "ident": "CMA",
+    "name": "CAMARILLO"
+  },
+  {
+    "ident": "CME",
+    "name": "CHISUM"
+  },
+  {
+    "ident": "CMI",
+    "name": "CHAMPAIGN"
+  },
+  {
+    "ident": "CMK",
+    "name": "CARMEL"
+  },
+  {
+    "ident": "CMX",
+    "name": "HOUGHTON"
+  },
+  {
+    "ident": "CNG",
+    "name": "CUNNINGHAM"
+  },
+  {
+    "ident": "CNM",
+    "name": "CARLSBAD"
+  },
+  {
+    "ident": "CNT",
+    "name": "CURRANT"
+  },
+  {
+    "ident": "CNU",
+    "name": "CHANUTE"
+  },
+  {
+    "ident": "CNX",
+    "name": "CORONA"
+  },
+  {
+    "ident": "COD",
+    "name": "CODY"
+  },
+  {
+    "ident": "COE",
+    "name": "COEUR D'ALENE"
+  },
+  {
+    "ident": "COF",
+    "name": "PATRICK"
+  },
+  {
+    "ident": "COL",
+    "name": "COLTS NECK"
+  },
+  {
+    "ident": "CON",
+    "name": "CONCORD"
+  },
+  {
+    "ident": "COT",
+    "name": "COTULLA"
+  },
+  {
+    "ident": "COU",
+    "name": "COLUMBIA"
+  },
+  {
+    "ident": "CPN",
+    "name": "COPPERTOWN"
+  },
+  {
+    "ident": "CQY",
+    "name": "CEDAR CREEK"
+  },
+  {
+    "ident": "CRE",
+    "name": "GRAND STRAND"
+  },
+  {
+    "ident": "CRG",
+    "name": "CRAIG"
+  },
+  {
+    "ident": "CRI",
+    "name": "CANARSIE"
+  },
+  {
+    "ident": "CRL",
+    "name": "CARLETON"
+  },
+  {
+    "ident": "CRP",
+    "name": "CORPUS CHRISTI"
+  },
+  {
+    "ident": "CSG",
+    "name": "COLUMBUS"
+  },
+  {
+    "ident": "CSI",
+    "name": "CENTER POINT"
+  },
+  {
+    "ident": "CSN",
+    "name": "CASANOVA"
+  },
+  {
+    "ident": "CSX",
+    "name": "CARDINAL"
+  },
+  {
+    "ident": "CTB",
+    "name": "CUT BANK"
+  },
+  {
+    "ident": "CTF",
+    "name": "CHESTERFIELD"
+  },
+  {
+    "ident": "CTR",
+    "name": "CHESTER"
+  },
+  {
+    "ident": "CTW",
+    "name": "NEWCOMERSTOWN"
+  },
+  {
+    "ident": "CTY",
+    "name": "CROSS CITY"
+  },
+  {
+    "ident": "CUS",
+    "name": "COLUMBUS"
+  },
+  {
+    "ident": "CUZ",
+    "name": "CUSTER COUNTY"
+  },
+  {
+    "ident": "CVA",
+    "name": "DAVENPORT"
+  },
+  {
+    "ident": "CVC",
+    "name": "COVINGTON"
+  },
+  {
+    "ident": "CVE",
+    "name": "COWBOY"
+  },
+  {
+    "ident": "CVG",
+    "name": "CINCINNATI"
+  },
+  {
+    "ident": "CVI",
+    "name": "COFIELD"
+  },
+  {
+    "ident": "CVO",
+    "name": "CORVALLIS"
+  },
+  {
+    "ident": "CVS",
+    "name": "CANNON"
+  },
+  {
+    "ident": "CVV",
+    "name": "PENN COVE"
+  },
+  {
+    "ident": "CWK",
+    "name": "CENTEX"
+  },
+  {
+    "ident": "CXR",
+    "name": "CHARDON"
+  },
+  {
+    "ident": "CYN",
+    "name": "COYLE"
+  },
+  {
+    "ident": "CYS",
+    "name": "CHEYENNE"
+  },
+  {
+    "ident": "CYY",
+    "name": "CYPRESS"
+  },
+  {
+    "ident": "CZI",
+    "name": "CRAZY WOMAN"
+  },
+  {
+    "ident": "CZQ",
+    "name": "CLOVIS"
+  },
+  {
+    "ident": "DAG",
+    "name": "DAGGETT"
+  },
+  {
+    "ident": "DAS",
+    "name": "DAISETTA"
+  },
+  {
+    "ident": "DBL",
+    "name": "RED TABLE"
+  },
+  {
+    "ident": "DBN",
+    "name": "DUBLIN"
+  },
+  {
+    "ident": "DBQ",
+    "name": "DUBUQUE"
+  },
+  {
+    "ident": "DBS",
+    "name": "DUBOIS"
+  },
+  {
+    "ident": "DCA",
+    "name": "WASHINGTON"
+  },
+  {
+    "ident": "DCU",
+    "name": "DECATUR"
+  },
+  {
+    "ident": "DDC",
+    "name": "DODGE CITY"
+  },
+  {
+    "ident": "DDD",
+    "name": "PORT CITY"
+  },
+  {
+    "ident": "DDY",
+    "name": "MUDDY MOUNTAIN"
+  },
+  {
+    "ident": "DEN",
+    "name": "DENVER"
+  },
+  {
+    "ident": "DGD",
+    "name": "DOGWOOD"
+  },
+  {
+    "ident": "DHK",
+    "name": "RANDOLPH"
+  },
+  {
+    "ident": "DHP",
+    "name": "DOLPHIN"
+  },
+  {
+    "ident": "DHT",
+    "name": "DALHART"
+  },
+  {
+    "ident": "DIK",
+    "name": "DICKINSON"
+  },
+  {
+    "ident": "DJB",
+    "name": "DRYER"
+  },
+  {
+    "ident": "DKK",
+    "name": "DUNKIRK"
+  },
+  {
+    "ident": "DLF",
+    "name": "LAUGHLIN"
+  },
+  {
+    "ident": "DLH",
+    "name": "DULUTH"
+  },
+  {
+    "ident": "DLL",
+    "name": "DELLS"
+  },
+  {
+    "ident": "DLN",
+    "name": "DILLON"
+  },
+  {
+    "ident": "DMA",
+    "name": "DAVIS MONTHAN"
+  },
+  {
+    "ident": "DMN",
+    "name": "DEMING"
+  },
+  {
+    "ident": "DNJ",
+    "name": "DONNELLY"
+  },
+  {
+    "ident": "DNV",
+    "name": "DANVILLE"
+  },
+  {
+    "ident": "DNW",
+    "name": "DUNOIR"
+  },
+  {
+    "ident": "DNY",
+    "name": "DELANCEY"
+  },
+  {
+    "ident": "DOB",
+    "name": "DOBBINS"
+  },
+  {
+    "ident": "DOV",
+    "name": "DOVER"
+  },
+  {
+    "ident": "DPA",
+    "name": "DUPAGE"
+  },
+  {
+    "ident": "DPK",
+    "name": "DEER PARK"
+  },
+  {
+    "ident": "DPR",
+    "name": "DUPREE"
+  },
+  {
+    "ident": "DQN",
+    "name": "DAYTON"
+  },
+  {
+    "ident": "DQO",
+    "name": "DUPONT"
+  },
+  {
+    "ident": "DRK",
+    "name": "DRAKE"
+  },
+  {
+    "ident": "DRO",
+    "name": "DURANGO"
+  },
+  {
+    "ident": "DSD",
+    "name": "DESCHUTES"
+  },
+  {
+    "ident": "DSM",
+    "name": "DES MOINES"
+  },
+  {
+    "ident": "DTA",
+    "name": "DELTA"
+  },
+  {
+    "ident": "DTL",
+    "name": "DETROIT LAKES"
+  },
+  {
+    "ident": "DUG",
+    "name": "DOUGLAS"
+  },
+  {
+    "ident": "DVC",
+    "name": "DOVE CREEK"
+  },
+  {
+    "ident": "DVL",
+    "name": "DEVILS LAKE"
+  },
+  {
+    "ident": "DVV",
+    "name": "MILE HIGH"
+  },
+  {
+    "ident": "DWG",
+    "name": "WARRINGTON"
+  },
+  {
+    "ident": "DWN",
+    "name": "DARWIN"
+  },
+  {
+    "ident": "DXO",
+    "name": "DETROIT"
+  },
+  {
+    "ident": "DYR",
+    "name": "DYERSBURG"
+  },
+  {
+    "ident": "DYS",
+    "name": "DYESS"
+  },
+  {
+    "ident": "DYY",
+    "name": "DYER"
+  },
+  {
+    "ident": "EAR",
+    "name": "KEARNEY"
+  },
+  {
+    "ident": "EAT",
+    "name": "WENATCHEE"
+  },
+  {
+    "ident": "EAU",
+    "name": "EAU CLAIRE"
+  },
+  {
+    "ident": "ECB",
+    "name": "NEWCOMBE"
+  },
+  {
+    "ident": "ECG",
+    "name": "ELIZABETH CITY"
+  },
+  {
+    "ident": "ECK",
+    "name": "PECK"
+  },
+  {
+    "ident": "ECS",
+    "name": "NEWCASTLE"
+  },
+  {
+    "ident": "EDN",
+    "name": "ENTERPRISE"
+  },
+  {
+    "ident": "EDW",
+    "name": "EDWARDS"
+  },
+  {
+    "ident": "EEA",
+    "name": "EUREKA"
+  },
+  {
+    "ident": "EED",
+    "name": "NEEDLES"
+  },
+  {
+    "ident": "EEN",
+    "name": "KEENE"
+  },
+  {
+    "ident": "EFD",
+    "name": "ELLINGTON"
+  },
+  {
+    "ident": "EHF",
+    "name": "SHAFTER"
+  },
+  {
+    "ident": "EHK",
+    "name": "ENOCH"
+  },
+  {
+    "ident": "EIC",
+    "name": "BELCHER"
+  },
+  {
+    "ident": "EKN",
+    "name": "ELKINS"
+  },
+  {
+    "ident": "EKR",
+    "name": "MEEKER"
+  },
+  {
+    "ident": "ELA",
+    "name": "EAGLE LAKE"
+  },
+  {
+    "ident": "ELB",
+    "name": "EL TORO"
+  },
+  {
+    "ident": "ELD",
+    "name": "EL DORADO"
+  },
+  {
+    "ident": "ELN",
+    "name": "ELLENSBURG"
+  },
+  {
+    "ident": "ELO",
+    "name": "ELY"
+  },
+  {
+    "ident": "ELP",
+    "name": "EL PASO"
+  },
+  {
+    "ident": "ELW",
+    "name": "ELECTRIC CITY"
+  },
+  {
+    "ident": "ELX",
+    "name": "KEELER"
+  },
+  {
+    "ident": "ELY",
+    "name": "ELY"
+  },
+  {
+    "ident": "ELZ",
+    "name": "WELLSVILLE"
+  },
+  {
+    "ident": "EMG",
+    "name": "ELM GROVE"
+  },
+  {
+    "ident": "EMI",
+    "name": "WESTMINSTER"
+  },
+  {
+    "ident": "EMP",
+    "name": "EMPORIA"
+  },
+  {
+    "ident": "END",
+    "name": "VANCE"
+  },
+  {
+    "ident": "ENE",
+    "name": "KENNEBUNK"
+  },
+  {
+    "ident": "ENI",
+    "name": "MENDOCINO"
+  },
+  {
+    "ident": "ENL",
+    "name": "CENTRALIA"
+  },
+  {
+    "ident": "ENO",
+    "name": "SMYRNA"
+  },
+  {
+    "ident": "ENW",
+    "name": "KENOSHA"
+  },
+  {
+    "ident": "EON",
+    "name": "PEOTONE"
+  },
+  {
+    "ident": "EOS",
+    "name": "NEOSHO"
+  },
+  {
+    "ident": "EPH",
+    "name": "EPHRATA"
+  },
+  {
+    "ident": "ERI",
+    "name": "ERIE"
+  },
+  {
+    "ident": "ESC",
+    "name": "ESCANABA"
+  },
+  {
+    "ident": "ESL",
+    "name": "KESSEL"
+  },
+  {
+    "ident": "ETG",
+    "name": "KEATING"
+  },
+  {
+    "ident": "ETL",
+    "name": "CONES"
+  },
+  {
+    "ident": "ETX",
+    "name": "EAST TEXAS"
+  },
+  {
+    "ident": "EUF",
+    "name": "EUFAULA"
+  },
+  {
+    "ident": "EUG",
+    "name": "EUGENE"
+  },
+  {
+    "ident": "EVW",
+    "name": "EVANSTON"
+  },
+  {
+    "ident": "EWA",
+    "name": "KEWANEE"
+  },
+  {
+    "ident": "EWC",
+    "name": "ELLWOOD CITY"
+  },
+  {
+    "ident": "EWM",
+    "name": "NEWMAN"
+  },
+  {
+    "ident": "EWN",
+    "name": "NEW BERN"
+  },
+  {
+    "ident": "EWO",
+    "name": "NEW HOPE"
+  },
+  {
+    "ident": "EWR",
+    "name": "NEWARK"
+  },
+  {
+    "ident": "EYW",
+    "name": "KEY WEST"
+  },
+  {
+    "ident": "FAH",
+    "name": "FALLS"
+  },
+  {
+    "ident": "FAK",
+    "name": "FLAT ROCK"
+  },
+  {
+    "ident": "FAM",
+    "name": "FARMINGTON"
+  },
+  {
+    "ident": "FAR",
+    "name": "FARGO"
+  },
+  {
+    "ident": "FAY",
+    "name": "FAYETTEVILLE"
+  },
+  {
+    "ident": "FBC",
+    "name": "FLAG CITY"
+  },
+  {
+    "ident": "FBR",
+    "name": "FORT BRIDGER"
+  },
+  {
+    "ident": "FCA",
+    "name": "KALISPELL"
+  },
+  {
+    "ident": "FCM",
+    "name": "FLYING CLOUD"
+  },
+  {
+    "ident": "FCS",
+    "name": "BUTTS"
+  },
+  {
+    "ident": "FDK",
+    "name": "FREDERICK"
+  },
+  {
+    "ident": "FFM",
+    "name": "FERGUS FALLS"
+  },
+  {
+    "ident": "FFO",
+    "name": "PATTERSON"
+  },
+  {
+    "ident": "FFT",
+    "name": "FRANKFORT"
+  },
+  {
+    "ident": "FFU",
+    "name": "FAIRFIELD"
+  },
+  {
+    "ident": "FGT",
+    "name": "FARMINGTON"
+  },
+  {
+    "ident": "FHU",
+    "name": "LIBBY"
+  },
+  {
+    "ident": "FIM",
+    "name": "FILLMORE"
+  },
+  {
+    "ident": "FJC",
+    "name": "ALLENTOWN"
+  },
+  {
+    "ident": "FJS",
+    "name": "FORT JONES"
+  },
+  {
+    "ident": "FKL",
+    "name": "FRANKLIN"
+  },
+  {
+    "ident": "FLG",
+    "name": "FLAGSTAFF"
+  },
+  {
+    "ident": "FLL",
+    "name": "FORT LAUDERDALE"
+  },
+  {
+    "ident": "FLM",
+    "name": "FALMOUTH"
+  },
+  {
+    "ident": "FLO",
+    "name": "FLORENCE"
+  },
+  {
+    "ident": "FLP",
+    "name": "FLIPPIN"
+  },
+  {
+    "ident": "FLW",
+    "name": "FELLOWS"
+  },
+  {
+    "ident": "FMG",
+    "name": "MUSTANG"
+  },
+  {
+    "ident": "FNT",
+    "name": "FLINT"
+  },
+  {
+    "ident": "FNX",
+    "name": "FAIRMONT"
+  },
+  {
+    "ident": "FOD",
+    "name": "FORT DODGE"
+  },
+  {
+    "ident": "FOE",
+    "name": "FORBES"
+  },
+  {
+    "ident": "FOK",
+    "name": "SUFFOLK CO"
+  },
+  {
+    "ident": "FOT",
+    "name": "FORTUNA"
+  },
+  {
+    "ident": "FOW",
+    "name": "HALFWAY"
+  },
+  {
+    "ident": "FQF",
+    "name": "FALCON"
+  },
+  {
+    "ident": "FQM",
+    "name": "WILLIAMSPORT"
+  },
+  {
+    "ident": "FRA",
+    "name": "FRIANT"
+  },
+  {
+    "ident": "FRI",
+    "name": "FORT RILEY"
+  },
+  {
+    "ident": "FSD",
+    "name": "SIOUX FALLS"
+  },
+  {
+    "ident": "FSM",
+    "name": "FORT SMITH"
+  },
+  {
+    "ident": "FST",
+    "name": "FORT STOCKTON"
+  },
+  {
+    "ident": "FTI",
+    "name": "FORT UNION"
+  },
+  {
+    "ident": "FTK",
+    "name": "FORT KNOX"
+  },
+  {
+    "ident": "FTZ",
+    "name": "FORISTELL"
+  },
+  {
+    "ident": "FUZ",
+    "name": "RANGER"
+  },
+  {
+    "ident": "FVI",
+    "name": "FALL RIVER MILLS"
+  },
+  {
+    "ident": "FVQ",
+    "name": "CARLSBAD"
+  },
+  {
+    "ident": "FWA",
+    "name": "FORT WAYNE"
+  },
+  {
+    "ident": "FXU",
+    "name": "POLK"
+  },
+  {
+    "ident": "FZT",
+    "name": "FRANKSTON"
+  },
+  {
+    "ident": "GAD",
+    "name": "GADSDEN"
+  },
+  {
+    "ident": "GBG",
+    "name": "GALESBURG"
+  },
+  {
+    "ident": "GBN",
+    "name": "GILA BEND"
+  },
+  {
+    "ident": "GCC",
+    "name": "GILLETTE"
+  },
+  {
+    "ident": "GCK",
+    "name": "GARDEN CITY"
+  },
+  {
+    "ident": "GCN",
+    "name": "GRAND CANYON"
+  },
+  {
+    "ident": "GCO",
+    "name": "CHICAGO"
+  },
+  {
+    "ident": "GCV",
+    "name": "GREENE COUNTY"
+  },
+  {
+    "ident": "GDM",
+    "name": "GARDNER"
+  },
+  {
+    "ident": "GDV",
+    "name": "GLENDIVE"
+  },
+  {
+    "ident": "GEE",
+    "name": "GENESEO"
+  },
+  {
+    "ident": "GEF",
+    "name": "GREENVILLE"
+  },
+  {
+    "ident": "GEG",
+    "name": "SPOKANE"
+  },
+  {
+    "ident": "GEP",
+    "name": "GOPHER"
+  },
+  {
+    "ident": "GFK",
+    "name": "GRAND FORKS"
+  },
+  {
+    "ident": "GFS",
+    "name": "GOFFS"
+  },
+  {
+    "ident": "GGG",
+    "name": "GREGG COUNTY"
+  },
+  {
+    "ident": "GGT",
+    "name": "GEORGETOWN"
+  },
+  {
+    "ident": "GGW",
+    "name": "GLASGOW"
+  },
+  {
+    "ident": "GHM",
+    "name": "GRAHAM"
+  },
+  {
+    "ident": "GIJ",
+    "name": "GIPPER"
+  },
+  {
+    "ident": "GLD",
+    "name": "GOODLAND"
+  },
+  {
+    "ident": "GLH",
+    "name": "GREENVILLE"
+  },
+  {
+    "ident": "GLJ",
+    "name": "GUADALUPE"
+  },
+  {
+    "ident": "GLL",
+    "name": "GILL"
+  },
+  {
+    "ident": "GLR",
+    "name": "GAYLORD"
+  },
+  {
+    "ident": "GMN",
+    "name": "GORMAN"
+  },
+  {
+    "ident": "GNL",
+    "name": "GROESBECK"
+  },
+  {
+    "ident": "GNP",
+    "name": "GLENPOOL"
+  },
+  {
+    "ident": "GNV",
+    "name": "GATORS"
+  },
+  {
+    "ident": "GOG",
+    "name": "GOODSPRINGS"
+  },
+  {
+    "ident": "GON",
+    "name": "GROTON"
+  },
+  {
+    "ident": "GPT",
+    "name": "GULFPORT"
+  },
+  {
+    "ident": "GPZ",
+    "name": "GRAND RAPIDS"
+  },
+  {
+    "ident": "GQE",
+    "name": "GILMORE"
+  },
+  {
+    "ident": "GQO",
+    "name": "CHOO CHOO"
+  },
+  {
+    "ident": "GRB",
+    "name": "GREEN BAY"
+  },
+  {
+    "ident": "GRD",
+    "name": "GREENWOOD"
+  },
+  {
+    "ident": "GRI",
+    "name": "GRAND ISLAND"
+  },
+  {
+    "ident": "GRK",
+    "name": "GRAY"
+  },
+  {
+    "ident": "GRV",
+    "name": "GRANTSVILLE"
+  },
+  {
+    "ident": "GSB",
+    "name": "SEYMOUR JOHNSON"
+  },
+  {
+    "ident": "GSH",
+    "name": "GOSHEN"
+  },
+  {
+    "ident": "GSO",
+    "name": "GREENSBORO"
+  },
+  {
+    "ident": "GSU",
+    "name": "ATLANTA"
+  },
+  {
+    "ident": "GTF",
+    "name": "GREAT FALLS"
+  },
+  {
+    "ident": "GTH",
+    "name": "GUTHRIE"
+  },
+  {
+    "ident": "GUP",
+    "name": "GALLUP"
+  },
+  {
+    "ident": "GUS",
+    "name": "GRISSOM"
+  },
+  {
+    "ident": "GVE",
+    "name": "GORDONSVILLE"
+  },
+  {
+    "ident": "GVO",
+    "name": "GAVIOTA"
+  },
+  {
+    "ident": "GVR",
+    "name": "HANOVER"
+  },
+  {
+    "ident": "GXU",
+    "name": "MC GUIRE"
+  },
+  {
+    "ident": "GZG",
+    "name": "GLADE SPRING"
+  },
+  {
+    "ident": "HAB",
+    "name": "HAMILTON"
+  },
+  {
+    "ident": "HAR",
+    "name": "HARRISBURG"
+  },
+  {
+    "ident": "HBR",
+    "name": "HOBART"
+  },
+  {
+    "ident": "HBU",
+    "name": "BLUE MESA"
+  },
+  {
+    "ident": "HCH",
+    "name": "HINCH MOUNTAIN"
+  },
+  {
+    "ident": "HCM",
+    "name": "HARCUM"
+  },
+  {
+    "ident": "HCT",
+    "name": "HAYES CENTER"
+  },
+  {
+    "ident": "HDF",
+    "name": "HOMELAND"
+  },
+  {
+    "ident": "HEC",
+    "name": "HECTOR"
+  },
+  {
+    "ident": "HEY",
+    "name": "HANCHEY"
+  },
+  {
+    "ident": "HEZ",
+    "name": "NATCHEZ"
+  },
+  {
+    "ident": "HFD",
+    "name": "HARTFORD"
+  },
+  {
+    "ident": "HGO",
+    "name": "HUGO"
+  },
+  {
+    "ident": "HGR",
+    "name": "HAGERSTOWN"
+  },
+  {
+    "ident": "HIA",
+    "name": "WHITEHALL"
+  },
+  {
+    "ident": "HIB",
+    "name": "HIBBING"
+  },
+  {
+    "ident": "HIF",
+    "name": "HILL"
+  },
+  {
+    "ident": "HLC",
+    "name": "HILL CITY"
+  },
+  {
+    "ident": "HLE",
+    "name": "HAILEY"
+  },
+  {
+    "ident": "HLG",
+    "name": "WHEELING"
+  },
+  {
+    "ident": "HLI",
+    "name": "HOLLY SPRINGS"
+  },
+  {
+    "ident": "HLN",
+    "name": "HELENA"
+  },
+  {
+    "ident": "HLV",
+    "name": "HALLSVILLE"
+  },
+  {
+    "ident": "HML",
+    "name": "HUMBOLDT"
+  },
+  {
+    "ident": "HMN",
+    "name": "HOLLOMAN"
+  },
+  {
+    "ident": "HMV",
+    "name": "HOLSTON MOUNTAIN"
+  },
+  {
+    "ident": "HNK",
+    "name": "HANCOCK"
+  },
+  {
+    "ident": "HNN",
+    "name": "HENDERSON"
+  },
+  {
+    "ident": "HNW",
+    "name": "HANGTOWN"
+  },
+  {
+    "ident": "HOB",
+    "name": "HOBBS"
+  },
+  {
+    "ident": "HON",
+    "name": "HURON"
+  },
+  {
+    "ident": "HOT",
+    "name": "HOT SPRINGS"
+  },
+  {
+    "ident": "HPW",
+    "name": "HOPEWELL"
+  },
+  {
+    "ident": "HQM",
+    "name": "HOQUIAM"
+  },
+  {
+    "ident": "HRK",
+    "name": "HORLICK"
+  },
+  {
+    "ident": "HRL",
+    "name": "HARLINGEN"
+  },
+  {
+    "ident": "HRO",
+    "name": "HARRISON"
+  },
+  {
+    "ident": "HRS",
+    "name": "HARRIS"
+  },
+  {
+    "ident": "HRT",
+    "name": "HURLBURT"
+  },
+  {
+    "ident": "HRV",
+    "name": "HARVEY"
+  },
+  {
+    "ident": "HSI",
+    "name": "HASTINGS"
+  },
+  {
+    "ident": "HST",
+    "name": "HOMESTEAD"
+  },
+  {
+    "ident": "HTO",
+    "name": "HAMPTON"
+  },
+  {
+    "ident": "HUH",
+    "name": "WHATCOM"
+  },
+  {
+    "ident": "HUL",
+    "name": "HOULTON"
+  },
+  {
+    "ident": "HUO",
+    "name": "HUGUENOT"
+  },
+  {
+    "ident": "HUP",
+    "name": "HUDSPETH"
+  },
+  {
+    "ident": "HUT",
+    "name": "HUTCHINSON"
+  },
+  {
+    "ident": "HUW",
+    "name": "HUTTON"
+  },
+  {
+    "ident": "HVE",
+    "name": "HANKSVILLE"
+  },
+  {
+    "ident": "HVN",
+    "name": "NEW HAVEN"
+  },
+  {
+    "ident": "HVQ",
+    "name": "CHARLESTON"
+  },
+  {
+    "ident": "HVR",
+    "name": "HAVRE"
+  },
+  {
+    "ident": "HXW",
+    "name": "SCREAMING EAGLE"
+  },
+  {
+    "ident": "HYK",
+    "name": "LEXINGTON"
+  },
+  {
+    "ident": "HYP",
+    "name": "EL NIDO"
+  },
+  {
+    "ident": "HYR",
+    "name": "HAYWARD"
+  },
+  {
+    "ident": "HYS",
+    "name": "HAYS"
+  },
+  {
+    "ident": "HZN",
+    "name": "HAZEN"
+  },
+  {
+    "ident": "IAB",
+    "name": "MC CONNELL"
+  },
+  {
+    "ident": "IAG",
+    "name": "NIAGARA FALLS"
+  },
+  {
+    "ident": "IAH",
+    "name": "HUMBLE"
+  },
+  {
+    "ident": "ICT",
+    "name": "WICHITA"
+  },
+  {
+    "ident": "IDA",
+    "name": "IDAHO FALLS"
+  },
+  {
+    "ident": "IDJ",
+    "name": "LAKE BEMIDJI"
+  },
+  {
+    "ident": "IDQ",
+    "name": "COTTONWOOD"
+  },
+  {
+    "ident": "IDU",
+    "name": "INDUSTRY"
+  },
+  {
+    "ident": "IFI",
+    "name": "KINGFISHER"
+  },
+  {
+    "ident": "IGB",
+    "name": "BIGBEE"
+  },
+  {
+    "ident": "IGM",
+    "name": "KINGMAN"
+  },
+  {
+    "ident": "IGN",
+    "name": "KINGSTON"
+  },
+  {
+    "ident": "IHD",
+    "name": "INDIAN HEAD"
+  },
+  {
+    "ident": "IIP",
+    "name": "HIPSHER"
+  },
+  {
+    "ident": "IIU",
+    "name": "LOUISVILLE"
+  },
+  {
+    "ident": "IJX",
+    "name": "JACKSONVILLE"
+  },
+  {
+    "ident": "IKK",
+    "name": "KANKAKEE"
+  },
+  {
+    "ident": "ILA",
+    "name": "WILLIAMS"
+  },
+  {
+    "ident": "ILC",
+    "name": "WILSON CREEK"
+  },
+  {
+    "ident": "ILM",
+    "name": "WILMINGTON"
+  },
+  {
+    "ident": "ILR",
+    "name": "WILDHORSE"
+  },
+  {
+    "ident": "IMB",
+    "name": "KIMBERLY"
+  },
+  {
+    "ident": "IMT",
+    "name": "IRON MOUNTAIN"
+  },
+  {
+    "ident": "INK",
+    "name": "WINK"
+  },
+  {
+    "ident": "INL",
+    "name": "INTERNATIONAL FALLS"
+  },
+  {
+    "ident": "INS",
+    "name": "INDIAN SPRINGS"
+  },
+  {
+    "ident": "INW",
+    "name": "WINSLOW"
+  },
+  {
+    "ident": "IOW",
+    "name": "IOWA CITY"
+  },
+  {
+    "ident": "IPL",
+    "name": "IMPERIAL"
+  },
+  {
+    "ident": "IRK",
+    "name": "KIRKSVILLE"
+  },
+  {
+    "ident": "IRQ",
+    "name": "COLLIERS"
+  },
+  {
+    "ident": "IRW",
+    "name": "WILL ROGERS"
+  },
+  {
+    "ident": "ISN",
+    "name": "WILLISTON"
+  },
+  {
+    "ident": "ISO",
+    "name": "KINSTON"
+  },
+  {
+    "ident": "ISQ",
+    "name": "SCHOOLCRAFT COUNTY"
+  },
+  {
+    "ident": "ITH",
+    "name": "ITHACA"
+  },
+  {
+    "ident": "IWA",
+    "name": "WILLIE"
+  },
+  {
+    "ident": "IWD",
+    "name": "IRONWOOD"
+  },
+  {
+    "ident": "JAC",
+    "name": "JACKSON"
+  },
+  {
+    "ident": "JBR",
+    "name": "JONESBORO"
+  },
+  {
+    "ident": "JCT",
+    "name": "JUNCTION"
+  },
+  {
+    "ident": "JEN",
+    "name": "GLEN ROSE"
+  },
+  {
+    "ident": "JFK",
+    "name": "KENNEDY"
+  },
+  {
+    "ident": "JFN",
+    "name": "JEFFERSON"
+  },
+  {
+    "ident": "JHW",
+    "name": "JAMESTOWN"
+  },
+  {
+    "ident": "JLI",
+    "name": "JULIAN"
+  },
+  {
+    "ident": "JMS",
+    "name": "JAMESTOWN"
+  },
+  {
+    "ident": "JNC",
+    "name": "GRAND JUNCTION"
+  },
+  {
+    "ident": "JOT",
+    "name": "JOLIET"
+  },
+  {
+    "ident": "JPU",
+    "name": "PARKERSBURG"
+  },
+  {
+    "ident": "JST",
+    "name": "JOHNSTOWN"
+  },
+  {
+    "ident": "JVL",
+    "name": "JANESVILLE"
+  },
+  {
+    "ident": "JWJ",
+    "name": "ELMWOOD"
+  },
+  {
+    "ident": "JXN",
+    "name": "JACKSON"
+  },
+  {
+    "ident": "KSY",
+    "name": "KELLY"
+  },
+  {
+    "ident": "LAA",
+    "name": "LAMAR"
+  },
+  {
+    "ident": "LAL",
+    "name": "LAKELAND"
+  },
+  {
+    "ident": "LAR",
+    "name": "LARAMIE"
+  },
+  {
+    "ident": "LAS",
+    "name": "LAS VEGAS"
+  },
+  {
+    "ident": "LAW",
+    "name": "LAWTON"
+  },
+  {
+    "ident": "LAX",
+    "name": "LOS ANGELES"
+  },
+  {
+    "ident": "LBB",
+    "name": "LUBBOCK"
+  },
+  {
+    "ident": "LBF",
+    "name": "NORTH PLATTE"
+  },
+  {
+    "ident": "LBL",
+    "name": "LIBERAL"
+  },
+  {
+    "ident": "LBV",
+    "name": "LA BELLE"
+  },
+  {
+    "ident": "LBY",
+    "name": "EATON"
+  },
+  {
+    "ident": "LCH",
+    "name": "LAKE CHARLES"
+  },
+  {
+    "ident": "LCU",
+    "name": "LUCIN"
+  },
+  {
+    "ident": "LDK",
+    "name": "CRIMSON"
+  },
+  {
+    "ident": "LDN",
+    "name": "LINDEN"
+  },
+  {
+    "ident": "LEB",
+    "name": "LEBANON"
+  },
+  {
+    "ident": "LEM",
+    "name": "LEMMON"
+  },
+  {
+    "ident": "LEV",
+    "name": "LEEVILLE"
+  },
+  {
+    "ident": "LEY",
+    "name": "GREELEY"
+  },
+  {
+    "ident": "LFI",
+    "name": "LANGLEY"
+  },
+  {
+    "ident": "LFK",
+    "name": "LUFKIN"
+  },
+  {
+    "ident": "LFT",
+    "name": "LAFAYETTE"
+  },
+  {
+    "ident": "LFV",
+    "name": "MARCONI"
+  },
+  {
+    "ident": "LGA",
+    "name": "LA GUARDIA"
+  },
+  {
+    "ident": "LGC",
+    "name": "LAGRANGE"
+  },
+  {
+    "ident": "LHO",
+    "name": "BRIGHAM CITY"
+  },
+  {
+    "ident": "LHS",
+    "name": "LAKE HUGHES"
+  },
+  {
+    "ident": "LIB",
+    "name": "LIBERTY"
+  },
+  {
+    "ident": "LIN",
+    "name": "LINDEN"
+  },
+  {
+    "ident": "LIT",
+    "name": "LITTLE ROCK"
+  },
+  {
+    "ident": "LJT",
+    "name": "TIMMERMAN"
+  },
+  {
+    "ident": "LKI",
+    "name": "LAKESIDE"
+  },
+  {
+    "ident": "LKT",
+    "name": "SALMON"
+  },
+  {
+    "ident": "LKV",
+    "name": "LAKEVIEW"
+  },
+  {
+    "ident": "LLA",
+    "name": "WHITE LAKE"
+  },
+  {
+    "ident": "LLC",
+    "name": "LOVELOCK"
+  },
+  {
+    "ident": "LLO",
+    "name": "LLANO"
+  },
+  {
+    "ident": "LMN",
+    "name": "LAMONI"
+  },
+  {
+    "ident": "LMT",
+    "name": "KLAMATH FALLS"
+  },
+  {
+    "ident": "LMX",
+    "name": "ALAMO"
+  },
+  {
+    "ident": "LNK",
+    "name": "LINCOLN"
+  },
+  {
+    "ident": "LNR",
+    "name": "LONE ROCK"
+  },
+  {
+    "ident": "LOA",
+    "name": "LEONA"
+  },
+  {
+    "ident": "LOZ",
+    "name": "LONDON"
+  },
+  {
+    "ident": "LRD",
+    "name": "LAREDO"
+  },
+  {
+    "ident": "LRF",
+    "name": "JACKSONVILLE"
+  },
+  {
+    "ident": "LRP",
+    "name": "LANCASTER"
+  },
+  {
+    "ident": "LSE",
+    "name": "LA CROSSE"
+  },
+  {
+    "ident": "LSF",
+    "name": "LAWSON"
+  },
+  {
+    "ident": "LSU",
+    "name": "FIGHTING TIGER"
+  },
+  {
+    "ident": "LSV",
+    "name": "NELLIS"
+  },
+  {
+    "ident": "LTJ",
+    "name": "KLICKITAT"
+  },
+  {
+    "ident": "LTS",
+    "name": "ALTUS"
+  },
+  {
+    "ident": "LUF",
+    "name": "LUKE"
+  },
+  {
+    "ident": "LVL",
+    "name": "LAWRENCEVILLE"
+  },
+  {
+    "ident": "LVM",
+    "name": "LIVINGSTON"
+  },
+  {
+    "ident": "LVT",
+    "name": "LIVINGSTON"
+  },
+  {
+    "ident": "LVZ",
+    "name": "WILKES-BARRE"
+  },
+  {
+    "ident": "LWB",
+    "name": "GREENBRIER"
+  },
+  {
+    "ident": "LWL",
+    "name": "WELLS"
+  },
+  {
+    "ident": "LWM",
+    "name": "LAWRENCE"
+  },
+  {
+    "ident": "LWT",
+    "name": "LEWISTOWN"
+  },
+  {
+    "ident": "LWV",
+    "name": "LAWRENCEVILLE"
+  },
+  {
+    "ident": "LYH",
+    "name": "LYNCHBURG"
+  },
+  {
+    "ident": "MAD",
+    "name": "MADISON"
+  },
+  {
+    "ident": "MAF",
+    "name": "MIDLAND"
+  },
+  {
+    "ident": "MAI",
+    "name": "MARIANNA"
+  },
+  {
+    "ident": "MAP",
+    "name": "MAPLES"
+  },
+  {
+    "ident": "MAW",
+    "name": "MALDEN"
+  },
+  {
+    "ident": "MBL",
+    "name": "MANISTEE"
+  },
+  {
+    "ident": "MBS",
+    "name": "SAGINAW"
+  },
+  {
+    "ident": "MBW",
+    "name": "MEDICINE BOW"
+  },
+  {
+    "ident": "MCB",
+    "name": "MC COMB"
+  },
+  {
+    "ident": "MCC",
+    "name": "MC CLELLAN"
+  },
+  {
+    "ident": "MCF",
+    "name": "MACDILL"
+  },
+  {
+    "ident": "MCI",
+    "name": "KANSAS CITY"
+  },
+  {
+    "ident": "MCK",
+    "name": "MC COOK"
+  },
+  {
+    "ident": "MCM",
+    "name": "MACON"
+  },
+  {
+    "ident": "MCN",
+    "name": "MACON"
+  },
+  {
+    "ident": "MCW",
+    "name": "MASON CITY"
+  },
+  {
+    "ident": "MEI",
+    "name": "MERIDIAN"
+  },
+  {
+    "ident": "MEM",
+    "name": "MEMPHIS"
+  },
+  {
+    "ident": "MFD",
+    "name": "MANSFIELD"
+  },
+  {
+    "ident": "MFE",
+    "name": "MC ALLEN"
+  },
+  {
+    "ident": "MGM",
+    "name": "MONTGOMERY"
+  },
+  {
+    "ident": "MGR",
+    "name": "MOULTRIE"
+  },
+  {
+    "ident": "MGW",
+    "name": "MORGANTOWN"
+  },
+  {
+    "ident": "MHE",
+    "name": "MITCHELL"
+  },
+  {
+    "ident": "MHF",
+    "name": "TRINITY"
+  },
+  {
+    "ident": "MHK",
+    "name": "MANHATTAN"
+  },
+  {
+    "ident": "MHT",
+    "name": "MANCHESTER"
+  },
+  {
+    "ident": "MHZ",
+    "name": "MAGNOLIA"
+  },
+  {
+    "ident": "MIB",
+    "name": "DEERING"
+  },
+  {
+    "ident": "MIE",
+    "name": "MUNCIE"
+  },
+  {
+    "ident": "MIJ",
+    "name": "MICHAEL"
+  },
+  {
+    "ident": "MIP",
+    "name": "MILTON"
+  },
+  {
+    "ident": "MJF",
+    "name": "ARVILLA"
+  },
+  {
+    "ident": "MKG",
+    "name": "MUSKEGON"
+  },
+  {
+    "ident": "MKL",
+    "name": "MC KELLAR"
+  },
+  {
+    "ident": "MKT",
+    "name": "MANKATO"
+  },
+  {
+    "ident": "MLB",
+    "name": "MELBOURNE"
+  },
+  {
+    "ident": "MLC",
+    "name": "MC ALESTER"
+  },
+  {
+    "ident": "MLD",
+    "name": "MALAD CITY"
+  },
+  {
+    "ident": "MLF",
+    "name": "MILFORD"
+  },
+  {
+    "ident": "MLP",
+    "name": "MULLAN PASS"
+  },
+  {
+    "ident": "MLS",
+    "name": "MILES CITY"
+  },
+  {
+    "ident": "MLT",
+    "name": "MILLINOCKET"
+  },
+  {
+    "ident": "MLU",
+    "name": "MONROE"
+  },
+  {
+    "ident": "MMB",
+    "name": "MITBEE"
+  },
+  {
+    "ident": "MMJ",
+    "name": "MONTOUR"
+  },
+  {
+    "ident": "MML",
+    "name": "MARSHALL"
+  },
+  {
+    "ident": "MMM",
+    "name": "MORMON MESA"
+  },
+  {
+    "ident": "MMT",
+    "name": "MC ENTIRE"
+  },
+  {
+    "ident": "MNM",
+    "name": "MENOMINEE"
+  },
+  {
+    "ident": "MOD",
+    "name": "MODESTO"
+  },
+  {
+    "ident": "MOL",
+    "name": "MONTEBELLO"
+  },
+  {
+    "ident": "MON",
+    "name": "MONTICELLO"
+  },
+  {
+    "ident": "MOP",
+    "name": "MOUNT PLEASANT"
+  },
+  {
+    "ident": "MOT",
+    "name": "MINOT"
+  },
+  {
+    "ident": "MOX",
+    "name": "MORRIS"
+  },
+  {
+    "ident": "MPV",
+    "name": "MONTPELIER"
+  },
+  {
+    "ident": "MQG",
+    "name": "NEZ PERCE"
+  },
+  {
+    "ident": "MQO",
+    "name": "MORRO BAY"
+  },
+  {
+    "ident": "MQP",
+    "name": "MILLSAP"
+  },
+  {
+    "ident": "MRB",
+    "name": "MARTINSBURG"
+  },
+  {
+    "ident": "MRF",
+    "name": "MARFA"
+  },
+  {
+    "ident": "MSL",
+    "name": "MUSCLE SHOALS"
+  },
+  {
+    "ident": "MSN",
+    "name": "MADISON"
+  },
+  {
+    "ident": "MSO",
+    "name": "MISSOULA"
+  },
+  {
+    "ident": "MSP",
+    "name": "MINNEAPOLIS"
+  },
+  {
+    "ident": "MSS",
+    "name": "MASSENA"
+  },
+  {
+    "ident": "MTC",
+    "name": "SELFRIDGE"
+  },
+  {
+    "ident": "MTJ",
+    "name": "MONTROSE"
+  },
+  {
+    "ident": "MTO",
+    "name": "MATTOON"
+  },
+  {
+    "ident": "MTU",
+    "name": "MYTON"
+  },
+  {
+    "ident": "MTW",
+    "name": "MANITOWOC"
+  },
+  {
+    "ident": "MUO",
+    "name": "MOUNTAIN HOME"
+  },
+  {
+    "ident": "MVA",
+    "name": "MINA"
+  },
+  {
+    "ident": "MVC",
+    "name": "MONROEVILLE"
+  },
+  {
+    "ident": "MVE",
+    "name": "MONTEVIDEO"
+  },
+  {
+    "ident": "MVY",
+    "name": "MARTHAS VINEYARD"
+  },
+  {
+    "ident": "MWA",
+    "name": "MARION"
+  },
+  {
+    "ident": "MWH",
+    "name": "MOSES LAKE"
+  },
+  {
+    "ident": "MXE",
+    "name": "MODENA"
+  },
+  {
+    "ident": "MXF",
+    "name": "MAXWELL"
+  },
+  {
+    "ident": "MXQ",
+    "name": "MIDWEST"
+  },
+  {
+    "ident": "MYS",
+    "name": "MYSTIC"
+  },
+  {
+    "ident": "MYV",
+    "name": "MARYSVILLE"
+  },
+  {
+    "ident": "MZB",
+    "name": "MISSION BAY"
+  },
+  {
+    "ident": "MZV",
+    "name": "MOLINE"
+  },
+  {
+    "ident": "MZZ",
+    "name": "MARION"
+  },
+  {
+    "ident": "NBC",
+    "name": "BEAUFORT"
+  },
+  {
+    "ident": "NCA",
+    "name": "NEW RIVER"
+  },
+  {
+    "ident": "NEL",
+    "name": "LAKEHURST"
+  },
+  {
+    "ident": "NFG",
+    "name": "CAMP PENDLETON"
+  },
+  {
+    "ident": "NFL",
+    "name": "FALLON"
+  },
+  {
+    "ident": "NFW",
+    "name": "NAS JRB FORT WORTH"
+  },
+  {
+    "ident": "NGP",
+    "name": "TRUAX"
+  },
+  {
+    "ident": "NGS",
+    "name": "SANTA ROSA"
+  },
+  {
+    "ident": "NGU",
+    "name": "CHAMBERS"
+  },
+  {
+    "ident": "NHK",
+    "name": "NAS PATUXENT RIVER"
+  },
+  {
+    "ident": "NID",
+    "name": "CHINA LAKE"
+  },
+  {
+    "ident": "NIP",
+    "name": "JACKSONVILLE"
+  },
+  {
+    "ident": "NJK",
+    "name": "EL CENTRO"
+  },
+  {
+    "ident": "NKT",
+    "name": "CHERRY POINT"
+  },
+  {
+    "ident": "NKX",
+    "name": "MIRAMAR"
+  },
+  {
+    "ident": "NLC",
+    "name": "LEMOORE"
+  },
+  {
+    "ident": "NMM",
+    "name": "MERIDIAN"
+  },
+  {
+    "ident": "NOG",
+    "name": "ORANGE GROVE"
+  },
+  {
+    "ident": "NPA",
+    "name": "PENSACOLA"
+  },
+  {
+    "ident": "NQI",
+    "name": "KINGSVILLE"
+  },
+  {
+    "ident": "NQX",
+    "name": "KEY WEST"
+  },
+  {
+    "ident": "NRB",
+    "name": "MAYPORT"
+  },
+  {
+    "ident": "NRS",
+    "name": "IMPERIAL BEACH"
+  },
+  {
+    "ident": "NSD",
+    "name": "BEAVER"
+  },
+  {
+    "ident": "NSE",
+    "name": "WHITING"
+  },
+  {
+    "ident": "NSI",
+    "name": "SAN NICOLAS"
+  },
+  {
+    "ident": "NTD",
+    "name": "POINT MUGU"
+  },
+  {
+    "ident": "NTU",
+    "name": "OCEANA"
+  },
+  {
+    "ident": "NUC",
+    "name": "SAN CLEMENTE"
+  },
+  {
+    "ident": "NUN",
+    "name": "SAUFLEY"
+  },
+  {
+    "ident": "NUQ",
+    "name": "MOFFETT"
+  },
+  {
+    "ident": "NUW",
+    "name": "WHIDBEY ISLAND"
+  },
+  {
+    "ident": "NYL",
+    "name": "YUMA"
+  },
+  {
+    "ident": "NZY",
+    "name": "NORTH ISLAND"
+  },
+  {
+    "ident": "OAB",
+    "name": "MOAB"
+  },
+  {
+    "ident": "OAK",
+    "name": "OAKLAND"
+  },
+  {
+    "ident": "OAL",
+    "name": "COALDALE"
+  },
+  {
+    "ident": "OBH",
+    "name": "WOLBACH"
+  },
+  {
+    "ident": "OBK",
+    "name": "NORTHBROOK"
+  },
+  {
+    "ident": "OCF",
+    "name": "OCALA"
+  },
+  {
+    "ident": "OCN",
+    "name": "OCEANSIDE"
+  },
+  {
+    "ident": "OCS",
+    "name": "ROCK SPRINGS"
+  },
+  {
+    "ident": "ODF",
+    "name": "FOOTHILLS"
+  },
+  {
+    "ident": "ODG",
+    "name": "WOODRING"
+  },
+  {
+    "ident": "ODI",
+    "name": "NODINE"
+  },
+  {
+    "ident": "OED",
+    "name": "ROGUE VALLEY"
+  },
+  {
+    "ident": "OFF",
+    "name": "OFFUTT"
+  },
+  {
+    "ident": "OFK",
+    "name": "NORFOLK"
+  },
+  {
+    "ident": "OGD",
+    "name": "OGDEN"
+  },
+  {
+    "ident": "OKK",
+    "name": "KOKOMO"
+  },
+  {
+    "ident": "OKM",
+    "name": "OKMULGEE"
+  },
+  {
+    "ident": "OKW",
+    "name": "BROOKWOOD"
+  },
+  {
+    "ident": "OLK",
+    "name": "WEBSTER LAKE"
+  },
+  {
+    "ident": "OLM",
+    "name": "OLYMPIA"
+  },
+  {
+    "ident": "OLS",
+    "name": "NOGALES"
+  },
+  {
+    "ident": "OLU",
+    "name": "COLUMBUS"
+  },
+  {
+    "ident": "OMN",
+    "name": "ORMOND BEACH"
+  },
+  {
+    "ident": "ONL",
+    "name": "O'NEILL"
+  },
+  {
+    "ident": "ONM",
+    "name": "SOCORRO"
+  },
+  {
+    "ident": "ONP",
+    "name": "NEWPORT"
+  },
+  {
+    "ident": "OOD",
+    "name": "WOODSTOWN"
+  },
+  {
+    "ident": "OOM",
+    "name": "HOOSIER"
+  },
+  {
+    "ident": "ORF",
+    "name": "NORFOLK"
+  },
+  {
+    "ident": "ORL",
+    "name": "ORLANDO"
+  },
+  {
+    "ident": "ORW",
+    "name": "NORWICH"
+  },
+  {
+    "ident": "OSH",
+    "name": "OSHKOSH"
+  },
+  {
+    "ident": "OSI",
+    "name": "WOODSIDE"
+  },
+  {
+    "ident": "OSW",
+    "name": "OSWEGO"
+  },
+  {
+    "ident": "OTB",
+    "name": "TUPELO"
+  },
+  {
+    "ident": "OTG",
+    "name": "WORTHINGTON"
+  },
+  {
+    "ident": "OTH",
+    "name": "NORTH BEND"
+  },
+  {
+    "ident": "OTK",
+    "name": "VALDOSTA"
+  },
+  {
+    "ident": "OTM",
+    "name": "OTTUMWA"
+  },
+  {
+    "ident": "OTO",
+    "name": "OTTO"
+  },
+  {
+    "ident": "OTT",
+    "name": "NOTTINGHAM"
+  },
+  {
+    "ident": "OVR",
+    "name": "OMAHA"
+  },
+  {
+    "ident": "OWB",
+    "name": "OWENSBORO"
+  },
+  {
+    "ident": "OXI",
+    "name": "KNOX"
+  },
+  {
+    "ident": "OZB",
+    "name": "COZAD"
+  },
+  {
+    "ident": "OZR",
+    "name": "CAIRNS"
+  },
+  {
+    "ident": "PAE",
+    "name": "PAINE"
+  },
+  {
+    "ident": "PAM",
+    "name": "TYNDALL"
+  },
+  {
+    "ident": "PAN",
+    "name": "PAYSON"
+  },
+  {
+    "ident": "PBF",
+    "name": "PINE BLUFF"
+  },
+  {
+    "ident": "PBI",
+    "name": "PALM BEACH"
+  },
+  {
+    "ident": "PCU",
+    "name": "PICAYUNE"
+  },
+  {
+    "ident": "PDK",
+    "name": "PEACHTREE"
+  },
+  {
+    "ident": "PDT",
+    "name": "PENDLETON"
+  },
+  {
+    "ident": "PDZ",
+    "name": "PARADISE"
+  },
+  {
+    "ident": "PEQ",
+    "name": "PECOS"
+  },
+  {
+    "ident": "PER",
+    "name": "PIONEER"
+  },
+  {
+    "ident": "PGA",
+    "name": "PAGE"
+  },
+  {
+    "ident": "PGO",
+    "name": "RICH MOUNTAIN"
+  },
+  {
+    "ident": "PGS",
+    "name": "PEACH SPRINGS"
+  },
+  {
+    "ident": "PGY",
+    "name": "POGGI"
+  },
+  {
+    "ident": "PHK",
+    "name": "PAHOKEE"
+  },
+  {
+    "ident": "PHP",
+    "name": "PHILIP"
+  },
+  {
+    "ident": "PIA",
+    "name": "PEORIA"
+  },
+  {
+    "ident": "PIE",
+    "name": "ST PETERSBURG"
+  },
+  {
+    "ident": "PIH",
+    "name": "POCATELLO"
+  },
+  {
+    "ident": "PIK",
+    "name": "CONROE"
+  },
+  {
+    "ident": "PIO",
+    "name": "PINON"
+  },
+  {
+    "ident": "PIR",
+    "name": "PIERRE"
+  },
+  {
+    "ident": "PKD",
+    "name": "PARK RAPIDS"
+  },
+  {
+    "ident": "PKE",
+    "name": "PARKER"
+  },
+  {
+    "ident": "PLL",
+    "name": "POLO"
+  },
+  {
+    "ident": "PLN",
+    "name": "PELLSTON"
+  },
+  {
+    "ident": "PMD",
+    "name": "PALMDALE"
+  },
+  {
+    "ident": "PMM",
+    "name": "PULLMAN"
+  },
+  {
+    "ident": "PNH",
+    "name": "PANHANDLE"
+  },
+  {
+    "ident": "PNN",
+    "name": "PRINCETON"
+  },
+  {
+    "ident": "PNT",
+    "name": "PONTIAC"
+  },
+  {
+    "ident": "POB",
+    "name": "POPE"
+  },
+  {
+    "ident": "POM",
+    "name": "POMONA"
+  },
+  {
+    "ident": "PQI",
+    "name": "PRESQUE ISLE"
+  },
+  {
+    "ident": "PRB",
+    "name": "PASO ROBLES"
+  },
+  {
+    "ident": "PRX",
+    "name": "PARIS"
+  },
+  {
+    "ident": "PSB",
+    "name": "PHILIPSBURG"
+  },
+  {
+    "ident": "PSC",
+    "name": "PASCO"
+  },
+  {
+    "ident": "PSI",
+    "name": "PONTIAC"
+  },
+  {
+    "ident": "PSK",
+    "name": "PULASKI"
+  },
+  {
+    "ident": "PSM",
+    "name": "PEASE"
+  },
+  {
+    "ident": "PSP",
+    "name": "PALM SPRINGS"
+  },
+  {
+    "ident": "PSX",
+    "name": "PALACIOS"
+  },
+  {
+    "ident": "PTW",
+    "name": "POTTSTOWN"
+  },
+  {
+    "ident": "PUB",
+    "name": "PUEBLO"
+  },
+  {
+    "ident": "PUC",
+    "name": "CARBON"
+  },
+  {
+    "ident": "PUT",
+    "name": "PUTNAM"
+  },
+  {
+    "ident": "PUW",
+    "name": "PULLMAN"
+  },
+  {
+    "ident": "PVD",
+    "name": "PROVIDENCE"
+  },
+  {
+    "ident": "PVU",
+    "name": "PROVO"
+  },
+  {
+    "ident": "PVW",
+    "name": "PLAINVIEW"
+  },
+  {
+    "ident": "PWA",
+    "name": "WILEY POST"
+  },
+  {
+    "ident": "PWE",
+    "name": "PAWNEE CITY"
+  },
+  {
+    "ident": "PWL",
+    "name": "PAWLING"
+  },
+  {
+    "ident": "PXN",
+    "name": "PANOCHE"
+  },
+  {
+    "ident": "PXR",
+    "name": "PHOENIX"
+  },
+  {
+    "ident": "PXV",
+    "name": "POCKET CITY"
+  },
+  {
+    "ident": "PYE",
+    "name": "POINT REYES"
+  },
+  {
+    "ident": "PZD",
+    "name": "PECAN"
+  },
+  {
+    "ident": "RAL",
+    "name": "RIVERSIDE"
+  },
+  {
+    "ident": "RAP",
+    "name": "RAPID CITY"
+  },
+  {
+    "ident": "RAV",
+    "name": "RAVINE"
+  },
+  {
+    "ident": "RBA",
+    "name": "ROBINSON"
+  },
+  {
+    "ident": "RBG",
+    "name": "ROSEBURG"
+  },
+  {
+    "ident": "RBL",
+    "name": "RED BLUFF"
+  },
+  {
+    "ident": "RBS",
+    "name": "ROBERTS"
+  },
+  {
+    "ident": "RBV",
+    "name": "ROBBINSVILLE"
+  },
+  {
+    "ident": "RBX",
+    "name": "WRIGHT BROTHERS"
+  },
+  {
+    "ident": "RCA",
+    "name": "ELLSWORTH"
+  },
+  {
+    "ident": "RDD",
+    "name": "REDDING"
+  },
+  {
+    "ident": "RDR",
+    "name": "RED RIVER"
+  },
+  {
+    "ident": "RDU",
+    "name": "RALEIGH/DURHAM"
+  },
+  {
+    "ident": "RDY",
+    "name": "SARDY"
+  },
+  {
+    "ident": "REC",
+    "name": "REVLOC"
+  },
+  {
+    "ident": "REO",
+    "name": "ROME"
+  },
+  {
+    "ident": "RFD",
+    "name": "ROCKFORD"
+  },
+  {
+    "ident": "RHI",
+    "name": "RHINELANDER"
+  },
+  {
+    "ident": "RIC",
+    "name": "RICHMOND"
+  },
+  {
+    "ident": "RID",
+    "name": "RICHMOND"
+  },
+  {
+    "ident": "RIL",
+    "name": "RIFLE"
+  },
+  {
+    "ident": "RIV",
+    "name": "MARCH"
+  },
+  {
+    "ident": "RIW",
+    "name": "RIVERTON"
+  },
+  {
+    "ident": "RKA",
+    "name": "ROCKDALE"
+  },
+  {
+    "ident": "RLG",
+    "name": "KREMMLING"
+  },
+  {
+    "ident": "RLY",
+    "name": "WORLAND"
+  },
+  {
+    "ident": "RMG",
+    "name": "ROME"
+  },
+  {
+    "ident": "RND",
+    "name": "RANDOLPH"
+  },
+  {
+    "ident": "ROA",
+    "name": "ROANOKE"
+  },
+  {
+    "ident": "ROC",
+    "name": "ROCHESTER"
+  },
+  {
+    "ident": "ROD",
+    "name": "ROSEWOOD"
+  },
+  {
+    "ident": "ROX",
+    "name": "ROSEAU"
+  },
+  {
+    "ident": "RQR",
+    "name": "RESERVE"
+  },
+  {
+    "ident": "RQZ",
+    "name": "ROCKET"
+  },
+  {
+    "ident": "RRS",
+    "name": "WIREGRASS"
+  },
+  {
+    "ident": "RSG",
+    "name": "ROCKSPRINGS"
+  },
+  {
+    "ident": "RSK",
+    "name": "RATTLESNAKE"
+  },
+  {
+    "ident": "RST",
+    "name": "ROCHESTER"
+  },
+  {
+    "ident": "RSW",
+    "name": "LEE COUNTY"
+  },
+  {
+    "ident": "RUT",
+    "name": "RUTLAND"
+  },
+  {
+    "ident": "RWF",
+    "name": "REDWOOD FALLS"
+  },
+  {
+    "ident": "RZC",
+    "name": "RAZORBACK"
+  },
+  {
+    "ident": "RZN",
+    "name": "SIREN"
+  },
+  {
+    "ident": "RZS",
+    "name": "SAN MARCUS"
+  },
+  {
+    "ident": "SAC",
+    "name": "SACRAMENTO"
+  },
+  {
+    "ident": "SAE",
+    "name": "SEARLE"
+  },
+  {
+    "ident": "SAF",
+    "name": "SANTA FE"
+  },
+  {
+    "ident": "SAM",
+    "name": "SAMSVILLE"
+  },
+  {
+    "ident": "SAT",
+    "name": "SAN ANTONIO"
+  },
+  {
+    "ident": "SAU",
+    "name": "SAUSALITO"
+  },
+  {
+    "ident": "SAV",
+    "name": "SAVANNAH"
+  },
+  {
+    "ident": "SAW",
+    "name": "SAWYER"
+  },
+  {
+    "ident": "SAX",
+    "name": "SPARTA"
+  },
+  {
+    "ident": "SBI",
+    "name": "SABINE PASS"
+  },
+  {
+    "ident": "SBJ",
+    "name": "SOLBERG"
+  },
+  {
+    "ident": "SBV",
+    "name": "SOUTH BOSTON"
+  },
+  {
+    "ident": "SBY",
+    "name": "SALISBURY"
+  },
+  {
+    "ident": "SCB",
+    "name": "SCRIBNER"
+  },
+  {
+    "ident": "SDO",
+    "name": "SOD HOUSE"
+  },
+  {
+    "ident": "SDZ",
+    "name": "SANDHILLS"
+  },
+  {
+    "ident": "SEA",
+    "name": "SEATTLE"
+  },
+  {
+    "ident": "SEG",
+    "name": "SELINSGROVE"
+  },
+  {
+    "ident": "SEY",
+    "name": "SANDY POINT"
+  },
+  {
+    "ident": "SFK",
+    "name": "STONYFORK"
+  },
+  {
+    "ident": "SFL",
+    "name": "SALT FLAT"
+  },
+  {
+    "ident": "SFO",
+    "name": "SAN FRANCISCO"
+  },
+  {
+    "ident": "SGD",
+    "name": "SCAGGS ISLAND"
+  },
+  {
+    "ident": "SGF",
+    "name": "SPRINGFIELD"
+  },
+  {
+    "ident": "SGH",
+    "name": "SPRINGFIELD"
+  },
+  {
+    "ident": "SGJ",
+    "name": "ST AUGUSTINE"
+  },
+  {
+    "ident": "SHB",
+    "name": "SHELBYVILLE"
+  },
+  {
+    "ident": "SHP",
+    "name": "SHEPPARD"
+  },
+  {
+    "ident": "SHR",
+    "name": "SHERIDAN"
+  },
+  {
+    "ident": "SHY",
+    "name": "SUNSHINE"
+  },
+  {
+    "ident": "SIE",
+    "name": "SEA ISLE"
+  },
+  {
+    "ident": "SJC",
+    "name": "SAN JOSE"
+  },
+  {
+    "ident": "SJI",
+    "name": "SEMMES"
+  },
+  {
+    "ident": "SJN",
+    "name": "ST JOHNS"
+  },
+  {
+    "ident": "SJT",
+    "name": "SAN ANGELO"
+  },
+  {
+    "ident": "SKA",
+    "name": "FAIRCHILD"
+  },
+  {
+    "ident": "SKE",
+    "name": "SCOTT"
+  },
+  {
+    "ident": "SLI",
+    "name": "SEAL BEACH"
+  },
+  {
+    "ident": "SLK",
+    "name": "SARANAC LAKE"
+  },
+  {
+    "ident": "SLN",
+    "name": "SALINA"
+  },
+  {
+    "ident": "SLR",
+    "name": "SULPHUR SPRINGS"
+  },
+  {
+    "ident": "SLT",
+    "name": "SLATE RUN"
+  },
+  {
+    "ident": "SMO",
+    "name": "SANTA MONICA"
+  },
+  {
+    "ident": "SNS",
+    "name": "SALINAS"
+  },
+  {
+    "ident": "SNY",
+    "name": "SIDNEY"
+  },
+  {
+    "ident": "SOT",
+    "name": "SNOWBIRD"
+  },
+  {
+    "ident": "SPA",
+    "name": "SPARTANBURG"
+  },
+  {
+    "ident": "SPI",
+    "name": "SPINNER"
+  },
+  {
+    "ident": "SPS",
+    "name": "WICHITA FALLS"
+  },
+  {
+    "ident": "SPW",
+    "name": "SPENCER"
+  },
+  {
+    "ident": "SQS",
+    "name": "SIDON"
+  },
+  {
+    "ident": "SRQ",
+    "name": "SARASOTA"
+  },
+  {
+    "ident": "SSC",
+    "name": "SHAW"
+  },
+  {
+    "ident": "SSF",
+    "name": "STINSON"
+  },
+  {
+    "ident": "SSI",
+    "name": "BRUNSWICK"
+  },
+  {
+    "ident": "SSM",
+    "name": "SAULT STE MARIE"
+  },
+  {
+    "ident": "SSO",
+    "name": "SAN SIMON"
+  },
+  {
+    "ident": "STC",
+    "name": "ST CLOUD"
+  },
+  {
+    "ident": "STJ",
+    "name": "ST JOSEPH"
+  },
+  {
+    "ident": "STL",
+    "name": "ST LOUIS"
+  },
+  {
+    "ident": "STS",
+    "name": "SANTA ROSA"
+  },
+  {
+    "ident": "STV",
+    "name": "STONEWALL"
+  },
+  {
+    "ident": "STW",
+    "name": "STILLWATER"
+  },
+  {
+    "ident": "SUG",
+    "name": "SUGARLOAF MOUNTAIN"
+  },
+  {
+    "ident": "SUU",
+    "name": "TRAVIS"
+  },
+  {
+    "ident": "SUX",
+    "name": "SIOUX CITY"
+  },
+  {
+    "ident": "SVC",
+    "name": "SILVER CITY"
+  },
+  {
+    "ident": "SVM",
+    "name": "SALEM"
+  },
+  {
+    "ident": "SVN",
+    "name": "HUNTER"
+  },
+  {
+    "ident": "SWB",
+    "name": "SAWMILL"
+  },
+  {
+    "ident": "SWL",
+    "name": "SNOW HILL"
+  },
+  {
+    "ident": "SWO",
+    "name": "STILLWATER"
+  },
+  {
+    "ident": "SWR",
+    "name": "PALISADES"
+  },
+  {
+    "ident": "SXC",
+    "name": "SANTA CATALINA"
+  },
+  {
+    "ident": "SXW",
+    "name": "SNOW"
+  },
+  {
+    "ident": "SYI",
+    "name": "SHELBYVILLE"
+  },
+  {
+    "ident": "SYR",
+    "name": "SYRACUSE"
+  },
+  {
+    "ident": "SZL",
+    "name": "WHITEMAN"
+  },
+  {
+    "ident": "SZW",
+    "name": "SEMINOLE"
+  },
+  {
+    "ident": "TAS",
+    "name": "TAOS"
+  },
+  {
+    "ident": "TAY",
+    "name": "TAYLOR"
+  },
+  {
+    "ident": "TBC",
+    "name": "TUBA CITY"
+  },
+  {
+    "ident": "TBD",
+    "name": "TIBBY"
+  },
+  {
+    "ident": "TBE",
+    "name": "TOBE"
+  },
+  {
+    "ident": "TBN",
+    "name": "FORNEY"
+  },
+  {
+    "ident": "TCC",
+    "name": "TUCUMCARI"
+  },
+  {
+    "ident": "TCH",
+    "name": "WASATCH"
+  },
+  {
+    "ident": "TCM",
+    "name": "MCCHORD"
+  },
+  {
+    "ident": "TCS",
+    "name": "TRUTH OR CONSEQUENCES"
+  },
+  {
+    "ident": "TDD",
+    "name": "THEDFORD"
+  },
+  {
+    "ident": "TDG",
+    "name": "TALLADEGA"
+  },
+  {
+    "ident": "TDT",
+    "name": "TIDIOUTE"
+  },
+  {
+    "ident": "TEB",
+    "name": "TETERBORO"
+  },
+  {
+    "ident": "TFD",
+    "name": "STANFIELD"
+  },
+  {
+    "ident": "TGE",
+    "name": "TUSKEGEE"
+  },
+  {
+    "ident": "THS",
+    "name": "ST THOMAS"
+  },
+  {
+    "ident": "THX",
+    "name": "THREE RIVERS"
+  },
+  {
+    "ident": "TIK",
+    "name": "TINKER"
+  },
+  {
+    "ident": "TKO",
+    "name": "MANKATO"
+  },
+  {
+    "ident": "TNP",
+    "name": "TWENTYNINE PALMS"
+  },
+  {
+    "ident": "TNU",
+    "name": "NEWTON"
+  },
+  {
+    "ident": "TNV",
+    "name": "NAVASOTA"
+  },
+  {
+    "ident": "TOL",
+    "name": "TOLEDO"
+  },
+  {
+    "ident": "TOP",
+    "name": "TOPEKA"
+  },
+  {
+    "ident": "TOU",
+    "name": "TATOOSH"
+  },
+  {
+    "ident": "TOY",
+    "name": "TROY"
+  },
+  {
+    "ident": "TPH",
+    "name": "TONOPAH"
+  },
+  {
+    "ident": "TPL",
+    "name": "TEMPLE"
+  },
+  {
+    "ident": "TQA",
+    "name": "TUSCOLA"
+  },
+  {
+    "ident": "TQQ",
+    "name": "SILVERBOW"
+  },
+  {
+    "ident": "TRM",
+    "name": "THERMAL"
+  },
+  {
+    "ident": "TRV",
+    "name": "TREASURE"
+  },
+  {
+    "ident": "TST",
+    "name": "TOADSTOOL"
+  },
+  {
+    "ident": "TTE",
+    "name": "TULE"
+  },
+  {
+    "ident": "TTH",
+    "name": "TERRE HAUTE"
+  },
+  {
+    "ident": "TTT",
+    "name": "MAVERICK"
+  },
+  {
+    "ident": "TUL",
+    "name": "TULSA"
+  },
+  {
+    "ident": "TUS",
+    "name": "TUCSON"
+  },
+  {
+    "ident": "TVC",
+    "name": "TRAVERSE CITY"
+  },
+  {
+    "ident": "TVF",
+    "name": "THIEF RIVER FALLS"
+  },
+  {
+    "ident": "TWF",
+    "name": "TWIN FALLS"
+  },
+  {
+    "ident": "TXC",
+    "name": "THURMAN"
+  },
+  {
+    "ident": "TXK",
+    "name": "TEXARKANA"
+  },
+  {
+    "ident": "TXO",
+    "name": "TEXICO"
+  },
+  {
+    "ident": "TYI",
+    "name": "TAR RIVER"
+  },
+  {
+    "ident": "TYR",
+    "name": "TYLER"
+  },
+  {
+    "ident": "UBG",
+    "name": "NEWBERG"
+  },
+  {
+    "ident": "UCA",
+    "name": "UTICA"
+  },
+  {
+    "ident": "UIM",
+    "name": "QUITMAN"
+  },
+  {
+    "ident": "UIN",
+    "name": "QUINCY"
+  },
+  {
+    "ident": "UJM",
+    "name": "MARVELL"
+  },
+  {
+    "ident": "UKN",
+    "name": "WAUKON"
+  },
+  {
+    "ident": "UKW",
+    "name": "BOWIE"
+  },
+  {
+    "ident": "URH",
+    "name": "TEXOMA"
+  },
+  {
+    "ident": "UTI",
+    "name": "ST GEORGE"
+  },
+  {
+    "ident": "UUC",
+    "name": "WINNIE"
+  },
+  {
+    "ident": "VAD",
+    "name": "MOODY"
+  },
+  {
+    "ident": "VAN",
+    "name": "VANCE"
+  },
+  {
+    "ident": "VBG",
+    "name": "VANDENBERG"
+  },
+  {
+    "ident": "VCN",
+    "name": "CEDAR LAKE"
+  },
+  {
+    "ident": "VCT",
+    "name": "VICTORIA"
+  },
+  {
+    "ident": "VCV",
+    "name": "VICTORVILLE"
+  },
+  {
+    "ident": "VEL",
+    "name": "VERNAL"
+  },
+  {
+    "ident": "VHP",
+    "name": "BRICKYARD"
+  },
+  {
+    "ident": "VIH",
+    "name": "VICHY"
+  },
+  {
+    "ident": "VIO",
+    "name": "VICTORY"
+  },
+  {
+    "ident": "VKZ",
+    "name": "VIRGINIA KEY"
+  },
+  {
+    "ident": "VLA",
+    "name": "VANDALIA"
+  },
+  {
+    "ident": "VNA",
+    "name": "VIENNA"
+  },
+  {
+    "ident": "VNN",
+    "name": "MOUNT VERNON"
+  },
+  {
+    "ident": "VNY",
+    "name": "VAN NUYS"
+  },
+  {
+    "ident": "VOK",
+    "name": "VOLK"
+  },
+  {
+    "ident": "VTU",
+    "name": "VENTURA"
+  },
+  {
+    "ident": "VUH",
+    "name": "SCHOLES"
+  },
+  {
+    "ident": "VUZ",
+    "name": "VULCAN"
+  },
+  {
+    "ident": "VXV",
+    "name": "VOLUNTEER"
+  },
+  {
+    "ident": "WRB",
+    "name": "ROBINS"
+  },
+  {
+    "ident": "WVI",
+    "name": "WATSONVILLE"
+  },
+  {
+    "ident": "WYS",
+    "name": "WEST YELLOWSTONE"
+  },
+  {
+    "ident": "XKD",
+    "name": "CHESTER"
+  },
+  {
+    "ident": "XSF",
+    "name": "SPRINGFIELD"
+  },
+  {
+    "ident": "XUB",
+    "name": "YELLOW BUD"
+  },
+  {
+    "ident": "YKM",
+    "name": "YAKIMA"
+  },
+  {
+    "ident": "YKN",
+    "name": "YANKTON"
+  },
+  {
+    "ident": "YNG",
+    "name": "YOUNGSTOWN"
+  },
+  {
+    "ident": "YRK",
+    "name": "YORK"
+  },
+  {
+    "ident": "ZBV",
+    "name": "BIMINI"
+  },
+  {
+    "ident": "ZFP",
+    "name": "FREEPORT"
+  },
+  {
+    "ident": "ZQA",
+    "name": "NASSAU"
+  },
+  {
+    "ident": "ZTC",
+    "name": "TREASURE CAY"
+  },
+  {
+    "ident": "ZUN",
+    "name": "ZUNI"
+  },
+  {
+    "ident": "ZZV",
+    "name": "ZANESVILLE"
+  },
+  {
+    "ident": "ISYK",
+    "name": "WILLIAM P GWINN"
+  },
+  {
+    "ident": "ICFQ",
+    "name": "MIDDLETON MUNI/MOREY FLD"
+  },
+  {
+    "ident": "IGHO",
+    "name": "NORTH PALM BEACH COUNTY"
+  },
+  {
+    "ident": "IAAO",
+    "name": "COLONEL JAMES JABARA"
+  },
+  {
+    "ident": "IGUW",
+    "name": "LEHIGH VALLEY INTL"
+  },
+  {
+    "ident": "IABI",
+    "name": "ABILENE RGNL"
+  },
+  {
+    "ident": "IEMB",
+    "name": "ABILENE RGNL"
+  },
+  {
+    "ident": "ISPT",
+    "name": "ALBUQUERQUE INTL SUNPORT"
+  },
+  {
+    "ident": "IABR",
+    "name": "ABERDEEN RGNL"
+  },
+  {
+    "ident": "IABY",
+    "name": "SOUTHWEST GEORGIA RGNL"
+  },
+  {
+    "ident": "IACK",
+    "name": "NANTUCKET MEML"
+  },
+  {
+    "ident": "IRNE",
+    "name": "NANTUCKET MEML"
+  },
+  {
+    "ident": "IACT",
+    "name": "WACO RGNL"
+  },
+  {
+    "ident": "IACV",
+    "name": "CALIFORNIA REDWOOD COAST"
+  },
+  {
+    "ident": "IACY",
+    "name": "ATLANTIC CITY INTL"
+  },
+  {
+    "ident": "IPVO",
+    "name": "ATLANTIC CITY INTL"
+  },
+  {
+    "ident": "IADS",
+    "name": "ADDISON"
+  },
+  {
+    "ident": "ITBQ",
+    "name": "ADDISON"
+  },
+  {
+    "ident": "IAFJ",
+    "name": "WASHINGTON COUNTY"
+  },
+  {
+    "ident": "IAFP",
+    "name": "ANSON COUNTY/JEFF CLOUD"
+  },
+  {
+    "ident": "IJVX",
+    "name": "PEROT FLD/FORT WORTH ALL"
+  },
+  {
+    "ident": "IUPE",
+    "name": "PEROT FLD/FORT WORTH ALL"
+  },
+  {
+    "ident": "IBYE",
+    "name": "ALLIANCE MUNI"
+  },
+  {
+    "ident": "IAIK",
+    "name": "AIKEN RGNL"
+  },
+  {
+    "ident": "IAKR",
+    "name": "AKRON FULTON INTL"
+  },
+  {
+    "ident": "IALB",
+    "name": "ALBANY INTL"
+  },
+  {
+    "ident": "IDEJ",
+    "name": "ALBANY INTL"
+  },
+  {
+    "ident": "IALI",
+    "name": "ALICE INTL"
+  },
+  {
+    "ident": "IALN",
+    "name": "ST LOUIS RGNL"
+  },
+  {
+    "ident": "IALO",
+    "name": "WATERLOO RGNL"
+  },
+  {
+    "ident": "IRIQ",
+    "name": "RICK HUSBAND AMARILLO IN"
+  },
+  {
+    "ident": "IEEE",
+    "name": "AMES MUNI"
+  },
+  {
+    "ident": "IAND",
+    "name": "ANDERSON RGNL"
+  },
+  {
+    "ident": "IANE",
+    "name": "ANOKA COUNTY/BLAINE (JAN"
+  },
+  {
+    "ident": "IAPA",
+    "name": "CENTENNIAL"
+  },
+  {
+    "ident": "IAPC",
+    "name": "NAPA COUNTY"
+  },
+  {
+    "ident": "IARA",
+    "name": "ACADIANA RGNL"
+  },
+  {
+    "ident": "IROF",
+    "name": "AURORA MUNI"
+  },
+  {
+    "ident": "IART",
+    "name": "WATERTOWN INTL"
+  },
+  {
+    "ident": "IASE",
+    "name": "ASPEN-PITKIN COUNTY/SARD"
+  },
+  {
+    "ident": "IASN",
+    "name": "TALLADEGA MUNI"
+  },
+  {
+    "ident": "IASW",
+    "name": "WARSAW MUNI"
+  },
+  {
+    "ident": "IASX",
+    "name": "JOHN F KENNEDY MEML"
+  },
+  {
+    "ident": "IATL",
+    "name": "HARTSFIELD/JACKSON ATLAN"
+  },
+  {
+    "ident": "IBRU",
+    "name": "HARTSFIELD/JACKSON ATLAN"
+  },
+  {
+    "ident": "IFSQ",
+    "name": "HARTSFIELD/JACKSON ATLAN"
+  },
+  {
+    "ident": "IFUN",
+    "name": "HARTSFIELD/JACKSON ATLAN"
+  },
+  {
+    "ident": "IGXZ",
+    "name": "HARTSFIELD/JACKSON ATLAN"
+  },
+  {
+    "ident": "IHFW",
+    "name": "HARTSFIELD/JACKSON ATLAN"
+  },
+  {
+    "ident": "IHZK",
+    "name": "HARTSFIELD/JACKSON ATLAN"
+  },
+  {
+    "ident": "IOMO",
+    "name": "HARTSFIELD/JACKSON ATLAN"
+  },
+  {
+    "ident": "IPKU",
+    "name": "HARTSFIELD/JACKSON ATLAN"
+  },
+  {
+    "ident": "IAQZ",
+    "name": "APPLETON INTL"
+  },
+  {
+    "ident": "IATW",
+    "name": "APPLETON INTL"
+  },
+  {
+    "ident": "IATY",
+    "name": "WATERTOWN RGNL"
+  },
+  {
+    "ident": "IAUO",
+    "name": "AUBURN UNIVERSITY RGNL"
+  },
+  {
+    "ident": "IBSM",
+    "name": "AUSTIN-BERGSTROM INTL"
+  },
+  {
+    "ident": "IGFQ",
+    "name": "AUSTIN-BERGSTROM INTL"
+  },
+  {
+    "ident": "IHCE",
+    "name": "AUSTIN-BERGSTROM INTL"
+  },
+  {
+    "ident": "IVNK",
+    "name": "AUSTIN-BERGSTROM INTL"
+  },
+  {
+    "ident": "IAVC",
+    "name": "MECKLENBURG-BRUNSWICK RG"
+  },
+  {
+    "ident": "IAVL",
+    "name": "ASHEVILLE RGNL"
+  },
+  {
+    "ident": "IIMO",
+    "name": "ASHEVILLE RGNL"
+  },
+  {
+    "ident": "IAVP",
+    "name": "WILKES-BARRE/SCRANTON IN"
+  },
+  {
+    "ident": "IIZK",
+    "name": "WILKES-BARRE/SCRANTON IN"
+  },
+  {
+    "ident": "ILWR",
+    "name": "WEST MEMPHIS MUNI"
+  },
+  {
+    "ident": "IAXH",
+    "name": "HOUSTON/SOUTHWEST"
+  },
+  {
+    "ident": "IBBG",
+    "name": "BRANSON"
+  },
+  {
+    "ident": "IBCB",
+    "name": "VIRGINIA TECH/MONTGOMERY"
+  },
+  {
+    "ident": "IBDL",
+    "name": "BRADLEY INTL"
+  },
+  {
+    "ident": "IIKX",
+    "name": "BRADLEY INTL"
+  },
+  {
+    "ident": "IMYQ",
+    "name": "BRADLEY INTL"
+  },
+  {
+    "ident": "IBDR",
+    "name": "BRIDGEPORT/SIKORSKY"
+  },
+  {
+    "ident": "IBED",
+    "name": "LAURENCE G HANSCOM FLD"
+  },
+  {
+    "ident": "IULJ",
+    "name": "LAURENCE G HANSCOM FLD"
+  },
+  {
+    "ident": "IBEH",
+    "name": "SOUTHWEST MICHIGAN RGNL"
+  },
+  {
+    "ident": "IBFF",
+    "name": "SCOTTSBLUFF/WESTERN NEBR"
+  },
+  {
+    "ident": "IRMT",
+    "name": "SCOTTSBLUFF/WESTERN NEBR"
+  },
+  {
+    "ident": "IBFI",
+    "name": "BOEING FLD/KING COUNTY I"
+  },
+  {
+    "ident": "ICHJ",
+    "name": "BOEING FLD/KING COUNTY I"
+  },
+  {
+    "ident": "IBFL",
+    "name": "MEADOWS FLD"
+  },
+  {
+    "ident": "IRUJ",
+    "name": "MOBILE INTL"
+  },
+  {
+    "ident": "IBGR",
+    "name": "BANGOR INTL"
+  },
+  {
+    "ident": "IJVH",
+    "name": "BANGOR INTL"
+  },
+  {
+    "ident": "IBHB",
+    "name": "HANCOCK COUNTY/BAR HARBO"
+  },
+  {
+    "ident": "IBXO",
+    "name": "BIRMINGHAM-SHUTTLESWORTH"
+  },
+  {
+    "ident": "IROE",
+    "name": "BIRMINGHAM-SHUTTLESWORTH"
+  },
+  {
+    "ident": "IBIF",
+    "name": "BIGGS AAF (FORT BLISS)"
+  },
+  {
+    "ident": "IBIH",
+    "name": "BISHOP"
+  },
+  {
+    "ident": "IBIL",
+    "name": "BILLINGS LOGAN INTL"
+  },
+  {
+    "ident": "IBMO",
+    "name": "BILLINGS LOGAN INTL"
+  },
+  {
+    "ident": "IBIS",
+    "name": "BISMARCK MUNI"
+  },
+  {
+    "ident": "IBIV",
+    "name": "WEST MICHIGAN RGNL"
+  },
+  {
+    "ident": "IBJI",
+    "name": "BEMIDJI RGNL"
+  },
+  {
+    "ident": "IBFT",
+    "name": "BURKE LAKEFRONT"
+  },
+  {
+    "ident": "IOSV",
+    "name": "BROOKSVILLE-TAMPA BAY RG"
+  },
+  {
+    "ident": "IBKX",
+    "name": "BROOKINGS RGNL"
+  },
+  {
+    "ident": "IBLI",
+    "name": "BELLINGHAM INTL"
+  },
+  {
+    "ident": "IBTC",
+    "name": "SCOTT AFB/MIDAMERICA ST"
+  },
+  {
+    "ident": "IBMI",
+    "name": "CENTRAL IL RGNL/BLOOMING"
+  },
+  {
+    "ident": "ILHJ",
+    "name": "CENTRAL IL RGNL/BLOOMING"
+  },
+  {
+    "ident": "ITXN",
+    "name": "CENTRAL IL RGNL/BLOOMING"
+  },
+  {
+    "ident": "IBNA",
+    "name": "NASHVILLE INTL"
+  },
+  {
+    "ident": "ISSX",
+    "name": "NASHVILLE INTL"
+  },
+  {
+    "ident": "IUQU",
+    "name": "NASHVILLE INTL"
+  },
+  {
+    "ident": "IAAD",
+    "name": "BOISE AIR TRML/GOWEN FLD"
+  },
+  {
+    "ident": "IBOI",
+    "name": "BOISE AIR TRML/GOWEN FLD"
+  },
+  {
+    "ident": "IBOS",
+    "name": "GENERAL EDWARD LAWRENCE"
+  },
+  {
+    "ident": "IDGU",
+    "name": "GENERAL EDWARD LAWRENCE"
+  },
+  {
+    "ident": "ILIP",
+    "name": "GENERAL EDWARD LAWRENCE"
+  },
+  {
+    "ident": "ILQN",
+    "name": "GENERAL EDWARD LAWRENCE"
+  },
+  {
+    "ident": "IMDC",
+    "name": "GENERAL EDWARD LAWRENCE"
+  },
+  {
+    "ident": "IBPK",
+    "name": "BAXTER COUNTY"
+  },
+  {
+    "ident": "IBPT",
+    "name": "JACK BROOKS RGNL"
+  },
+  {
+    "ident": "ILER",
+    "name": "BRAINERD LAKES RGNL"
+  },
+  {
+    "ident": "IBRO",
+    "name": "BROWNSVILLE/SOUTH PADRE"
+  },
+  {
+    "ident": "IBEY",
+    "name": "BERT MOONEY"
+  },
+  {
+    "ident": "IBTR",
+    "name": "BATON ROUGE METRO, RYAN"
+  },
+  {
+    "ident": "ICLZ",
+    "name": "BATON ROUGE METRO, RYAN"
+  },
+  {
+    "ident": "IBTV",
+    "name": "PATRICK LEAHY BURLINGTON"
+  },
+  {
+    "ident": "IVOE",
+    "name": "PATRICK LEAHY BURLINGTON"
+  },
+  {
+    "ident": "IBNQ",
+    "name": "BUFFALO NIAGARA INTL"
+  },
+  {
+    "ident": "IBVX",
+    "name": "BATESVILLE RGNL"
+  },
+  {
+    "ident": "IBXM",
+    "name": "BRUNSWICK EXEC"
+  },
+  {
+    "ident": "IBYH",
+    "name": "ARKANSAS INTL"
+  },
+  {
+    "ident": "IBYL",
+    "name": "WILLIAMSBURG-WHITLEY COU"
+  },
+  {
+    "ident": "IMAY",
+    "name": "WEXFORD COUNTY"
+  },
+  {
+    "ident": "ICAE",
+    "name": "COLUMBIA METRO"
+  },
+  {
+    "ident": "IEQX",
+    "name": "AKRON-CANTON RGNL"
+  },
+  {
+    "ident": "IGGZ",
+    "name": "AKRON-CANTON RGNL"
+  },
+  {
+    "ident": "ICBE",
+    "name": "GREATER CUMBERLAND RGNL"
+  },
+  {
+    "ident": "ICBF",
+    "name": "COUNCIL BLUFFS MUNI"
+  },
+  {
+    "ident": "ICCR",
+    "name": "BUCHANAN FLD"
+  },
+  {
+    "ident": "IFTG",
+    "name": "COLORADO AIR AND SPACE P"
+  },
+  {
+    "ident": "IFZR",
+    "name": "COLORADO AIR AND SPACE P"
+  },
+  {
+    "ident": "IVWT",
+    "name": "COLORADO AIR AND SPACE P"
+  },
+  {
+    "ident": "ICGF",
+    "name": "CUYAHOGA COUNTY"
+  },
+  {
+    "ident": "ICGI",
+    "name": "CAPE GIRARDEAU RGNL"
+  },
+  {
+    "ident": "ICHO",
+    "name": "CHARLOTTESVILLE-ALBEMARL"
+  },
+  {
+    "ident": "ICIC",
+    "name": "CHICO RGNL"
+  },
+  {
+    "ident": "IRRU",
+    "name": "THE EASTERN IOWA"
+  },
+  {
+    "ident": "IDZH",
+    "name": "CULPEPER RGNL"
+  },
+  {
+    "ident": "ICLE",
+    "name": "CLEVELAND-HOPKINS INTL"
+  },
+  {
+    "ident": "IHPI",
+    "name": "CLEVELAND-HOPKINS INTL"
+  },
+  {
+    "ident": "ILIZ",
+    "name": "CLEVELAND-HOPKINS INTL"
+  },
+  {
+    "ident": "IPVY",
+    "name": "CLEVELAND-HOPKINS INTL"
+  },
+  {
+    "ident": "IPXP",
+    "name": "CLEVELAND-HOPKINS INTL"
+  },
+  {
+    "ident": "ICLL",
+    "name": "EASTERWOOD FLD"
+  },
+  {
+    "ident": "ICLM",
+    "name": "WILLIAM R FAIRCHILD INTL"
+  },
+  {
+    "ident": "IBQC",
+    "name": "CHARLOTTE/DOUGLAS INTL"
+  },
+  {
+    "ident": "IPEP",
+    "name": "CHARLOTTE/DOUGLAS INTL"
+  },
+  {
+    "ident": "IRGS",
+    "name": "CHARLOTTE/DOUGLAS INTL"
+  },
+  {
+    "ident": "IVKQ",
+    "name": "CHARLOTTE/DOUGLAS INTL"
+  },
+  {
+    "ident": "IXUU",
+    "name": "CHARLOTTE/DOUGLAS INTL"
+  },
+  {
+    "ident": "IAQI",
+    "name": "JOHN GLENN COLUMBUS INTL"
+  },
+  {
+    "ident": "ICBP",
+    "name": "JOHN GLENN COLUMBUS INTL"
+  },
+  {
+    "ident": "ICMH",
+    "name": "JOHN GLENN COLUMBUS INTL"
+  },
+  {
+    "ident": "IONB",
+    "name": "JOHN GLENN COLUMBUS INTL"
+  },
+  {
+    "ident": "ICMI",
+    "name": "UNIVERSITY OF ILLINOIS/W"
+  },
+  {
+    "ident": "ICMX",
+    "name": "HOUGHTON COUNTY MEML"
+  },
+  {
+    "ident": "IAHI",
+    "name": "CITY OF COLORADO SPRINGS"
+  },
+  {
+    "ident": "ILPI",
+    "name": "CITY OF COLORADO SPRINGS"
+  },
+  {
+    "ident": "ICOU",
+    "name": "COLUMBIA RGNL"
+  },
+  {
+    "ident": "IEYK",
+    "name": "CHESAPEAKE RGNL"
+  },
+  {
+    "ident": "IVVM",
+    "name": "GREENE COUNTY RGNL"
+  },
+  {
+    "ident": "ICPT",
+    "name": "CLEBURNE RGNL"
+  },
+  {
+    "ident": "ICRE",
+    "name": "GRAND STRAND"
+  },
+  {
+    "ident": "ICRP",
+    "name": "CORPUS CHRISTI INTL"
+  },
+  {
+    "ident": "IEKI",
+    "name": "CORPUS CHRISTI INTL"
+  },
+  {
+    "ident": "IOYC",
+    "name": "CORPUS CHRISTI INTL"
+  },
+  {
+    "ident": "ICRQ",
+    "name": "MC CLELLAN-PALOMAR"
+  },
+  {
+    "ident": "ICRW",
+    "name": "WEST VIRGINIA INTL YEAGE"
+  },
+  {
+    "ident": "IHCV",
+    "name": "WEST VIRGINIA INTL YEAGE"
+  },
+  {
+    "ident": "ICUB",
+    "name": "JIM HAMILTON L B OWENS"
+  },
+  {
+    "ident": "ICIZ",
+    "name": "CINCINNATI/NORTHERN KENT"
+  },
+  {
+    "ident": "ICJN",
+    "name": "CINCINNATI/NORTHERN KENT"
+  },
+  {
+    "ident": "ICVG",
+    "name": "CINCINNATI/NORTHERN KENT"
+  },
+  {
+    "ident": "IEEI",
+    "name": "CINCINNATI/NORTHERN KENT"
+  },
+  {
+    "ident": "ISIC",
+    "name": "CINCINNATI/NORTHERN KENT"
+  },
+  {
+    "ident": "IURN",
+    "name": "CINCINNATI/NORTHERN KENT"
+  },
+  {
+    "ident": "IVAC",
+    "name": "CINCINNATI/NORTHERN KENT"
+  },
+  {
+    "ident": "ICWA",
+    "name": "CENTRAL WISCONSIN"
+  },
+  {
+    "ident": "IPHS",
+    "name": "CENTRAL WISCONSIN"
+  },
+  {
+    "ident": "IFNO",
+    "name": "CLINTON MUNI"
+  },
+  {
+    "ident": "ICXO",
+    "name": "CONROE/NORTH HOUSTON RGN"
+  },
+  {
+    "ident": "ICYS",
+    "name": "CHEYENNE RGNL/JERRY OLSO"
+  },
+  {
+    "ident": "IDAA",
+    "name": "DAVISON AAF"
+  },
+  {
+    "ident": "IDBF",
+    "name": "DAYTONA BEACH INTL"
+  },
+  {
+    "ident": "IDAL",
+    "name": "DALLAS LOVE FLD"
+  },
+  {
+    "ident": "IDPX",
+    "name": "DALLAS LOVE FLD"
+  },
+  {
+    "ident": "ILVF",
+    "name": "DALLAS LOVE FLD"
+  },
+  {
+    "ident": "IOVW",
+    "name": "DALLAS LOVE FLD"
+  },
+  {
+    "ident": "IEGK",
+    "name": "JAMES M COX DAYTON INTL"
+  },
+  {
+    "ident": "IVUQ",
+    "name": "JAMES M COX DAYTON INTL"
+  },
+  {
+    "ident": "IDBN",
+    "name": "W H 'BUD' BARRON"
+  },
+  {
+    "ident": "IDBQ",
+    "name": "DUBUQUE RGNL"
+  },
+  {
+    "ident": "IFUQ",
+    "name": "DUBUQUE RGNL"
+  },
+  {
+    "ident": "IDCA",
+    "name": "RONALD REAGAN WASHINGTON"
+  },
+  {
+    "ident": "IVWH",
+    "name": "RONALD REAGAN WASHINGTON"
+  },
+  {
+    "ident": "IDCU",
+    "name": "PRYOR FLD RGNL"
+  },
+  {
+    "ident": "IDEC",
+    "name": "DECATUR"
+  },
+  {
+    "ident": "IACX",
+    "name": "DENVER INTL"
+  },
+  {
+    "ident": "IAQD",
+    "name": "DENVER INTL"
+  },
+  {
+    "ident": "IBXP",
+    "name": "DENVER INTL"
+  },
+  {
+    "ident": "IDPP",
+    "name": "DENVER INTL"
+  },
+  {
+    "ident": "IDQQ",
+    "name": "DENVER INTL"
+  },
+  {
+    "ident": "IDXU",
+    "name": "DENVER INTL"
+  },
+  {
+    "ident": "IDZG",
+    "name": "DENVER INTL"
+  },
+  {
+    "ident": "IERP",
+    "name": "DENVER INTL"
+  },
+  {
+    "ident": "IFUI",
+    "name": "DENVER INTL"
+  },
+  {
+    "ident": "IJOY",
+    "name": "DENVER INTL"
+  },
+  {
+    "ident": "ILTT",
+    "name": "DENVER INTL"
+  },
+  {
+    "ident": "IOUF",
+    "name": "DENVER INTL"
+  },
+  {
+    "ident": "IAJQ",
+    "name": "DALLAS-FORT WORTH INTL"
+  },
+  {
+    "ident": "IBXN",
+    "name": "DALLAS-FORT WORTH INTL"
+  },
+  {
+    "ident": "ICIX",
+    "name": "DALLAS-FORT WORTH INTL"
+  },
+  {
+    "ident": "IFJN",
+    "name": "DALLAS-FORT WORTH INTL"
+  },
+  {
+    "ident": "IFLQ",
+    "name": "DALLAS-FORT WORTH INTL"
+  },
+  {
+    "ident": "IJHZ",
+    "name": "DALLAS-FORT WORTH INTL"
+  },
+  {
+    "ident": "ILWN",
+    "name": "DALLAS-FORT WORTH INTL"
+  },
+  {
+    "ident": "IPKQ",
+    "name": "DALLAS-FORT WORTH INTL"
+  },
+  {
+    "ident": "IPPZ",
+    "name": "DALLAS-FORT WORTH INTL"
+  },
+  {
+    "ident": "IRRA",
+    "name": "DALLAS-FORT WORTH INTL"
+  },
+  {
+    "ident": "IUWX",
+    "name": "DALLAS-FORT WORTH INTL"
+  },
+  {
+    "ident": "IVYN",
+    "name": "DALLAS-FORT WORTH INTL"
+  },
+  {
+    "ident": "IODA",
+    "name": "DOTHAN RGNL"
+  },
+  {
+    "ident": "IDIK",
+    "name": "DICKINSON/THEODORE ROOSE"
+  },
+  {
+    "ident": "IDJK",
+    "name": "DE KALB TAYLOR MUNI"
+  },
+  {
+    "ident": "IDLL",
+    "name": "BARABOO/WISCONSIN DELLS"
+  },
+  {
+    "ident": "IDLS",
+    "name": "COLUMBIA GORGE RGNL/THE"
+  },
+  {
+    "ident": "IDRT",
+    "name": "DEL RIO INTL"
+  },
+  {
+    "ident": "IDSM",
+    "name": "DES MOINES INTL"
+  },
+  {
+    "ident": "IDWW",
+    "name": "DES MOINES INTL"
+  },
+  {
+    "ident": "IVGU",
+    "name": "DES MOINES INTL"
+  },
+  {
+    "ident": "IDTN",
+    "name": "SHREVEPORT DOWNTOWN"
+  },
+  {
+    "ident": "IALA",
+    "name": "DETROIT METRO WAYNE COUN"
+  },
+  {
+    "ident": "IBZB",
+    "name": "DETROIT METRO WAYNE COUN"
+  },
+  {
+    "ident": "IDTW",
+    "name": "DETROIT METRO WAYNE COUN"
+  },
+  {
+    "ident": "IDWC",
+    "name": "DETROIT METRO WAYNE COUN"
+  },
+  {
+    "ident": "IEJR",
+    "name": "DETROIT METRO WAYNE COUN"
+  },
+  {
+    "ident": "IEPA",
+    "name": "DETROIT METRO WAYNE COUN"
+  },
+  {
+    "ident": "IHJT",
+    "name": "DETROIT METRO WAYNE COUN"
+  },
+  {
+    "ident": "IHUU",
+    "name": "DETROIT METRO WAYNE COUN"
+  },
+  {
+    "ident": "IJKI",
+    "name": "DETROIT METRO WAYNE COUN"
+  },
+  {
+    "ident": "IPQQ",
+    "name": "STUART POWELL FLD"
+  },
+  {
+    "ident": "IDVN",
+    "name": "DAVENPORT MUNI"
+  },
+  {
+    "ident": "IHEW",
+    "name": "DAVID WAYNE HOOKS MEML"
+  },
+  {
+    "ident": "IDXR",
+    "name": "DANBURY MUNI"
+  },
+  {
+    "ident": "IEAR",
+    "name": "KEARNEY RGNL"
+  },
+  {
+    "ident": "IADJ",
+    "name": "PANGBORN MEML"
+  },
+  {
+    "ident": "IEAU",
+    "name": "CHIPPEWA VALLEY RGNL"
+  },
+  {
+    "ident": "IEPR",
+    "name": "ELIZABETH CITY CG AIR ST"
+  },
+  {
+    "ident": "IPUK",
+    "name": "NORTHWEST FLORIDA BEACHE"
+  },
+  {
+    "ident": "IEDE",
+    "name": "NORTHEASTERN RGNL"
+  },
+  {
+    "ident": "IESJ",
+    "name": "EAGLE COUNTY RGNL"
+  },
+  {
+    "ident": "IVAZ",
+    "name": "EAGLE COUNTY RGNL"
+  },
+  {
+    "ident": "ILBJ",
+    "name": "EAGLE RIVER UNION"
+  },
+  {
+    "ident": "IOUW",
+    "name": "ELKINS/RANDOLPH COUNTY ("
+  },
+  {
+    "ident": "IEKO",
+    "name": "ELKO RGNL"
+  },
+  {
+    "ident": "IADR",
+    "name": "ADDINGTON FLD"
+  },
+  {
+    "ident": "IEKY",
+    "name": "BESSEMER NTL"
+  },
+  {
+    "ident": "IELD",
+    "name": "SOUTH ARKANSAS RGNL AT G"
+  },
+  {
+    "ident": "IELP",
+    "name": "EL PASO INTL"
+  },
+  {
+    "ident": "IETF",
+    "name": "EL PASO INTL"
+  },
+  {
+    "ident": "IEMV",
+    "name": "EMPORIA-GREENSVILLE RGNL"
+  },
+  {
+    "ident": "IBBJ",
+    "name": "KEOKUK MUNI"
+  },
+  {
+    "ident": "IEQY",
+    "name": "CHARLOTTE/MONROE EXEC"
+  },
+  {
+    "ident": "IAWY",
+    "name": "ERIE INTL/TOM RIDGE FLD"
+  },
+  {
+    "ident": "IERI",
+    "name": "ERIE INTL/TOM RIDGE FLD"
+  },
+  {
+    "ident": "IESC",
+    "name": "DELTA COUNTY"
+  },
+  {
+    "ident": "IESF",
+    "name": "ESLER RGNL"
+  },
+  {
+    "ident": "IFGH",
+    "name": "EASTON/NEWNAM FLD"
+  },
+  {
+    "ident": "IADE",
+    "name": "MAHLON SWEET FLD"
+  },
+  {
+    "ident": "IEUG",
+    "name": "MAHLON SWEET FLD"
+  },
+  {
+    "ident": "IDSO",
+    "name": "EVANSVILLE RGNL"
+  },
+  {
+    "ident": "IEVV",
+    "name": "EVANSVILLE RGNL"
+  },
+  {
+    "ident": "IEVW",
+    "name": "EVANSTON-UINTA COUNTY BU"
+  },
+  {
+    "ident": "IEWB",
+    "name": "NEW BEDFORD RGNL"
+  },
+  {
+    "ident": "IEWR",
+    "name": "NEWARK LIBERTY INTL"
+  },
+  {
+    "ident": "IEZA",
+    "name": "NEWARK LIBERTY INTL"
+  },
+  {
+    "ident": "IGPR",
+    "name": "NEWARK LIBERTY INTL"
+  },
+  {
+    "ident": "IJNN",
+    "name": "NEWARK LIBERTY INTL"
+  },
+  {
+    "ident": "ILSQ",
+    "name": "NEWARK LIBERTY INTL"
+  },
+  {
+    "ident": "IEXX",
+    "name": "DAVIDSON COUNTY EXEC"
+  },
+  {
+    "ident": "IFAR",
+    "name": "HECTOR INTL"
+  },
+  {
+    "ident": "IFAT",
+    "name": "FRESNO YOSEMITE INTL"
+  },
+  {
+    "ident": "IRPW",
+    "name": "FRESNO YOSEMITE INTL"
+  },
+  {
+    "ident": "IGRA",
+    "name": "FAYETTEVILLE RGNL/GRANNI"
+  },
+  {
+    "ident": "ICFU",
+    "name": "RICHMOND EXEC/CHESTERFIE"
+  },
+  {
+    "ident": "IFCS",
+    "name": "BUTTS AAF (FORT CARSON)"
+  },
+  {
+    "ident": "IPJE",
+    "name": "ALBERTUS"
+  },
+  {
+    "ident": "IFFC",
+    "name": "ATLANTA RGNL FALCON FLD"
+  },
+  {
+    "ident": "IFFT",
+    "name": "CAPITAL CITY"
+  },
+  {
+    "ident": "IFLD",
+    "name": "FOND DU LAC COUNTY"
+  },
+  {
+    "ident": "IADI",
+    "name": "FORT LAUDERDALE/HOLLYWOO"
+  },
+  {
+    "ident": "IFLL",
+    "name": "FORT LAUDERDALE/HOLLYWOO"
+  },
+  {
+    "ident": "ILHI",
+    "name": "FORT LAUDERDALE/HOLLYWOO"
+  },
+  {
+    "ident": "IUDL",
+    "name": "FORT LAUDERDALE/HOLLYWOO"
+  },
+  {
+    "ident": "IFLO",
+    "name": "FLORENCE RGNL"
+  },
+  {
+    "ident": "IBNX",
+    "name": "CAPE COD COAST GUARD AIR"
+  },
+  {
+    "ident": "IFMH",
+    "name": "CAPE COD COAST GUARD AIR"
+  },
+  {
+    "ident": "IFMN",
+    "name": "FOUR CORNERS RGNL"
+  },
+  {
+    "ident": "IRTT",
+    "name": "FLORA MUNI"
+  },
+  {
+    "ident": "IFOE",
+    "name": "TOPEKA RGNL"
+  },
+  {
+    "ident": "IFOK",
+    "name": "FRANCIS S GABRESKI"
+  },
+  {
+    "ident": "IFJD",
+    "name": "TREASURE COAST INTL"
+  },
+  {
+    "ident": "IFRI",
+    "name": "MARSHALL AAF"
+  },
+  {
+    "ident": "IFTK",
+    "name": "GODMAN AAF"
+  },
+  {
+    "ident": "IFTW",
+    "name": "FORT WORTH MEACHAM INTL"
+  },
+  {
+    "ident": "IUXT",
+    "name": "FORT WORTH MEACHAM INTL"
+  },
+  {
+    "ident": "IFUL",
+    "name": "FULLERTON MUNI"
+  },
+  {
+    "ident": "IFWA",
+    "name": "FORT WAYNE INTL"
+  },
+  {
+    "ident": "IFYJ",
+    "name": "MIDDLE PENINSULA RGNL"
+  },
+  {
+    "ident": "IFYV",
+    "name": "DRAKE FLD"
+  },
+  {
+    "ident": "ILFH",
+    "name": "DRAKE FLD"
+  },
+  {
+    "ident": "IFZY",
+    "name": "OSWEGO COUNTY"
+  },
+  {
+    "ident": "IGAD",
+    "name": "NORTHEAST ALABAMA RGNL"
+  },
+  {
+    "ident": "IGAO",
+    "name": "SOUTH LAFOURCHE LEONARD"
+  },
+  {
+    "ident": "IGBD",
+    "name": "GREAT BEND MUNI"
+  },
+  {
+    "ident": "ILLT",
+    "name": "NORTHEAST WYOMING RGNL"
+  },
+  {
+    "ident": "IGEG",
+    "name": "SPOKANE INTL"
+  },
+  {
+    "ident": "IOLJ",
+    "name": "SPOKANE INTL"
+  },
+  {
+    "ident": "IJUH",
+    "name": "ASHE COUNTY"
+  },
+  {
+    "ident": "IGFK",
+    "name": "GRAND FORKS INTL"
+  },
+  {
+    "ident": "IACD",
+    "name": "GRAND JUNCTION RGNL"
+  },
+  {
+    "ident": "IGJT",
+    "name": "GRAND JUNCTION RGNL"
+  },
+  {
+    "ident": "IGKY",
+    "name": "ARLINGTON MUNI"
+  },
+  {
+    "ident": "IGLD",
+    "name": "RENNER FLD/GOODLAND MUNI"
+  },
+  {
+    "ident": "IGON",
+    "name": "GROTON-NEW LONDON"
+  },
+  {
+    "ident": "ICUE",
+    "name": "MIDWEST NTL AIR CENTER"
+  },
+  {
+    "ident": "IGRB",
+    "name": "GREEN BAY/AUSTIN STRAUBE"
+  },
+  {
+    "ident": "IGRF",
+    "name": "GRAY AAF (JOINT BASE LEW"
+  },
+  {
+    "ident": "IBTJ",
+    "name": "ROBERT GRAY AAF"
+  },
+  {
+    "ident": "IGFN",
+    "name": "PIEDMONT TRIAD INTL"
+  },
+  {
+    "ident": "IIDB",
+    "name": "PIEDMONT TRIAD INTL"
+  },
+  {
+    "ident": "ILLG",
+    "name": "PIEDMONT TRIAD INTL"
+  },
+  {
+    "ident": "ILZY",
+    "name": "PIEDMONT TRIAD INTL"
+  },
+  {
+    "ident": "IGSP",
+    "name": "GREENVILLE SPARTANBURG I"
+  },
+  {
+    "ident": "IAEZ",
+    "name": "WHEELER-SACK AAF"
+  },
+  {
+    "ident": "IGTB",
+    "name": "WHEELER-SACK AAF"
+  },
+  {
+    "ident": "ISMR",
+    "name": "GREAT FALLS INTL"
+  },
+  {
+    "ident": "IRVT",
+    "name": "GOLDEN TRIANGLE RGNL"
+  },
+  {
+    "ident": "IGUC",
+    "name": "GUNNISON-CRESTED BUTTE R"
+  },
+  {
+    "ident": "IGUP",
+    "name": "GALLUP MUNI"
+  },
+  {
+    "ident": "IGVL",
+    "name": "LEE GILMER MEML"
+  },
+  {
+    "ident": "IGVT",
+    "name": "MAJORS"
+  },
+  {
+    "ident": "IGWB",
+    "name": "AUBURN/DEKALB EXEC"
+  },
+  {
+    "ident": "IDCI",
+    "name": "GREELEY-WELD COUNTY"
+  },
+  {
+    "ident": "IGYH",
+    "name": "DONALDSON FLD"
+  },
+  {
+    "ident": "IGYY",
+    "name": "GARY/CHICAGO INTL"
+  },
+  {
+    "ident": "IRQF",
+    "name": "BUTLER COUNTY RGNL/HOGAN"
+  },
+  {
+    "ident": "IHDN",
+    "name": "YAMPA VALLEY"
+  },
+  {
+    "ident": "IHGR",
+    "name": "HAGERSTOWN RGNL/RICHARD"
+  },
+  {
+    "ident": "IUYK",
+    "name": "HAGERSTOWN RGNL/RICHARD"
+  },
+  {
+    "ident": "IHOB",
+    "name": "LEA COUNTY RGNL"
+  },
+  {
+    "ident": "IHON",
+    "name": "HURON RGNL"
+  },
+  {
+    "ident": "IFKP",
+    "name": "CAMPBELL AAF (FORT CAMPB"
+  },
+  {
+    "ident": "IHOT",
+    "name": "MEML FLD"
+  },
+  {
+    "ident": "IHUB",
+    "name": "WILLIAM P HOBBY"
+  },
+  {
+    "ident": "IOIB",
+    "name": "WILLIAM P HOBBY"
+  },
+  {
+    "ident": "IPRQ",
+    "name": "WILLIAM P HOBBY"
+  },
+  {
+    "ident": "IUPU",
+    "name": "WILLIAM P HOBBY"
+  },
+  {
+    "ident": "IHPN",
+    "name": "WESTCHESTER COUNTY"
+  },
+  {
+    "ident": "IOJZ",
+    "name": "WESTCHESTER COUNTY"
+  },
+  {
+    "ident": "IHQM",
+    "name": "BOWERMAN FLD"
+  },
+  {
+    "ident": "IHRJ",
+    "name": "HARNETT RGNL JETPORT"
+  },
+  {
+    "ident": "IHRL",
+    "name": "VALLEY INTL"
+  },
+  {
+    "ident": "IRVZ",
+    "name": "VALLEY INTL"
+  },
+  {
+    "ident": "IHRO",
+    "name": "BOONE COUNTY"
+  },
+  {
+    "ident": "IELL",
+    "name": "HUNTSVILLE INTL-CARL T J"
+  },
+  {
+    "ident": "IJJC",
+    "name": "HUNTSVILLE INTL-CARL T J"
+  },
+  {
+    "ident": "IHTS",
+    "name": "TRI-STATE/MILTON J FERGU"
+  },
+  {
+    "ident": "ITUU",
+    "name": "TRI-STATE/MILTON J FERGU"
+  },
+  {
+    "ident": "IHVN",
+    "name": "TWEED/NEW HAVEN"
+  },
+  {
+    "ident": "IHWD",
+    "name": "HAYWARD EXEC"
+  },
+  {
+    "ident": "IHWY",
+    "name": "WARRENTON/FAUQUIER"
+  },
+  {
+    "ident": "IHXD",
+    "name": "HILTON HEAD"
+  },
+  {
+    "ident": "IBCU",
+    "name": "CAPE COD GATEWAY"
+  },
+  {
+    "ident": "IHYA",
+    "name": "CAPE COD GATEWAY"
+  },
+  {
+    "ident": "IHTY",
+    "name": "SAWYER COUNTY"
+  },
+  {
+    "ident": "IHQW",
+    "name": "SAGINAW COUNTY/H W BROWN"
+  },
+  {
+    "ident": "IHZL",
+    "name": "HAZLETON RGNL"
+  },
+  {
+    "ident": "IHZR",
+    "name": "FALSE RIVER RGNL"
+  },
+  {
+    "ident": "IIAD",
+    "name": "WASHINGTON DULLES INTL"
+  },
+  {
+    "ident": "IISU",
+    "name": "WASHINGTON DULLES INTL"
+  },
+  {
+    "ident": "IOIU",
+    "name": "WASHINGTON DULLES INTL"
+  },
+  {
+    "ident": "ISGC",
+    "name": "WASHINGTON DULLES INTL"
+  },
+  {
+    "ident": "IBZU",
+    "name": "GEORGE BUSH INTCNTL/HOUS"
+  },
+  {
+    "ident": "IGHI",
+    "name": "GEORGE BUSH INTCNTL/HOUS"
+  },
+  {
+    "ident": "IIAH",
+    "name": "GEORGE BUSH INTCNTL/HOUS"
+  },
+  {
+    "ident": "IJYV",
+    "name": "GEORGE BUSH INTCNTL/HOUS"
+  },
+  {
+    "ident": "IOND",
+    "name": "GEORGE BUSH INTCNTL/HOUS"
+  },
+  {
+    "ident": "IUYO",
+    "name": "GEORGE BUSH INTCNTL/HOUS"
+  },
+  {
+    "ident": "IICT",
+    "name": "WICHITA DWIGHT D EISENHO"
+  },
+  {
+    "ident": "IMVP",
+    "name": "WICHITA DWIGHT D EISENHO"
+  },
+  {
+    "ident": "IIDA",
+    "name": "IDAHO FALLS RGNL"
+  },
+  {
+    "ident": "IIDP",
+    "name": "INDEPENDENCE MUNI"
+  },
+  {
+    "ident": "IXJX",
+    "name": "LANSING MUNI"
+  },
+  {
+    "ident": "IIJD",
+    "name": "WINDHAM"
+  },
+  {
+    "ident": "IFVH",
+    "name": "ANKENY RGNL"
+  },
+  {
+    "ident": "IGNM",
+    "name": "WILMINGTON INTL"
+  },
+  {
+    "ident": "IFVJ",
+    "name": "INDIANAPOLIS INTL"
+  },
+  {
+    "ident": "IIND",
+    "name": "INDIANAPOLIS INTL"
+  },
+  {
+    "ident": "IOQV",
+    "name": "INDIANAPOLIS INTL"
+  },
+  {
+    "ident": "IUZK",
+    "name": "INDIANAPOLIS INTL"
+  },
+  {
+    "ident": "IIPJ",
+    "name": "LINCOLN COUNTY RGNL"
+  },
+  {
+    "ident": "IIPT",
+    "name": "WILLIAMSPORT RGNL"
+  },
+  {
+    "ident": "IIRK",
+    "name": "KIRKSVILLE RGNL"
+  },
+  {
+    "ident": "IISM",
+    "name": "KISSIMMEE GATEWAY"
+  },
+  {
+    "ident": "IISO",
+    "name": "KINSTON RGNL JETPORT AT"
+  },
+  {
+    "ident": "IISP",
+    "name": "LONG ISLAND MAC ARTHUR"
+  },
+  {
+    "ident": "IRXN",
+    "name": "LONG ISLAND MAC ARTHUR"
+  },
+  {
+    "ident": "IOBG",
+    "name": "KIT CARSON COUNTY"
+  },
+  {
+    "ident": "IIXD",
+    "name": "NEW CENTURY AIRCENTER"
+  },
+  {
+    "ident": "IJAC",
+    "name": "JACKSON HOLE"
+  },
+  {
+    "ident": "ICZH",
+    "name": "JACKSONVILLE INTL"
+  },
+  {
+    "ident": "IJEF",
+    "name": "JEFFERSON CITY MEML"
+  },
+  {
+    "ident": "IHIQ",
+    "name": "JOHN F KENNEDY INTL"
+  },
+  {
+    "ident": "IIWY",
+    "name": "JOHN F KENNEDY INTL"
+  },
+  {
+    "ident": "IJFK",
+    "name": "JOHN F KENNEDY INTL"
+  },
+  {
+    "ident": "IJOC",
+    "name": "JOHN F KENNEDY INTL"
+  },
+  {
+    "ident": "IRTH",
+    "name": "JOHN F KENNEDY INTL"
+  },
+  {
+    "ident": "ITLK",
+    "name": "JOHN F KENNEDY INTL"
+  },
+  {
+    "ident": "IJFX",
+    "name": "WALKER COUNTY/BEVILL FLD"
+  },
+  {
+    "ident": "IJFZ",
+    "name": "TAZEWELL COUNTY"
+  },
+  {
+    "ident": "IJHW",
+    "name": "CHAUTAUQUA COUNTY/JAMEST"
+  },
+  {
+    "ident": "IJKA",
+    "name": "GULF SHORES INTL/JACK ED"
+  },
+  {
+    "ident": "IJQX",
+    "name": "JOPLIN RGNL"
+  },
+  {
+    "ident": "IJNX",
+    "name": "JOHNSTON RGNL"
+  },
+  {
+    "ident": "IJQF",
+    "name": "CONCORD-PADGETT RGNL"
+  },
+  {
+    "ident": "IREE",
+    "name": "SOUTHERN WISCONSIN RGNL"
+  },
+  {
+    "ident": "IJVW",
+    "name": "JOHN BELL WILLIAMS"
+  },
+  {
+    "ident": "IJWN",
+    "name": "JOHN C TUNE"
+  },
+  {
+    "ident": "IJYO",
+    "name": "LEESBURG EXEC"
+  },
+  {
+    "ident": "IETI",
+    "name": "CHARLESTON EXEC"
+  },
+  {
+    "ident": "ILAL",
+    "name": "LAKELAND LINDER INTL"
+  },
+  {
+    "ident": "ILAN",
+    "name": "CAPITAL REGION INTL"
+  },
+  {
+    "ident": "ICUA",
+    "name": "HARRY REID INTL"
+  },
+  {
+    "ident": "ILAS",
+    "name": "HARRY REID INTL"
+  },
+  {
+    "ident": "IRLE",
+    "name": "HARRY REID INTL"
+  },
+  {
+    "ident": "ICFN",
+    "name": "LOS ANGELES INTL"
+  },
+  {
+    "ident": "IGPE",
+    "name": "LOS ANGELES INTL"
+  },
+  {
+    "ident": "IHQB",
+    "name": "LOS ANGELES INTL"
+  },
+  {
+    "ident": "IIAS",
+    "name": "LOS ANGELES INTL"
+  },
+  {
+    "ident": "ILAX",
+    "name": "LOS ANGELES INTL"
+  },
+  {
+    "ident": "IMKZ",
+    "name": "LOS ANGELES INTL"
+  },
+  {
+    "ident": "IOSS",
+    "name": "LOS ANGELES INTL"
+  },
+  {
+    "ident": "IUWU",
+    "name": "LOS ANGELES INTL"
+  },
+  {
+    "ident": "ILBB",
+    "name": "LUBBOCK PRESTON SMITH IN"
+  },
+  {
+    "ident": "ILBX",
+    "name": "TEXAS GULF COAST RGNL"
+  },
+  {
+    "ident": "ILCH",
+    "name": "LAKE CHARLES RGNL"
+  },
+  {
+    "ident": "ILCI",
+    "name": "LACONIA MUNI"
+  },
+  {
+    "ident": "IDDV",
+    "name": "RICKENBACKER INTL"
+  },
+  {
+    "ident": "IFQS",
+    "name": "RICKENBACKER INTL"
+  },
+  {
+    "ident": "IDVR",
+    "name": "LEBANON MUNI"
+  },
+  {
+    "ident": "ILEW",
+    "name": "AUBURN/LEWISTON MUNI"
+  },
+  {
+    "ident": "ILFT",
+    "name": "LAFAYETTE RGNL/PAUL FOUR"
+  },
+  {
+    "ident": "ITYN",
+    "name": "LAFAYETTE RGNL/PAUL FOUR"
+  },
+  {
+    "ident": "IGDI",
+    "name": "LAGUARDIA"
+  },
+  {
+    "ident": "ILGA",
+    "name": "LAGUARDIA"
+  },
+  {
+    "ident": "IPZV",
+    "name": "LAGUARDIA"
+  },
+  {
+    "ident": "IURD",
+    "name": "LAGUARDIA"
+  },
+  {
+    "ident": "ILGU",
+    "name": "LOGAN-CACHE"
+  },
+  {
+    "ident": "ILHM",
+    "name": "LINCOLN RGNL/KARL HARDER"
+  },
+  {
+    "ident": "ILHZ",
+    "name": "TRIANGLE NORTH EXEC"
+  },
+  {
+    "ident": "IAAY",
+    "name": "BILL AND HILLARY CLINTON"
+  },
+  {
+    "ident": "IBWY",
+    "name": "BILL AND HILLARY CLINTON"
+  },
+  {
+    "ident": "ICNL",
+    "name": "BILL AND HILLARY CLINTON"
+  },
+  {
+    "ident": "ILIT",
+    "name": "BILL AND HILLARY CLINTON"
+  },
+  {
+    "ident": "ILKU",
+    "name": "LOUISA COUNTY/FREEMAN FL"
+  },
+  {
+    "ident": "IOWN",
+    "name": "LONESOME PINE"
+  },
+  {
+    "ident": "ILNR",
+    "name": "TRI-COUNTY RGNL"
+  },
+  {
+    "ident": "IJQH",
+    "name": "LEWIS UNIVERSITY"
+  },
+  {
+    "ident": "ILOT",
+    "name": "LEWIS UNIVERSITY"
+  },
+  {
+    "ident": "ILOZ",
+    "name": "LONDON/CORBIN/MAGEE"
+  },
+  {
+    "ident": "ILRD",
+    "name": "LAREDO INTL"
+  },
+  {
+    "ident": "ILRU",
+    "name": "LAS CRUCES INTL"
+  },
+  {
+    "ident": "ILUK",
+    "name": "CINCINNATI MUNI/LUNKEN F"
+  },
+  {
+    "ident": "ILVK",
+    "name": "LIVERMORE MUNI"
+  },
+  {
+    "ident": "IMAC",
+    "name": "MACON DOWNTOWN"
+  },
+  {
+    "ident": "IMAF",
+    "name": "MIDLAND INTL AIR AND SPA"
+  },
+  {
+    "ident": "ITQR",
+    "name": "MBS INTL"
+  },
+  {
+    "ident": "IMCE",
+    "name": "MERCED YOSEMITE RGNL"
+  },
+  {
+    "ident": "IDOT",
+    "name": "KANSAS CITY INTL"
+  },
+  {
+    "ident": "IDYH",
+    "name": "KANSAS CITY INTL"
+  },
+  {
+    "ident": "IPAJ",
+    "name": "KANSAS CITY INTL"
+  },
+  {
+    "ident": "IPVL",
+    "name": "KANSAS CITY INTL"
+  },
+  {
+    "ident": "IRNI",
+    "name": "KANSAS CITY INTL"
+  },
+  {
+    "ident": "IUQY",
+    "name": "KANSAS CITY INTL"
+  },
+  {
+    "ident": "IMCK",
+    "name": "MC COOK BEN NELSON RGNL"
+  },
+  {
+    "ident": "IARK",
+    "name": "ORLANDO INTL"
+  },
+  {
+    "ident": "ICER",
+    "name": "ORLANDO INTL"
+  },
+  {
+    "ident": "IDDO",
+    "name": "ORLANDO INTL"
+  },
+  {
+    "ident": "IDIZ",
+    "name": "ORLANDO INTL"
+  },
+  {
+    "ident": "IMCO",
+    "name": "ORLANDO INTL"
+  },
+  {
+    "ident": "IOJP",
+    "name": "ORLANDO INTL"
+  },
+  {
+    "ident": "ITFE",
+    "name": "ORLANDO INTL"
+  },
+  {
+    "ident": "IMDQ",
+    "name": "HUNTSVILLE EXEC TOM SHAR"
+  },
+  {
+    "ident": "IHKH",
+    "name": "CHICAGO MIDWAY INTL"
+  },
+  {
+    "ident": "IMDW",
+    "name": "CHICAGO MIDWAY INTL"
+  },
+  {
+    "ident": "IMXT",
+    "name": "CHICAGO MIDWAY INTL"
+  },
+  {
+    "ident": "IIKQ",
+    "name": "KEY FLD"
+  },
+  {
+    "ident": "IEXS",
+    "name": "FREDERICK W SMITH INTL/M"
+  },
+  {
+    "ident": "IMYO",
+    "name": "FREDERICK W SMITH INTL/M"
+  },
+  {
+    "ident": "IOHN",
+    "name": "FREDERICK W SMITH INTL/M"
+  },
+  {
+    "ident": "ITSE",
+    "name": "FREDERICK W SMITH INTL/M"
+  },
+  {
+    "ident": "IVMU",
+    "name": "MENA INTERMOUNTAIN MUNI"
+  },
+  {
+    "ident": "ILLM",
+    "name": "MC ALLEN INTL"
+  },
+  {
+    "ident": "IMFE",
+    "name": "MC ALLEN INTL"
+  },
+  {
+    "ident": "IMFR",
+    "name": "ROGUE VALLEY INTL/MEDFOR"
+  },
+  {
+    "ident": "IMFV",
+    "name": "ACCOMACK COUNTY"
+  },
+  {
+    "ident": "IMGY",
+    "name": "DAYTON/WRIGHT BROTHERS"
+  },
+  {
+    "ident": "IMHR",
+    "name": "SACRAMENTO MATHER"
+  },
+  {
+    "ident": "IMHT",
+    "name": "MANCHESTER BOSTON RGNL"
+  },
+  {
+    "ident": "IMNA",
+    "name": "MANCHESTER BOSTON RGNL"
+  },
+  {
+    "ident": "IBUL",
+    "name": "MIAMI INTL"
+  },
+  {
+    "ident": "ICNV",
+    "name": "MIAMI INTL"
+  },
+  {
+    "ident": "IDCX",
+    "name": "MIAMI INTL"
+  },
+  {
+    "ident": "IGEM",
+    "name": "MIAMI INTL"
+  },
+  {
+    "ident": "IMFA",
+    "name": "MIAMI INTL"
+  },
+  {
+    "ident": "IROY",
+    "name": "MIAMI INTL"
+  },
+  {
+    "ident": "IVIN",
+    "name": "MIAMI INTL"
+  },
+  {
+    "ident": "IGQR",
+    "name": "KANSAS CITY DOWNTOWN/WHE"
+  },
+  {
+    "ident": "IMKC",
+    "name": "KANSAS CITY DOWNTOWN/WHE"
+  },
+  {
+    "ident": "IBLY",
+    "name": "GENERAL MITCHELL INTL"
+  },
+  {
+    "ident": "IGMF",
+    "name": "GENERAL MITCHELL INTL"
+  },
+  {
+    "ident": "IMKE",
+    "name": "GENERAL MITCHELL INTL"
+  },
+  {
+    "ident": "IPXY",
+    "name": "GENERAL MITCHELL INTL"
+  },
+  {
+    "ident": "ICJH",
+    "name": "MUSKEGON COUNTY"
+  },
+  {
+    "ident": "IMKG",
+    "name": "MUSKEGON COUNTY"
+  },
+  {
+    "ident": "IMKJ",
+    "name": "MOUNTAIN EMPIRE"
+  },
+  {
+    "ident": "IMKL",
+    "name": "JACKSON RGNL"
+  },
+  {
+    "ident": "IGEQ",
+    "name": "QUAD CITIES INTL"
+  },
+  {
+    "ident": "IMLI",
+    "name": "QUAD CITIES INTL"
+  },
+  {
+    "ident": "ITNQ",
+    "name": "MENOMINEE RGNL"
+  },
+  {
+    "ident": "IMOT",
+    "name": "MINOT INTL"
+  },
+  {
+    "ident": "IMPV",
+    "name": "EDWARD F KNAPP STATE"
+  },
+  {
+    "ident": "IMRY",
+    "name": "MONTEREY RGNL"
+  },
+  {
+    "ident": "IMTB",
+    "name": "MONTEREY RGNL"
+  },
+  {
+    "ident": "IDQJ",
+    "name": "DANE COUNTY RGNL/TRUAX F"
+  },
+  {
+    "ident": "IDSZ",
+    "name": "DANE COUNTY RGNL/TRUAX F"
+  },
+  {
+    "ident": "IMSN",
+    "name": "DANE COUNTY RGNL/TRUAX F"
+  },
+  {
+    "ident": "IBMA",
+    "name": "MINNEAPOLIS-ST PAUL INTL"
+  },
+  {
+    "ident": "IHKZ",
+    "name": "MINNEAPOLIS-ST PAUL INTL"
+  },
+  {
+    "ident": "IINN",
+    "name": "MINNEAPOLIS-ST PAUL INTL"
+  },
+  {
+    "ident": "IMSP",
+    "name": "MINNEAPOLIS-ST PAUL INTL"
+  },
+  {
+    "ident": "IPJL",
+    "name": "MINNEAPOLIS-ST PAUL INTL"
+  },
+  {
+    "ident": "ITJZ",
+    "name": "MINNEAPOLIS-ST PAUL INTL"
+  },
+  {
+    "ident": "IMSV",
+    "name": "SULLIVAN COUNTY INTL"
+  },
+  {
+    "ident": "IHOX",
+    "name": "LOUIS ARMSTRONG NEW ORLE"
+  },
+  {
+    "ident": "IJFI",
+    "name": "LOUIS ARMSTRONG NEW ORLE"
+  },
+  {
+    "ident": "IMSY",
+    "name": "LOUIS ARMSTRONG NEW ORLE"
+  },
+  {
+    "ident": "IONW",
+    "name": "LOUIS ARMSTRONG NEW ORLE"
+  },
+  {
+    "ident": "IBQG",
+    "name": "MARTIN STATE"
+  },
+  {
+    "ident": "IMTN",
+    "name": "MARTIN STATE"
+  },
+  {
+    "ident": "IUVM",
+    "name": "BLUE RIDGE"
+  },
+  {
+    "ident": "IMUI",
+    "name": "MUIR AHP (FORT INDIANTOW"
+  },
+  {
+    "ident": "ILUC",
+    "name": "MUSCATINE MUNI"
+  },
+  {
+    "ident": "IMVY",
+    "name": "MARTHA'S VINEYARD"
+  },
+  {
+    "ident": "IVMH",
+    "name": "MINERAL WELLS RGNL"
+  },
+  {
+    "ident": "IMYF",
+    "name": "MONTGOMERY-GIBBS EXEC"
+  },
+  {
+    "ident": "IEYR",
+    "name": "MEXICO MEML"
+  },
+  {
+    "ident": "IMYR",
+    "name": "MYRTLE BEACH INTL"
+  },
+  {
+    "ident": "INBC",
+    "name": "BEAUFORT MCAS (MERRITT F"
+  },
+  {
+    "ident": "INDZ",
+    "name": "WHITING FLD NAS SOUTH"
+  },
+  {
+    "ident": "INEW",
+    "name": "LAKEFRONT"
+  },
+  {
+    "ident": "INFW",
+    "name": "FORT WORTH NAS JRB (CARS"
+  },
+  {
+    "ident": "INGP",
+    "name": "CORPUS CHRISTI NAS (TRUA"
+  },
+  {
+    "ident": "INGU",
+    "name": "NORFOLK NS (CHAMBERS FLD"
+  },
+  {
+    "ident": "INHK",
+    "name": "PATUXENT RIVER NAS (TRAP"
+  },
+  {
+    "ident": "INKT",
+    "name": "CHERRY POINT MCAS (CUNNI"
+  },
+  {
+    "ident": "INKX",
+    "name": "MIRAMAR MCAS (JOE FOSS F"
+  },
+  {
+    "ident": "INMM",
+    "name": "MERIDIAN NAS (MC CAIN FL"
+  },
+  {
+    "ident": "INOG",
+    "name": "ORANGE GROVE NALF"
+  },
+  {
+    "ident": "INPA",
+    "name": "PENSACOLA NAS (FORREST S"
+  },
+  {
+    "ident": "INQA",
+    "name": "MILLINGTON/MEMPHIS"
+  },
+  {
+    "ident": "INQI",
+    "name": "KINGSVILLE NAS"
+  },
+  {
+    "ident": "INSE",
+    "name": "WHITING FLD NAS NORTH"
+  },
+  {
+    "ident": "INTD",
+    "name": "POINT MUGU NAS (NAVAL BA"
+  },
+  {
+    "ident": "IRRG",
+    "name": "POINT MUGU NAS (NAVAL BA"
+  },
+  {
+    "ident": "IMNQ",
+    "name": "MOFFETT FEDERAL AIRFIELD"
+  },
+  {
+    "ident": "INUQ",
+    "name": "MOFFETT FEDERAL AIRFIELD"
+  },
+  {
+    "ident": "INUW",
+    "name": "WHIDBEY ISLAND NAS (AULT"
+  },
+  {
+    "ident": "INYG",
+    "name": "QUANTICO MCAF (TURNER FL"
+  },
+  {
+    "ident": "IOAJ",
+    "name": "ALBERT J ELLIS"
+  },
+  {
+    "ident": "IINB",
+    "name": "OAKLAND SAN FRANCISCO BA"
+  },
+  {
+    "ident": "IOCH",
+    "name": "NACOGDOCHES A L MANGHAM"
+  },
+  {
+    "ident": "IOCW",
+    "name": "WASHINGTON-WARREN"
+  },
+  {
+    "ident": "IOFP",
+    "name": "HANOVER COUNTY MUNI"
+  },
+  {
+    "ident": "IOGD",
+    "name": "OGDEN-HINCKLEY"
+  },
+  {
+    "ident": "IOGS",
+    "name": "OGDENSBURG INTL"
+  },
+  {
+    "ident": "IOJC",
+    "name": "JOHNSON COUNTY EXEC"
+  },
+  {
+    "ident": "IEXR",
+    "name": "OKC WILL ROGERS INTL"
+  },
+  {
+    "ident": "ILIK",
+    "name": "OKC WILL ROGERS INTL"
+  },
+  {
+    "ident": "IOKC",
+    "name": "OKC WILL ROGERS INTL"
+  },
+  {
+    "ident": "IRGR",
+    "name": "OKC WILL ROGERS INTL"
+  },
+  {
+    "ident": "ITZX",
+    "name": "WINCHESTER RGNL"
+  },
+  {
+    "ident": "IEVO",
+    "name": "OLIVE BRANCH/TAYLOR FLD"
+  },
+  {
+    "ident": "IOLV",
+    "name": "OLIVE BRANCH/TAYLOR FLD"
+  },
+  {
+    "ident": "ILZW",
+    "name": "OLNEY-NOBLE"
+  },
+  {
+    "ident": "IEDI",
+    "name": "EPPLEY AIRFIELD"
+  },
+  {
+    "ident": "IENF",
+    "name": "EPPLEY AIRFIELD"
+  },
+  {
+    "ident": "IOGN",
+    "name": "EPPLEY AIRFIELD"
+  },
+  {
+    "ident": "IOMA",
+    "name": "EPPLEY AIRFIELD"
+  },
+  {
+    "ident": "IPPY",
+    "name": "EPPLEY AIRFIELD"
+  },
+  {
+    "ident": "IRAY",
+    "name": "EPPLEY AIRFIELD"
+  },
+  {
+    "ident": "IONA",
+    "name": "WINONA MUNI/MAX CONRAD F"
+  },
+  {
+    "ident": "IONT",
+    "name": "ONTARIO INTL"
+  },
+  {
+    "ident": "ITWO",
+    "name": "ONTARIO INTL"
+  },
+  {
+    "ident": "IOLX",
+    "name": "MIAMI-OPA LOCKA EXEC"
+  },
+  {
+    "ident": "IPLJ",
+    "name": "MIAMI-OPA LOCKA EXEC"
+  },
+  {
+    "ident": "IOPN",
+    "name": "THOMASTON-UPSON COUNTY"
+  },
+  {
+    "ident": "IOQU",
+    "name": "QUONSET STATE"
+  },
+  {
+    "ident": "IABU",
+    "name": "CHICAGO O'HARE INTL"
+  },
+  {
+    "ident": "IBYW",
+    "name": "CHICAGO O'HARE INTL"
+  },
+  {
+    "ident": "IIAC",
+    "name": "CHICAGO O'HARE INTL"
+  },
+  {
+    "ident": "IIZJ",
+    "name": "CHICAGO O'HARE INTL"
+  },
+  {
+    "ident": "IJAV",
+    "name": "CHICAGO O'HARE INTL"
+  },
+  {
+    "ident": "IMED",
+    "name": "CHICAGO O'HARE INTL"
+  },
+  {
+    "ident": "IOYG",
+    "name": "CHICAGO O'HARE INTL"
+  },
+  {
+    "ident": "ISAJ",
+    "name": "CHICAGO O'HARE INTL"
+  },
+  {
+    "ident": "ISXH",
+    "name": "CHICAGO O'HARE INTL"
+  },
+  {
+    "ident": "ITSL",
+    "name": "CHICAGO O'HARE INTL"
+  },
+  {
+    "ident": "IUYJ",
+    "name": "CHICAGO O'HARE INTL"
+  },
+  {
+    "ident": "IVQX",
+    "name": "CHICAGO O'HARE INTL"
+  },
+  {
+    "ident": "IVZE",
+    "name": "CHICAGO O'HARE INTL"
+  },
+  {
+    "ident": "IJZQ",
+    "name": "NORFOLK INTL"
+  },
+  {
+    "ident": "IORF",
+    "name": "NORFOLK INTL"
+  },
+  {
+    "ident": "IEKW",
+    "name": "WORCESTER RGNL"
+  },
+  {
+    "ident": "IRSR",
+    "name": "WORCESTER RGNL"
+  },
+  {
+    "ident": "IORK",
+    "name": "NORTH LITTLE ROCK MUNI"
+  },
+  {
+    "ident": "IEXO",
+    "name": "ORLANDO EXEC"
+  },
+  {
+    "ident": "IOTH",
+    "name": "SOUTHWEST OREGON RGNL"
+  },
+  {
+    "ident": "IOTM",
+    "name": "OTTUMWA RGNL"
+  },
+  {
+    "ident": "IBWM",
+    "name": "UNIVERSITY OF OKLAHOMA W"
+  },
+  {
+    "ident": "IPHY",
+    "name": "UNIVERSITY OF OKLAHOMA W"
+  },
+  {
+    "ident": "IOWA",
+    "name": "OWATONNA DEGNER RGNL"
+  },
+  {
+    "ident": "IOWD",
+    "name": "NORWOOD MEML"
+  },
+  {
+    "ident": "IOXB",
+    "name": "OCEAN CITY MUNI"
+  },
+  {
+    "ident": "IOXC",
+    "name": "WATERBURY-OXFORD"
+  },
+  {
+    "ident": "IOYM",
+    "name": "ST MARYS MUNI"
+  },
+  {
+    "ident": "IOZR",
+    "name": "CAIRNS AAF (FORT RUCKER)"
+  },
+  {
+    "ident": "IOGO",
+    "name": "LIVINGSTON COUNTY/SPENCE"
+  },
+  {
+    "ident": "IFQV",
+    "name": "PLATTSBURGH INTL"
+  },
+  {
+    "ident": "IPBI",
+    "name": "PALM BEACH INTL"
+  },
+  {
+    "ident": "IPBX",
+    "name": "PIKE COUNTY/HATCHER FLD"
+  },
+  {
+    "ident": "IPDK",
+    "name": "DEKALB-PEACHTREE"
+  },
+  {
+    "ident": "IGPO",
+    "name": "PORTLAND INTL"
+  },
+  {
+    "ident": "IIAP",
+    "name": "PORTLAND INTL"
+  },
+  {
+    "ident": "IJMJ",
+    "name": "PORTLAND INTL"
+  },
+  {
+    "ident": "IPDX",
+    "name": "PORTLAND INTL"
+  },
+  {
+    "ident": "IVDG",
+    "name": "PORTLAND INTL"
+  },
+  {
+    "ident": "IPGD",
+    "name": "PUNTA GORDA"
+  },
+  {
+    "ident": "IPGV",
+    "name": "PITT-GREENVILLE"
+  },
+  {
+    "ident": "IDHY",
+    "name": "NEWPORT NEWS/WILLIAMSBUR"
+  },
+  {
+    "ident": "IFJQ",
+    "name": "NEWPORT NEWS/WILLIAMSBUR"
+  },
+  {
+    "ident": "IPHF",
+    "name": "NEWPORT NEWS/WILLIAMSBUR"
+  },
+  {
+    "ident": "IGLC",
+    "name": "PHILADELPHIA INTL"
+  },
+  {
+    "ident": "ILLH",
+    "name": "PHILADELPHIA INTL"
+  },
+  {
+    "ident": "IMYY",
+    "name": "PHILADELPHIA INTL"
+  },
+  {
+    "ident": "IPDP",
+    "name": "PHILADELPHIA INTL"
+  },
+  {
+    "ident": "IPHL",
+    "name": "PHILADELPHIA INTL"
+  },
+  {
+    "ident": "IVII",
+    "name": "PHILADELPHIA INTL"
+  },
+  {
+    "ident": "IAHA",
+    "name": "PHOENIX SKY HARBOR INTL"
+  },
+  {
+    "ident": "ICWJ",
+    "name": "PHOENIX SKY HARBOR INTL"
+  },
+  {
+    "ident": "IPHX",
+    "name": "PHOENIX SKY HARBOR INTL"
+  },
+  {
+    "ident": "IRJG",
+    "name": "PHOENIX SKY HARBOR INTL"
+  },
+  {
+    "ident": "ISYQ",
+    "name": "PHOENIX SKY HARBOR INTL"
+  },
+  {
+    "ident": "IRNX",
+    "name": "GENERAL DOWNING - PEORIA"
+  },
+  {
+    "ident": "ICWT",
+    "name": "ST PETE-CLEARWATER INTL"
+  },
+  {
+    "ident": "IPIE",
+    "name": "ST PETE-CLEARWATER INTL"
+  },
+  {
+    "ident": "IPIH",
+    "name": "POCATELLO RGNL"
+  },
+  {
+    "ident": "IPIR",
+    "name": "PIERRE RGNL"
+  },
+  {
+    "ident": "ITQW",
+    "name": "PITTSBURGH INTL"
+  },
+  {
+    "ident": "IPLN",
+    "name": "PELLSTON RGNL/EMMET COUN"
+  },
+  {
+    "ident": "IPMP",
+    "name": "POMPANO BEACH AIRPARK"
+  },
+  {
+    "ident": "IPNC",
+    "name": "PONCA CITY RGNL"
+  },
+  {
+    "ident": "IPHC",
+    "name": "PENSACOLA INTL"
+  },
+  {
+    "ident": "IPNS",
+    "name": "PENSACOLA INTL"
+  },
+  {
+    "ident": "IPQL",
+    "name": "TRENT LOTT INTL"
+  },
+  {
+    "ident": "IPRC",
+    "name": "PRESCOTT RGNL/ERNEST A L"
+  },
+  {
+    "ident": "IPSC",
+    "name": "TRI-CITIES"
+  },
+  {
+    "ident": "IEIF",
+    "name": "PITTSFIELD MUNI"
+  },
+  {
+    "ident": "IJLS",
+    "name": "TRI CITIES EXEC/DINWIDDI"
+  },
+  {
+    "ident": "IPTN",
+    "name": "HARRY P WILLIAMS MEML"
+  },
+  {
+    "ident": "IPUC",
+    "name": "CARBON COUNTY RGNL/BUCK"
+  },
+  {
+    "ident": "IPUJ",
+    "name": "PAULDING NORTHWEST ATLAN"
+  },
+  {
+    "ident": "IPUW",
+    "name": "PULLMAN/MOSCOW RGNL"
+  },
+  {
+    "ident": "IVQO",
+    "name": "PROVINCETOWN MUNI"
+  },
+  {
+    "ident": "IARJ",
+    "name": "RHODE ISLAND TF GREEN IN"
+  },
+  {
+    "ident": "IPVD",
+    "name": "RHODE ISLAND TF GREEN IN"
+  },
+  {
+    "ident": "IUNQ",
+    "name": "RHODE ISLAND TF GREEN IN"
+  },
+  {
+    "ident": "IPVG",
+    "name": "HAMPTON ROADS EXEC"
+  },
+  {
+    "ident": "IPVU",
+    "name": "PROVO MUNI"
+  },
+  {
+    "ident": "ITFM",
+    "name": "WILEY POST"
+  },
+  {
+    "ident": "IPWK",
+    "name": "CHICAGO EXEC"
+  },
+  {
+    "ident": "IGCS",
+    "name": "PORTLAND INTL JETPORT"
+  },
+  {
+    "ident": "IPWM",
+    "name": "PORTLAND INTL JETPORT"
+  },
+  {
+    "ident": "IPYM",
+    "name": "PLYMOUTH MUNI"
+  },
+  {
+    "ident": "IRAP",
+    "name": "RAPID CITY RGNL"
+  },
+  {
+    "ident": "IRBD",
+    "name": "DALLAS EXEC"
+  },
+  {
+    "ident": "IRBW",
+    "name": "LOWCOUNTRY RGNL"
+  },
+  {
+    "ident": "IRDD",
+    "name": "REDDING RGNL"
+  },
+  {
+    "ident": "IVXO",
+    "name": "READING RGNL/CARL A SPAA"
+  },
+  {
+    "ident": "IRDM",
+    "name": "ROBERTS FLD"
+  },
+  {
+    "ident": "IDMP",
+    "name": "RALEIGH-DURHAM INTL"
+  },
+  {
+    "ident": "IGKK",
+    "name": "RALEIGH-DURHAM INTL"
+  },
+  {
+    "ident": "ILEI",
+    "name": "RALEIGH-DURHAM INTL"
+  },
+  {
+    "ident": "IRDU",
+    "name": "RALEIGH-DURHAM INTL"
+  },
+  {
+    "ident": "IRFD",
+    "name": "CHICAGO/ROCKFORD INTL"
+  },
+  {
+    "ident": "IUDY",
+    "name": "CHICAGO/ROCKFORD INTL"
+  },
+  {
+    "ident": "IRIL",
+    "name": "RIFLE GARFIELD COUNTY"
+  },
+  {
+    "ident": "IRMZ",
+    "name": "KNOX COUNTY RGNL"
+  },
+  {
+    "ident": "IRKS",
+    "name": "SOUTHWEST WYOMING RGNL"
+  },
+  {
+    "ident": "IRLD",
+    "name": "RICHLAND"
+  },
+  {
+    "ident": "IRME",
+    "name": "GRIFFISS INTL"
+  },
+  {
+    "ident": "IHBQ",
+    "name": "RICHARD B RUSSELL RGNL -"
+  },
+  {
+    "ident": "IRMN",
+    "name": "WASHINGTON EXEC/STAFFORD"
+  },
+  {
+    "ident": "IAGY",
+    "name": "RENO/TAHOE INTL"
+  },
+  {
+    "ident": "IRNO",
+    "name": "RENO/TAHOE INTL"
+  },
+  {
+    "ident": "ISZK",
+    "name": "ROANOKE/BLACKSBURG RGNL"
+  },
+  {
+    "ident": "IROC",
+    "name": "FREDERICK DOUGLASS/GREAT"
+  },
+  {
+    "ident": "IROG",
+    "name": "ROGERS EXEC - CARTER FLD"
+  },
+  {
+    "ident": "IROW",
+    "name": "ROSWELL AIR CENTER"
+  },
+  {
+    "ident": "ISWE",
+    "name": "WARROAD INTL MEML"
+  },
+  {
+    "ident": "IRSW",
+    "name": "SOUTHWEST FLORIDA INTL"
+  },
+  {
+    "ident": "IRTS",
+    "name": "RENO/STEAD"
+  },
+  {
+    "ident": "IRUT",
+    "name": "RUTLAND/SOUTHERN VERMONT"
+  },
+  {
+    "ident": "IRVS",
+    "name": "TULSA RIVERSIDE"
+  },
+  {
+    "ident": "IRWI",
+    "name": "ROCKY MOUNT/WILSON RGNL"
+  },
+  {
+    "ident": "IRYM",
+    "name": "RAY S MILLER AAF"
+  },
+  {
+    "ident": "IRYY",
+    "name": "COBB COUNTY INTL/MCCOLLU"
+  },
+  {
+    "ident": "ISGB",
+    "name": "SANTA FE RGNL"
+  },
+  {
+    "ident": "ISAN",
+    "name": "SAN DIEGO INTL"
+  },
+  {
+    "ident": "IUBR",
+    "name": "SAN DIEGO INTL"
+  },
+  {
+    "ident": "IANT",
+    "name": "SAN ANTONIO INTL"
+  },
+  {
+    "ident": "IIZR",
+    "name": "SAN ANTONIO INTL"
+  },
+  {
+    "ident": "ISAT",
+    "name": "SAN ANTONIO INTL"
+  },
+  {
+    "ident": "ISAV",
+    "name": "SAVANNAH/HILTON HEAD INT"
+  },
+  {
+    "ident": "ISBA",
+    "name": "SANTA BARBARA MUNI"
+  },
+  {
+    "ident": "IHEV",
+    "name": "SHEBOYGAN COUNTY MEML IN"
+  },
+  {
+    "ident": "ISBO",
+    "name": "EAST GEORGIA RGNL"
+  },
+  {
+    "ident": "ISCK",
+    "name": "STOCKTON METRO"
+  },
+  {
+    "ident": "IJJM",
+    "name": "LOUISVILLE MUHAMMAD ALI"
+  },
+  {
+    "ident": "IPKI",
+    "name": "LOUISVILLE MUHAMMAD ALI"
+  },
+  {
+    "ident": "IRLI",
+    "name": "LOUISVILLE MUHAMMAD ALI"
+  },
+  {
+    "ident": "ISNU",
+    "name": "LOUISVILLE MUHAMMAD ALI"
+  },
+  {
+    "ident": "IBEJ",
+    "name": "SEATTLE-TACOMA INTL"
+  },
+  {
+    "ident": "ICJL",
+    "name": "SEATTLE-TACOMA INTL"
+  },
+  {
+    "ident": "ISEA",
+    "name": "SEATTLE-TACOMA INTL"
+  },
+  {
+    "ident": "ISNQ",
+    "name": "SEATTLE-TACOMA INTL"
+  },
+  {
+    "ident": "ISZI",
+    "name": "SEATTLE-TACOMA INTL"
+  },
+  {
+    "ident": "ITUC",
+    "name": "SEATTLE-TACOMA INTL"
+  },
+  {
+    "ident": "ISEE",
+    "name": "GILLESPIE FLD"
+  },
+  {
+    "ident": "ISEM",
+    "name": "CRAIG FLD"
+  },
+  {
+    "ident": "IFNU",
+    "name": "ORLANDO SANFORD INTL"
+  },
+  {
+    "ident": "IOOS",
+    "name": "ORLANDO SANFORD INTL"
+  },
+  {
+    "ident": "ISND",
+    "name": "ORLANDO SANFORD INTL"
+  },
+  {
+    "ident": "IFLZ",
+    "name": "FELTS FLD"
+  },
+  {
+    "ident": "IGWQ",
+    "name": "SAN FRANCISCO INTL"
+  },
+  {
+    "ident": "ISFO",
+    "name": "SAN FRANCISCO INTL"
+  },
+  {
+    "ident": "ISIA",
+    "name": "SAN FRANCISCO INTL"
+  },
+  {
+    "ident": "IRKH",
+    "name": "SUFFOLK EXEC"
+  },
+  {
+    "ident": "ISFZ",
+    "name": "NORTH CENTRAL STATE"
+  },
+  {
+    "ident": "IGWA",
+    "name": "SPRINGFIELD-BRANSON NTL"
+  },
+  {
+    "ident": "ISGF",
+    "name": "SPRINGFIELD-BRANSON NTL"
+  },
+  {
+    "ident": "IGUH",
+    "name": "ST AUGUSTINE"
+  },
+  {
+    "ident": "ITXH",
+    "name": "SUGAR LAND RGNL"
+  },
+  {
+    "ident": "ISGS",
+    "name": "SOUTH ST PAUL MUNI/RICHA"
+  },
+  {
+    "ident": "ITTL",
+    "name": "STUTTGART MUNI CARL HUMP"
+  },
+  {
+    "ident": "ISGU",
+    "name": "ST GEORGE RGNL"
+  },
+  {
+    "ident": "ISHR",
+    "name": "SHERIDAN COUNTY"
+  },
+  {
+    "ident": "IMWP",
+    "name": "SHREVEPORT RGNL"
+  },
+  {
+    "ident": "ISHV",
+    "name": "SHREVEPORT RGNL"
+  },
+  {
+    "ident": "ISJC",
+    "name": "NORMAN Y MINETA SAN JOSE"
+  },
+  {
+    "ident": "ISLV",
+    "name": "NORMAN Y MINETA SAN JOSE"
+  },
+  {
+    "ident": "ISJT",
+    "name": "SAN ANGELO RGNL/MATHIS F"
+  },
+  {
+    "ident": "IBNT",
+    "name": "SALT LAKE CITY INTL"
+  },
+  {
+    "ident": "IMOY",
+    "name": "SALT LAKE CITY INTL"
+  },
+  {
+    "ident": "ISLC",
+    "name": "SALT LAKE CITY INTL"
+  },
+  {
+    "ident": "IUAT",
+    "name": "SALT LAKE CITY INTL"
+  },
+  {
+    "ident": "IUTJ",
+    "name": "SALT LAKE CITY INTL"
+  },
+  {
+    "ident": "IUUH",
+    "name": "SALT LAKE CITY INTL"
+  },
+  {
+    "ident": "ISLE",
+    "name": "MCNARY FLD"
+  },
+  {
+    "ident": "ISME",
+    "name": "LAKE CUMBERLAND RGNL"
+  },
+  {
+    "ident": "IHUX",
+    "name": "SACRAMENTO INTL"
+  },
+  {
+    "ident": "IMDK",
+    "name": "SACRAMENTO INTL"
+  },
+  {
+    "ident": "ISMF",
+    "name": "SACRAMENTO INTL"
+  },
+  {
+    "ident": "ISMS",
+    "name": "SUMTER"
+  },
+  {
+    "ident": "ISMX",
+    "name": "SANTA MARIA PUB/CAPT G A"
+  },
+  {
+    "ident": "IOJW",
+    "name": "JOHN WAYNE/ORANGE COUNTY"
+  },
+  {
+    "ident": "ISNA",
+    "name": "JOHN WAYNE/ORANGE COUNTY"
+  },
+  {
+    "ident": "IHNQ",
+    "name": "SHAWNEE RGNL"
+  },
+  {
+    "ident": "ISOP",
+    "name": "MOORE COUNTY"
+  },
+  {
+    "ident": "ISPA",
+    "name": "SPARTANBURG DOWNTOWN MEM"
+  },
+  {
+    "ident": "IFKO",
+    "name": "SCAPPOOSE"
+  },
+  {
+    "ident": "ISPS",
+    "name": "SHEPPARD AFB/WICHITA FAL"
+  },
+  {
+    "ident": "ISQI",
+    "name": "WHITESIDE COUNTY/JOS H B"
+  },
+  {
+    "ident": "ISRB",
+    "name": "UPPER CUMBERLAND RGNL"
+  },
+  {
+    "ident": "IDSY",
+    "name": "SEARCY RGNL"
+  },
+  {
+    "ident": "ISRR",
+    "name": "SIERRA BLANCA RGNL"
+  },
+  {
+    "ident": "ISTE",
+    "name": "STEVENS POINT MUNI"
+  },
+  {
+    "ident": "ISTF",
+    "name": "GEORGE M BRYAN"
+  },
+  {
+    "ident": "IJAK",
+    "name": "ST LOUIS LAMBERT INTL"
+  },
+  {
+    "ident": "ILDZ",
+    "name": "ST LOUIS LAMBERT INTL"
+  },
+  {
+    "ident": "ILMR",
+    "name": "ST LOUIS LAMBERT INTL"
+  },
+  {
+    "ident": "IOGZ",
+    "name": "ST LOUIS LAMBERT INTL"
+  },
+  {
+    "ident": "IRQN",
+    "name": "ST LOUIS LAMBERT INTL"
+  },
+  {
+    "ident": "ISJW",
+    "name": "ST LOUIS LAMBERT INTL"
+  },
+  {
+    "ident": "ISTL",
+    "name": "ST LOUIS LAMBERT INTL"
+  },
+  {
+    "ident": "IBAO",
+    "name": "ST PAUL DOWNTOWN HOLMAN"
+  },
+  {
+    "ident": "IVKG",
+    "name": "ST PAUL DOWNTOWN HOLMAN"
+  },
+  {
+    "ident": "ISUX",
+    "name": "SIOUX GATEWAY/BRIG GENER"
+  },
+  {
+    "ident": "ISUZ",
+    "name": "SALINE COUNTY RGNL"
+  },
+  {
+    "ident": "ISVC",
+    "name": "GRANT COUNTY"
+  },
+  {
+    "ident": "ISVH",
+    "name": "STATESVILLE RGNL"
+  },
+  {
+    "ident": "ISVN",
+    "name": "HUNTER AAF"
+  },
+  {
+    "ident": "IJKH",
+    "name": "NEW YORK STEWART INTL"
+  },
+  {
+    "ident": "ISWO",
+    "name": "STILLWATER RGNL"
+  },
+  {
+    "ident": "IMRZ",
+    "name": "SYRACUSE HANCOCK INTL"
+  },
+  {
+    "ident": "ISYR",
+    "name": "SYRACUSE HANCOCK INTL"
+  },
+  {
+    "ident": "IRPO",
+    "name": "SANDPOINT"
+  },
+  {
+    "ident": "ITBN",
+    "name": "WAYNESVILLE-ST ROBERT RG"
+  },
+  {
+    "ident": "ITCL",
+    "name": "TUSCALOOSA NTL"
+  },
+  {
+    "ident": "ITDF",
+    "name": "RALEIGH RGNL AT PERSON C"
+  },
+  {
+    "ident": "ITEB",
+    "name": "TETERBORO"
+  },
+  {
+    "ident": "ITJL",
+    "name": "TETERBORO"
+  },
+  {
+    "ident": "ITEX",
+    "name": "TELLURIDE RGNL"
+  },
+  {
+    "ident": "IEFE",
+    "name": "MCKINNEY NTL"
+  },
+  {
+    "ident": "IPLQ",
+    "name": "TALLAHASSEE INTL"
+  },
+  {
+    "ident": "ITLH",
+    "name": "TALLAHASSEE INTL"
+  },
+  {
+    "ident": "ITMA",
+    "name": "HENRY TIFT MYERS"
+  },
+  {
+    "ident": "ITOA",
+    "name": "ZAMPERINI FLD"
+  },
+  {
+    "ident": "ITOI",
+    "name": "TROY MUNI AT N KENNETH C"
+  },
+  {
+    "ident": "IBQE",
+    "name": "EUGENE F KRANZ TOLEDO EX"
+  },
+  {
+    "ident": "IAMP",
+    "name": "TAMPA INTL"
+  },
+  {
+    "ident": "IJRT",
+    "name": "TAMPA INTL"
+  },
+  {
+    "ident": "ITPA",
+    "name": "TAMPA INTL"
+  },
+  {
+    "ident": "ITWJ",
+    "name": "TAMPA INTL"
+  },
+  {
+    "ident": "ITPL",
+    "name": "DRAUGHON-MILLER CENTRAL"
+  },
+  {
+    "ident": "ITTA",
+    "name": "RALEIGH EXEC JETPORT AT"
+  },
+  {
+    "ident": "IDWE",
+    "name": "TULSA INTL"
+  },
+  {
+    "ident": "ITUL",
+    "name": "TULSA INTL"
+  },
+  {
+    "ident": "ITUP",
+    "name": "TUPELO RGNL"
+  },
+  {
+    "ident": "ITUS",
+    "name": "TUCSON INTL"
+  },
+  {
+    "ident": "ITYK",
+    "name": "CHERRY CAPITAL"
+  },
+  {
+    "ident": "ITVL",
+    "name": "LAKE TAHOE"
+  },
+  {
+    "ident": "ITVY",
+    "name": "BOLINDER FLD/TOOELE VALL"
+  },
+  {
+    "ident": "ITXK",
+    "name": "TEXARKANA RGNL-WEBB FLD"
+  },
+  {
+    "ident": "ITYR",
+    "name": "TYLER POUNDS RGNL"
+  },
+  {
+    "ident": "IOXH",
+    "name": "MC GHEE TYSON"
+  },
+  {
+    "ident": "IUAO",
+    "name": "AURORA STATE"
+  },
+  {
+    "ident": "IUKF",
+    "name": "WILKES COUNTY"
+  },
+  {
+    "ident": "IUKI",
+    "name": "UKIAH MUNI"
+  },
+  {
+    "ident": "IUNV",
+    "name": "STATE COLLEGE RGNL"
+  },
+  {
+    "ident": "IUTA",
+    "name": "TUNICA MUNI"
+  },
+  {
+    "ident": "IOTI",
+    "name": "NEWPORT STATE"
+  },
+  {
+    "ident": "IUZA",
+    "name": "ROCK HILL/YORK COUNTY/BR"
+  },
+  {
+    "ident": "IVCT",
+    "name": "VICTORIA RGNL"
+  },
+  {
+    "ident": "IVDF",
+    "name": "TAMPA EXEC"
+  },
+  {
+    "ident": "IHWG",
+    "name": "NORTH LAS VEGAS"
+  },
+  {
+    "ident": "IVIS",
+    "name": "VISALIA MUNI"
+  },
+  {
+    "ident": "IVJI",
+    "name": "VIRGINIA HIGHLANDS"
+  },
+  {
+    "ident": "ICAH",
+    "name": "EGLIN AFB/DESTIN-FT WALT"
+  },
+  {
+    "ident": "IVPS",
+    "name": "EGLIN AFB/DESTIN-FT WALT"
+  },
+  {
+    "ident": "IVQQ",
+    "name": "CECIL"
+  },
+  {
+    "ident": "IVSF",
+    "name": "HARTNESS STATE (SPRINGFI"
+  },
+  {
+    "ident": "IIDR",
+    "name": "BARROW COUNTY"
+  },
+  {
+    "ident": "IRLS",
+    "name": "WESTERLY STATE"
+  },
+  {
+    "ident": "IRLU",
+    "name": "WATERVILLE RGNL"
+  },
+  {
+    "ident": "IFBS",
+    "name": "NORTHWEST ARKANSAS NTL"
+  },
+  {
+    "ident": "IXNA",
+    "name": "NORTHWEST ARKANSAS NTL"
+  },
+  {
+    "ident": "IXWA",
+    "name": "WILLISTON BASIN INTL"
+  },
+  {
+    "ident": "ILSW",
+    "name": "WILLOW RUN"
+  },
+  {
+    "ident": "IYIP",
+    "name": "WILLOW RUN"
+  },
+  {
+    "ident": "IYKM",
+    "name": "YAKIMA AIR TRML/MCALLIST"
+  },
+  {
+    "ident": "ITNF",
+    "name": "ZANESVILLE MUNI"
+  },
+  {
+    "ident": "IIYQ",
+    "name": "GRANT COUNTY"
+  }
+]

@@ -1,0 +1,16 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Chrome Extension packaging keys
+*.pem
+
+# Local logs/scratch directories
+.gemini/
+brain/
+scratch/
+mcp/
+mcp_config.json
+logs/
+*.log
