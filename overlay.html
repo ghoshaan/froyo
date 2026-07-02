@@ -31,11 +31,10 @@
             <button id="suggestionToggle" class="small-btn" style="font-size: 14px; padding: 4px 6px; color: var(--accent); background: none; border: none; cursor: pointer; display: none;">▼</button>
             <button id="pasteFlightBtn" class="small-btn">P</button>
         </div>
+        <input type="hidden" id="gkInput">
         <div class="input-group">
-            <input type="text" id="gkInput" placeholder="Get date from LiveATC archive" style="flex: 1;">
-            <button id="grabGkBtn" class="small-btn" style="background: var(--accent); font-weight: bold;" title="Grab from Page">G</button>
-            <button id="pasteGKBtn" class="small-btn" title="Paste from Clipboard">P</button>
-            <button id="adsbReplayBtn" class="small-btn" style="background: #796eb5; color: #fff; font-weight: bold; width: 45px; font-size: 10px;" title="Open ADSB Replay">ADSB</button>
+            <button id="grabGkBtn" class="medium-btn accent-btn" title="Get Date from LiveATC">Get Date from LiveATC</button>
+            <button id="adsbReplayBtn" class="medium-btn adsb-btn" title="Open ADSB Replay">ADSB</button>
         </div>
 <div class="input-group">
     <input type="date" id="datePicker" style="flex: 1.2;">
